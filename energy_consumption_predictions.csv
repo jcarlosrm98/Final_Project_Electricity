@@ -1,0 +1,4530 @@
+Entity,Year,Energy_consumption,Type
+Afghanistan,2000,0.001152,Historical
+Afghanistan,2001,0.000902,Historical
+Afghanistan,2002,0.000803,Historical
+Afghanistan,2003,0.000876,Historical
+Afghanistan,2004,0.000778,Historical
+Afghanistan,2005,0.000960,Historical
+Afghanistan,2006,0.001159,Historical
+Afghanistan,2007,0.001349,Historical
+Afghanistan,2008,0.002315,Historical
+Afghanistan,2009,0.003713,Historical
+Afghanistan,2010,0.004505,Historical
+Afghanistan,2011,0.005469,Historical
+Afghanistan,2012,0.005043,Historical
+Afghanistan,2013,0.004040,Historical
+Afghanistan,2014,0.003308,Historical
+Afghanistan,2015,0.003694,Historical
+Afghanistan,2016,0.003286,Historical
+Afghanistan,2017,0.003158,Historical
+Afghanistan,2018,0.003520,Historical
+Afghanistan,2019,0.003057,Historical
+Afghanistan,2020,0.002677,Historical
+Afghanistan,2021,0.002472,Forecast
+Afghanistan,2022,0.002362,Forecast
+Afghanistan,2023,0.002302,Forecast
+Afghanistan,2024,0.002270,Forecast
+Afghanistan,2025,0.002253,Forecast
+Albania,2000,0.034387,Historical
+Albania,2001,0.032887,Historical
+Albania,2002,0.035964,Historical
+Albania,2003,0.040964,Historical
+Albania,2004,0.044126,Historical
+Albania,2005,0.043969,Historical
+Albania,2006,0.041802,Historical
+Albania,2007,0.036311,Historical
+Albania,2008,0.039984,Historical
+Albania,2009,0.043888,Historical
+Albania,2010,0.047137,Historical
+Albania,2011,0.041338,Historical
+Albania,2012,0.040569,Historical
+Albania,2013,0.051003,Historical
+Albania,2014,0.044974,Historical
+Albania,2015,0.045030,Historical
+Albania,2016,0.052645,Historical
+Albania,2017,0.048755,Historical
+Albania,2018,0.055638,Historical
+Albania,2019,0.044121,Historical
+Albania,2020,0.042493,Historical
+Albania,2021,0.042493,Forecast
+Albania,2022,0.042493,Forecast
+Albania,2023,0.042493,Forecast
+Albania,2024,0.042493,Forecast
+Albania,2025,0.042493,Forecast
+Algeria,2000,0.037117,Historical
+Algeria,2001,0.037937,Historical
+Algeria,2002,0.038770,Historical
+Algeria,2003,0.040027,Historical
+Algeria,2004,0.040973,Historical
+Algeria,2005,0.042324,Historical
+Algeria,2006,0.043193,Historical
+Algeria,2007,0.044784,Historical
+Algeria,2008,0.046660,Historical
+Algeria,2009,0.048567,Historical
+Algeria,2010,0.046625,Historical
+Algeria,2011,0.048405,Historical
+Algeria,2012,0.051887,Historical
+Algeria,2013,0.053814,Historical
+Algeria,2014,0.057538,Historical
+Algeria,2015,0.059471,Historical
+Algeria,2016,0.058248,Historical
+Algeria,2017,0.057749,Historical
+Algeria,2018,0.060822,Historical
+Algeria,2019,0.061919,Historical
+Algeria,2020,0.056872,Historical
+Algeria,2021,0.057860,Forecast
+Algeria,2022,0.058848,Forecast
+Algeria,2023,0.059835,Forecast
+Algeria,2024,0.060823,Forecast
+Algeria,2025,0.061811,Forecast
+Angola,2000,0.007538,Historical
+Angola,2001,0.007920,Historical
+Angola,2002,0.008163,Historical
+Angola,2003,0.008755,Historical
+Angola,2004,0.009348,Historical
+Angola,2005,0.007681,Historical
+Angola,2006,0.009343,Historical
+Angola,2007,0.010355,Historical
+Angola,2008,0.011699,Historical
+Angola,2009,0.012829,Historical
+Angola,2010,0.013558,Historical
+Angola,2011,0.013689,Historical
+Angola,2012,0.013769,Historical
+Angola,2013,0.014844,Historical
+Angola,2014,0.015747,Historical
+Angola,2015,0.015841,Historical
+Angola,2016,0.013944,Historical
+Angola,2017,0.012837,Historical
+Angola,2018,0.012820,Historical
+Angola,2019,0.013967,Historical
+Angola,2020,0.013432,Historical
+Angola,2021,0.013432,Forecast
+Angola,2022,0.013432,Forecast
+Angola,2023,0.013432,Forecast
+Angola,2024,0.013432,Forecast
+Angola,2025,0.013432,Forecast
+Antigua and Barbuda,2000,0.108373,Historical
+Antigua and Barbuda,2001,0.106728,Historical
+Antigua and Barbuda,2002,0.112955,Historical
+Antigua and Barbuda,2003,0.117387,Historical
+Antigua and Barbuda,2004,0.120426,Historical
+Antigua and Barbuda,2005,0.120853,Historical
+Antigua and Barbuda,2006,0.122972,Historical
+Antigua and Barbuda,2007,0.127105,Historical
+Antigua and Barbuda,2008,0.128099,Historical
+Antigua and Barbuda,2009,0.132182,Historical
+Antigua and Barbuda,2010,0.126071,Historical
+Antigua and Barbuda,2011,0.124211,Historical
+Antigua and Barbuda,2012,0.126280,Historical
+Antigua and Barbuda,2013,0.125117,Historical
+Antigua and Barbuda,2014,0.126865,Historical
+Antigua and Barbuda,2015,0.128837,Historical
+Antigua and Barbuda,2016,0.129822,Historical
+Antigua and Barbuda,2017,0.122752,Historical
+Antigua and Barbuda,2018,0.125773,Historical
+Antigua and Barbuda,2019,0.125778,Historical
+Antigua and Barbuda,2020,0.105814,Historical
+Antigua and Barbuda,2021,0.108145,Forecast
+Antigua and Barbuda,2022,0.110021,Forecast
+Antigua and Barbuda,2023,0.111529,Forecast
+Antigua and Barbuda,2024,0.112742,Forecast
+Antigua and Barbuda,2025,0.113718,Forecast
+Argentina,2000,0.071785,Historical
+Argentina,2001,0.069349,Historical
+Argentina,2002,0.065789,Historical
+Argentina,2003,0.069793,Historical
+Argentina,2004,0.073353,Historical
+Argentina,2005,0.077052,Historical
+Argentina,2006,0.080121,Historical
+Argentina,2007,0.082672,Historical
+Argentina,2008,0.082946,Historical
+Argentina,2009,0.079800,Historical
+Argentina,2010,0.081907,Historical
+Argentina,2011,0.083382,Historical
+Argentina,2012,0.085666,Historical
+Argentina,2013,0.088172,Historical
+Argentina,2014,0.087137,Historical
+Argentina,2015,0.087769,Historical
+Argentina,2016,0.086549,Historical
+Argentina,2017,0.085701,Historical
+Argentina,2018,0.084404,Historical
+Argentina,2019,0.078927,Historical
+Argentina,2020,0.073553,Historical
+Argentina,2021,0.070449,Forecast
+Argentina,2022,0.068655,Forecast
+Argentina,2023,0.067619,Forecast
+Argentina,2024,0.067021,Forecast
+Argentina,2025,0.066675,Forecast
+Armenia,2000,0.035304,Historical
+Armenia,2001,0.035112,Historical
+Armenia,2002,0.033938,Historical
+Armenia,2003,0.037573,Historical
+Armenia,2004,0.039203,Historical
+Armenia,2005,0.045689,Historical
+Armenia,2006,0.045933,Historical
+Armenia,2007,0.051922,Historical
+Armenia,2008,0.050461,Historical
+Armenia,2009,0.045377,Historical
+Armenia,2010,0.050846,Historical
+Armenia,2011,0.053848,Historical
+Armenia,2012,0.057345,Historical
+Armenia,2013,0.056511,Historical
+Armenia,2014,0.057829,Historical
+Armenia,2015,0.053792,Historical
+Armenia,2016,0.054417,Historical
+Armenia,2017,0.058276,Historical
+Armenia,2018,0.057634,Historical
+Armenia,2019,0.061615,Historical
+Armenia,2020,0.065068,Historical
+Armenia,2021,0.066557,Forecast
+Armenia,2022,0.068045,Forecast
+Armenia,2023,0.069533,Forecast
+Armenia,2024,0.071021,Forecast
+Armenia,2025,0.072509,Forecast
+Aruba,2000,0.188770,Historical
+Aruba,2001,0.191909,Historical
+Aruba,2002,0.196010,Historical
+Aruba,2003,0.216121,Historical
+Aruba,2004,0.223353,Historical
+Aruba,2005,0.238798,Historical
+Aruba,2006,0.235536,Historical
+Aruba,2007,0.239766,Historical
+Aruba,2008,0.222456,Historical
+Aruba,2009,0.219061,Historical
+Aruba,2010,0.203323,Historical
+Aruba,2011,0.160238,Historical
+Aruba,2012,0.199143,Historical
+Aruba,2013,0.191422,Historical
+Aruba,2014,0.192809,Historical
+Aruba,2015,0.197187,Historical
+Aruba,2016,0.190481,Historical
+Aruba,2017,0.196164,Historical
+Aruba,2018,0.188567,Historical
+Aruba,2019,0.194633,Historical
+Aruba,2020,0.165649,Historical
+Aruba,2021,0.175539,Forecast
+Aruba,2022,0.182403,Forecast
+Aruba,2023,0.187165,Forecast
+Aruba,2024,0.190471,Forecast
+Aruba,2025,0.192764,Forecast
+Australia,2000,0.261374,Historical
+Australia,2001,0.260251,Historical
+Australia,2002,0.262363,Historical
+Australia,2003,0.263087,Historical
+Australia,2004,0.268432,Historical
+Australia,2005,0.266264,Historical
+Australia,2006,0.273677,Historical
+Australia,2007,0.275357,Historical
+Australia,2008,0.274536,Historical
+Australia,2009,0.265398,Historical
+Australia,2010,0.260958,Historical
+Australia,2011,0.265491,Historical
+Australia,2012,0.257375,Historical
+Australia,2013,0.256324,Historical
+Australia,2014,0.254181,Historical
+Australia,2015,0.256049,Historical
+Australia,2016,0.252897,Historical
+Australia,2017,0.248095,Historical
+Australia,2018,0.247815,Historical
+Australia,2019,0.252350,Historical
+Australia,2020,0.235452,Historical
+Australia,2021,0.235452,Forecast
+Australia,2022,0.235452,Forecast
+Australia,2023,0.235452,Forecast
+Australia,2024,0.235452,Forecast
+Australia,2025,0.235452,Forecast
+Austria,2000,0.186085,Historical
+Austria,2001,0.192018,Historical
+Austria,2002,0.191384,Historical
+Austria,2003,0.192407,Historical
+Austria,2004,0.194753,Historical
+Austria,2005,0.196944,Historical
+Austria,2006,0.193924,Historical
+Austria,2007,0.189154,Historical
+Austria,2008,0.192223,Historical
+Austria,2009,0.185711,Historical
+Austria,2010,0.191332,Historical
+Austria,2011,0.179753,Historical
+Austria,2012,0.187271,Historical
+Austria,2013,0.184677,Historical
+Austria,2014,0.175929,Historical
+Austria,2015,0.173988,Historical
+Austria,2016,0.177842,Historical
+Austria,2017,0.180600,Historical
+Austria,2018,0.175891,Historical
+Austria,2019,0.183994,Historical
+Austria,2020,0.171480,Historical
+Austria,2021,0.179252,Forecast
+Austria,2022,0.174425,Forecast
+Austria,2023,0.177423,Forecast
+Austria,2024,0.175561,Forecast
+Austria,2025,0.176717,Forecast
+Azerbaijan,2000,0.061402,Historical
+Azerbaijan,2001,0.058502,Historical
+Azerbaijan,2002,0.057136,Historical
+Azerbaijan,2003,0.061220,Historical
+Azerbaijan,2004,0.068499,Historical
+Azerbaijan,2005,0.073399,Historical
+Azerbaijan,2006,0.071309,Historical
+Azerbaijan,2007,0.064800,Historical
+Azerbaijan,2008,0.064486,Historical
+Azerbaijan,2009,0.054645,Historical
+Azerbaijan,2010,0.053159,Historical
+Azerbaijan,2011,0.059652,Historical
+Azerbaijan,2012,0.060691,Historical
+Azerbaijan,2013,0.061258,Historical
+Azerbaijan,2014,0.061486,Historical
+Azerbaijan,2015,0.066411,Historical
+Azerbaijan,2016,0.065082,Historical
+Azerbaijan,2017,0.063266,Historical
+Azerbaijan,2018,0.064349,Historical
+Azerbaijan,2019,0.066823,Historical
+Azerbaijan,2020,0.067801,Historical
+Azerbaijan,2021,0.066032,Forecast
+Azerbaijan,2022,0.063745,Forecast
+Azerbaijan,2023,0.062343,Forecast
+Azerbaijan,2024,0.062100,Forecast
+Azerbaijan,2025,0.062572,Forecast
+Bahamas,2000,0.192890,Historical
+Bahamas,2001,0.193840,Historical
+Bahamas,2002,0.198407,Historical
+Bahamas,2003,0.136748,Historical
+Bahamas,2004,0.149542,Historical
+Bahamas,2005,0.141838,Historical
+Bahamas,2006,0.162475,Historical
+Bahamas,2007,0.184490,Historical
+Bahamas,2008,0.177733,Historical
+Bahamas,2009,0.131709,Historical
+Bahamas,2010,0.135312,Historical
+Bahamas,2011,0.117990,Historical
+Bahamas,2012,0.134899,Historical
+Bahamas,2013,0.124365,Historical
+Bahamas,2014,0.120997,Historical
+Bahamas,2015,0.114616,Historical
+Bahamas,2016,0.118998,Historical
+Bahamas,2017,0.140820,Historical
+Bahamas,2018,0.151862,Historical
+Bahamas,2019,0.150945,Historical
+Bahamas,2020,0.126822,Historical
+Bahamas,2021,0.126822,Forecast
+Bahamas,2022,0.126822,Forecast
+Bahamas,2023,0.126822,Forecast
+Bahamas,2024,0.126822,Forecast
+Bahamas,2025,0.126822,Forecast
+Bahrain,2000,0.598864,Historical
+Bahrain,2001,0.603840,Historical
+Bahrain,2002,0.628734,Historical
+Bahrain,2003,0.631638,Historical
+Bahrain,2004,0.610972,Historical
+Bahrain,2005,0.633375,Historical
+Bahrain,2006,0.627732,Historical
+Bahrain,2007,0.601421,Historical
+Bahrain,2008,0.590204,Historical
+Bahrain,2009,0.550100,Historical
+Bahrain,2010,0.540449,Historical
+Bahrain,2011,0.535431,Historical
+Bahrain,2012,0.569153,Historical
+Bahrain,2013,0.614525,Historical
+Bahrain,2014,0.586207,Historical
+Bahrain,2015,0.569234,Historical
+Bahrain,2016,0.548826,Historical
+Bahrain,2017,0.546360,Historical
+Bahrain,2018,0.541886,Historical
+Bahrain,2019,0.591801,Historical
+Bahrain,2020,0.594457,Historical
+Bahrain,2021,0.592614,Forecast
+Bahrain,2022,0.590072,Forecast
+Bahrain,2023,0.588242,Forecast
+Bahrain,2024,0.587294,Forecast
+Bahrain,2025,0.586958,Forecast
+Bangladesh,2000,0.004012,Historical
+Bangladesh,2001,0.004500,Historical
+Bangladesh,2002,0.004430,Historical
+Bangladesh,2003,0.004601,Historical
+Bangladesh,2004,0.004804,Historical
+Bangladesh,2005,0.005125,Historical
+Bangladesh,2006,0.005479,Historical
+Bangladesh,2007,0.005553,Historical
+Bangladesh,2008,0.005821,Historical
+Bangladesh,2009,0.006325,Historical
+Bangladesh,2010,0.006420,Historical
+Bangladesh,2011,0.006879,Historical
+Bangladesh,2012,0.007381,Historical
+Bangladesh,2013,0.007583,Historical
+Bangladesh,2014,0.007772,Historical
+Bangladesh,2015,0.009295,Historical
+Bangladesh,2016,0.009200,Historical
+Bangladesh,2017,0.009498,Historical
+Bangladesh,2018,0.010016,Historical
+Bangladesh,2019,0.011106,Historical
+Bangladesh,2020,0.010397,Historical
+Bangladesh,2021,0.011039,Forecast
+Bangladesh,2022,0.011374,Forecast
+Bangladesh,2023,0.011708,Forecast
+Bangladesh,2024,0.012043,Forecast
+Bangladesh,2025,0.012378,Forecast
+Barbados,2000,0.100227,Historical
+Barbados,2001,0.100014,Historical
+Barbados,2002,0.100278,Historical
+Barbados,2003,0.100952,Historical
+Barbados,2004,0.101324,Historical
+Barbados,2005,0.101738,Historical
+Barbados,2006,0.101612,Historical
+Barbados,2007,0.096582,Historical
+Barbados,2008,0.113386,Historical
+Barbados,2009,0.106410,Historical
+Barbados,2010,0.102213,Historical
+Barbados,2011,0.106968,Historical
+Barbados,2012,0.100279,Historical
+Barbados,2013,0.101592,Historical
+Barbados,2014,0.088151,Historical
+Barbados,2015,0.093569,Historical
+Barbados,2016,0.095271,Historical
+Barbados,2017,0.090145,Historical
+Barbados,2018,0.095571,Historical
+Barbados,2019,0.095862,Historical
+Barbados,2020,0.082174,Historical
+Barbados,2021,0.088956,Forecast
+Barbados,2022,0.088956,Forecast
+Barbados,2023,0.088956,Forecast
+Barbados,2024,0.088956,Forecast
+Barbados,2025,0.088956,Forecast
+Belarus,2000,0.094705,Historical
+Belarus,2001,0.092568,Historical
+Belarus,2002,0.096387,Historical
+Belarus,2003,0.096319,Historical
+Belarus,2004,0.108570,Historical
+Belarus,2005,0.108919,Historical
+Belarus,2006,0.116526,Historical
+Belarus,2007,0.114246,Historical
+Belarus,2008,0.116204,Historical
+Belarus,2009,0.110280,Historical
+Belarus,2010,0.119847,Historical
+Belarus,2011,0.117985,Historical
+Belarus,2012,0.127796,Historical
+Belarus,2013,0.115855,Historical
+Belarus,2014,0.115872,Historical
+Belarus,2015,0.104831,Historical
+Belarus,2016,0.107030,Historical
+Belarus,2017,0.109005,Historical
+Belarus,2018,0.120684,Historical
+Belarus,2019,0.121573,Historical
+Belarus,2020,0.113367,Historical
+Belarus,2021,0.107221,Forecast
+Belarus,2022,0.103507,Forecast
+Belarus,2023,0.107290,Forecast
+Belarus,2024,0.106141,Forecast
+Belarus,2025,0.107589,Forecast
+Belgium,2000,0.275797,Historical
+Belgium,2001,0.272199,Historical
+Belgium,2002,0.269737,Historical
+Belgium,2003,0.278848,Historical
+Belgium,2004,0.278485,Historical
+Belgium,2005,0.273796,Historical
+Belgium,2006,0.272853,Historical
+Belgium,2007,0.272910,Historical
+Belgium,2008,0.275407,Historical
+Belgium,2009,0.252390,Historical
+Belgium,2010,0.267723,Historical
+Belgium,2011,0.248049,Historical
+Belgium,2012,0.236456,Historical
+Belgium,2013,0.240753,Historical
+Belgium,2014,0.221774,Historical
+Belgium,2015,0.222587,Historical
+Belgium,2016,0.238757,Historical
+Belgium,2017,0.239530,Historical
+Belgium,2018,0.237579,Historical
+Belgium,2019,0.244310,Historical
+Belgium,2020,0.218724,Historical
+Belgium,2021,0.224390,Forecast
+Belgium,2022,0.221905,Forecast
+Belgium,2023,0.219419,Forecast
+Belgium,2024,0.216934,Forecast
+Belgium,2025,0.214448,Forecast
+Belize,2000,0.038230,Historical
+Belize,2001,0.040778,Historical
+Belize,2002,0.038245,Historical
+Belize,2003,0.036382,Historical
+Belize,2004,0.034005,Historical
+Belize,2005,0.035341,Historical
+Belize,2006,0.039480,Historical
+Belize,2007,0.036193,Historical
+Belize,2008,0.034029,Historical
+Belize,2009,0.034506,Historical
+Belize,2010,0.039958,Historical
+Belize,2011,0.034070,Historical
+Belize,2012,0.034606,Historical
+Belize,2013,0.036877,Historical
+Belize,2014,0.035880,Historical
+Belize,2015,0.038836,Historical
+Belize,2016,0.038094,Historical
+Belize,2017,0.041499,Historical
+Belize,2018,0.036354,Historical
+Belize,2019,0.037640,Historical
+Belize,2020,0.027520,Historical
+Belize,2021,0.036596,Forecast
+Belize,2022,0.036596,Forecast
+Belize,2023,0.036596,Forecast
+Belize,2024,0.036596,Forecast
+Belize,2025,0.036596,Forecast
+Benin,2000,0.003736,Historical
+Benin,2001,0.004126,Historical
+Benin,2002,0.004587,Historical
+Benin,2003,0.005168,Historical
+Benin,2004,0.005286,Historical
+Benin,2005,0.004808,Historical
+Benin,2006,0.006368,Historical
+Benin,2007,0.007306,Historical
+Benin,2008,0.007254,Historical
+Benin,2009,0.007823,Historical
+Benin,2010,0.008712,Historical
+Benin,2011,0.007888,Historical
+Benin,2012,0.007271,Historical
+Benin,2013,0.007197,Historical
+Benin,2014,0.007389,Historical
+Benin,2015,0.007935,Historical
+Benin,2016,0.009395,Historical
+Benin,2017,0.009674,Historical
+Benin,2018,0.010423,Historical
+Benin,2019,0.009201,Historical
+Benin,2020,0.009592,Historical
+Benin,2021,0.009884,Forecast
+Benin,2022,0.010177,Forecast
+Benin,2023,0.010470,Forecast
+Benin,2024,0.010763,Forecast
+Benin,2025,0.011056,Forecast
+Bermuda,2000,0.149657,Historical
+Bermuda,2001,0.150827,Historical
+Bermuda,2002,0.157777,Historical
+Bermuda,2003,0.156577,Historical
+Bermuda,2004,0.161433,Historical
+Bermuda,2005,0.169396,Historical
+Bermuda,2006,0.190967,Historical
+Bermuda,2007,0.221504,Historical
+Bermuda,2008,0.211573,Historical
+Bermuda,2009,0.166220,Historical
+Bermuda,2010,0.195434,Historical
+Bermuda,2011,0.126130,Historical
+Bermuda,2012,0.136349,Historical
+Bermuda,2013,0.137076,Historical
+Bermuda,2014,0.177952,Historical
+Bermuda,2015,0.150142,Historical
+Bermuda,2016,0.191324,Historical
+Bermuda,2017,0.188112,Historical
+Bermuda,2018,0.193702,Historical
+Bermuda,2019,0.192849,Historical
+Bermuda,2020,0.175796,Historical
+Bermuda,2021,0.174427,Forecast
+Bermuda,2022,0.170046,Forecast
+Bermuda,2023,0.170921,Forecast
+Bermuda,2024,0.170921,Forecast
+Bermuda,2025,0.170921,Forecast
+Bhutan,2000,0.032253,Historical
+Bhutan,2001,0.034658,Historical
+Bhutan,2002,0.037360,Historical
+Bhutan,2003,0.040589,Historical
+Bhutan,2004,0.038139,Historical
+Bhutan,2005,0.042347,Historical
+Bhutan,2006,0.067585,Historical
+Bhutan,2007,0.083415,Historical
+Bhutan,2008,0.085192,Historical
+Bhutan,2009,0.087343,Historical
+Bhutan,2010,0.092481,Historical
+Bhutan,2011,0.088998,Historical
+Bhutan,2012,0.085534,Historical
+Bhutan,2013,0.093741,Historical
+Bhutan,2014,0.088841,Historical
+Bhutan,2015,0.092175,Historical
+Bhutan,2016,0.094036,Historical
+Bhutan,2017,0.092645,Historical
+Bhutan,2018,0.088118,Historical
+Bhutan,2019,0.103782,Historical
+Bhutan,2020,0.101274,Historical
+Bhutan,2021,0.104724,Forecast
+Bhutan,2022,0.108175,Forecast
+Bhutan,2023,0.111625,Forecast
+Bhutan,2024,0.115076,Forecast
+Bhutan,2025,0.118526,Forecast
+Bosnia and Herzegovina,2000,0.058932,Historical
+Bosnia and Herzegovina,2001,0.058410,Historical
+Bosnia and Herzegovina,2002,0.058658,Historical
+Bosnia and Herzegovina,2003,0.051357,Historical
+Bosnia and Herzegovina,2004,0.053564,Historical
+Bosnia and Herzegovina,2005,0.050084,Historical
+Bosnia and Herzegovina,2006,0.051648,Historical
+Bosnia and Herzegovina,2007,0.049954,Historical
+Bosnia and Herzegovina,2008,0.057402,Historical
+Bosnia and Herzegovina,2009,0.070188,Historical
+Bosnia and Herzegovina,2010,0.076449,Historical
+Bosnia and Herzegovina,2011,0.075416,Historical
+Bosnia and Herzegovina,2012,0.074736,Historical
+Bosnia and Herzegovina,2013,0.077088,Historical
+Bosnia and Herzegovina,2014,0.075616,Historical
+Bosnia and Herzegovina,2015,0.076736,Historical
+Bosnia and Herzegovina,2016,0.079413,Historical
+Bosnia and Herzegovina,2017,0.079745,Historical
+Bosnia and Herzegovina,2018,0.082039,Historical
+Bosnia and Herzegovina,2019,0.078810,Historical
+Bosnia and Herzegovina,2020,0.074128,Historical
+Bosnia and Herzegovina,2021,0.074128,Forecast
+Bosnia and Herzegovina,2022,0.074128,Forecast
+Bosnia and Herzegovina,2023,0.074128,Forecast
+Bosnia and Herzegovina,2024,0.074128,Forecast
+Bosnia and Herzegovina,2025,0.074128,Forecast
+Botswana,2000,0.031642,Historical
+Botswana,2001,0.032603,Historical
+Botswana,2002,0.033580,Historical
+Botswana,2003,0.033728,Historical
+Botswana,2004,0.032643,Historical
+Botswana,2005,0.034077,Historical
+Botswana,2006,0.035725,Historical
+Botswana,2007,0.035969,Historical
+Botswana,2008,0.036665,Historical
+Botswana,2009,0.033589,Historical
+Botswana,2010,0.033899,Historical
+Botswana,2011,0.034851,Historical
+Botswana,2012,0.033788,Historical
+Botswana,2013,0.032908,Historical
+Botswana,2014,0.032421,Historical
+Botswana,2015,0.038738,Historical
+Botswana,2016,0.041755,Historical
+Botswana,2017,0.037625,Historical
+Botswana,2018,0.036549,Historical
+Botswana,2019,0.036057,Historical
+Botswana,2020,0.033677,Historical
+Botswana,2021,0.033564,Forecast
+Botswana,2022,0.034547,Forecast
+Botswana,2023,0.034721,Forecast
+Botswana,2024,0.034721,Forecast
+Botswana,2025,0.034721,Forecast
+Brazil,2000,0.051032,Historical
+Brazil,2001,0.049103,Historical
+Brazil,2002,0.049591,Historical
+Brazil,2003,0.049934,Historical
+Brazil,2004,0.051769,Historical
+Brazil,2005,0.052526,Historical
+Brazil,2006,0.053395,Historical
+Brazil,2007,0.056250,Historical
+Brazil,2008,0.058096,Historical
+Brazil,2009,0.057140,Historical
+Brazil,2010,0.061774,Historical
+Brazil,2011,0.063331,Historical
+Brazil,2012,0.064602,Historical
+Brazil,2013,0.065584,Historical
+Brazil,2014,0.066717,Historical
+Brazil,2015,0.065274,Historical
+Brazil,2016,0.063186,Historical
+Brazil,2017,0.063251,Historical
+Brazil,2018,0.062986,Historical
+Brazil,2019,0.063530,Historical
+Brazil,2020,0.060633,Historical
+Brazil,2021,0.060633,Forecast
+Brazil,2022,0.060633,Forecast
+Brazil,2023,0.060633,Forecast
+Brazil,2024,0.060633,Forecast
+Brazil,2025,0.060633,Forecast
+Bulgaria,2000,0.102289,Historical
+Bulgaria,2001,0.106558,Historical
+Bulgaria,2002,0.104135,Historical
+Bulgaria,2003,0.108438,Historical
+Bulgaria,2004,0.105552,Historical
+Bulgaria,2005,0.115098,Historical
+Bulgaria,2006,0.118069,Historical
+Bulgaria,2007,0.114837,Historical
+Bulgaria,2008,0.114281,Historical
+Bulgaria,2009,0.100867,Historical
+Bulgaria,2010,0.106109,Historical
+Bulgaria,2011,0.113460,Historical
+Bulgaria,2012,0.108658,Historical
+Bulgaria,2013,0.101525,Historical
+Bulgaria,2014,0.109282,Historical
+Bulgaria,2015,0.117063,Historical
+Bulgaria,2016,0.112008,Historical
+Bulgaria,2017,0.115681,Historical
+Bulgaria,2018,0.117082,Historical
+Bulgaria,2019,0.114233,Historical
+Bulgaria,2020,0.106609,Historical
+Bulgaria,2021,0.107607,Forecast
+Bulgaria,2022,0.109800,Forecast
+Bulgaria,2023,0.109800,Forecast
+Bulgaria,2024,0.109800,Forecast
+Bulgaria,2025,0.109800,Forecast
+Burkina Faso,2000,0.001365,Historical
+Burkina Faso,2001,0.001472,Historical
+Burkina Faso,2002,0.001495,Historical
+Burkina Faso,2003,0.001604,Historical
+Burkina Faso,2004,0.001400,Historical
+Burkina Faso,2005,0.001441,Historical
+Burkina Faso,2006,0.001377,Historical
+Burkina Faso,2007,0.001892,Historical
+Burkina Faso,2008,0.002006,Historical
+Burkina Faso,2009,0.001830,Historical
+Burkina Faso,2010,0.001940,Historical
+Burkina Faso,2011,0.002145,Historical
+Burkina Faso,2012,0.002454,Historical
+Burkina Faso,2013,0.002855,Historical
+Burkina Faso,2014,0.002581,Historical
+Burkina Faso,2015,0.003184,Historical
+Burkina Faso,2016,0.002971,Historical
+Burkina Faso,2017,0.003346,Historical
+Burkina Faso,2018,0.003619,Historical
+Burkina Faso,2019,0.003606,Historical
+Burkina Faso,2020,0.003347,Historical
+Burkina Faso,2021,0.003586,Forecast
+Burkina Faso,2022,0.003691,Forecast
+Burkina Faso,2023,0.003796,Forecast
+Burkina Faso,2024,0.003900,Forecast
+Burkina Faso,2025,0.004005,Forecast
+Burundi,2000,0.000998,Historical
+Burundi,2001,0.000829,Historical
+Burundi,2002,0.000762,Historical
+Burundi,2003,0.000599,Historical
+Burundi,2004,0.000665,Historical
+Burundi,2005,0.000556,Historical
+Burundi,2006,0.000622,Historical
+Burundi,2007,0.000938,Historical
+Burundi,2008,0.000592,Historical
+Burundi,2009,0.000568,Historical
+Burundi,2010,0.000760,Historical
+Burundi,2011,0.000863,Historical
+Burundi,2012,0.000784,Historical
+Burundi,2013,0.000826,Historical
+Burundi,2014,0.000747,Historical
+Burundi,2015,0.000738,Historical
+Burundi,2016,0.000794,Historical
+Burundi,2017,0.000940,Historical
+Burundi,2018,0.001107,Historical
+Burundi,2019,0.001178,Historical
+Burundi,2020,0.001101,Historical
+Burundi,2021,0.001088,Forecast
+Burundi,2022,0.001079,Forecast
+Burundi,2023,0.001067,Forecast
+Burundi,2024,0.001057,Forecast
+Burundi,2025,0.001046,Forecast
+Cambodia,2000,0.002816,Historical
+Cambodia,2001,0.002930,Historical
+Cambodia,2002,0.002872,Historical
+Cambodia,2003,0.003061,Historical
+Cambodia,2004,0.003098,Historical
+Cambodia,2005,0.003465,Historical
+Cambodia,2006,0.003686,Historical
+Cambodia,2007,0.004251,Historical
+Cambodia,2008,0.004388,Historical
+Cambodia,2009,0.005331,Historical
+Cambodia,2010,0.006060,Historical
+Cambodia,2011,0.006184,Historical
+Cambodia,2012,0.006793,Historical
+Cambodia,2013,0.007107,Historical
+Cambodia,2014,0.007737,Historical
+Cambodia,2015,0.008756,Historical
+Cambodia,2016,0.010773,Historical
+Cambodia,2017,0.011236,Historical
+Cambodia,2018,0.013995,Historical
+Cambodia,2019,0.015498,Historical
+Cambodia,2020,0.014923,Historical
+Cambodia,2021,0.015529,Forecast
+Cambodia,2022,0.016134,Forecast
+Cambodia,2023,0.016739,Forecast
+Cambodia,2024,0.017345,Forecast
+Cambodia,2025,0.017950,Forecast
+Cameroon,2000,0.006000,Historical
+Cameroon,2001,0.005826,Historical
+Cameroon,2002,0.005589,Historical
+Cameroon,2003,0.005825,Historical
+Cameroon,2004,0.005908,Historical
+Cameroon,2005,0.005548,Historical
+Cameroon,2006,0.006118,Historical
+Cameroon,2007,0.006274,Historical
+Cameroon,2008,0.006190,Historical
+Cameroon,2009,0.006458,Historical
+Cameroon,2010,0.007183,Historical
+Cameroon,2011,0.007355,Historical
+Cameroon,2012,0.007134,Historical
+Cameroon,2013,0.006094,Historical
+Cameroon,2014,0.007394,Historical
+Cameroon,2015,0.007192,Historical
+Cameroon,2016,0.006801,Historical
+Cameroon,2017,0.006716,Historical
+Cameroon,2018,0.006652,Historical
+Cameroon,2019,0.006551,Historical
+Cameroon,2020,0.006695,Historical
+Cameroon,2021,0.006695,Forecast
+Cameroon,2022,0.006695,Forecast
+Cameroon,2023,0.006695,Forecast
+Cameroon,2024,0.006695,Forecast
+Cameroon,2025,0.006695,Forecast
+Canada,2000,0.452711,Historical
+Canada,2001,0.438785,Historical
+Canada,2002,0.449055,Historical
+Canada,2003,0.446959,Historical
+Canada,2004,0.449674,Historical
+Canada,2005,0.448405,Historical
+Canada,2006,0.441556,Historical
+Canada,2007,0.453789,Historical
+Canada,2008,0.443585,Historical
+Canada,2009,0.421446,Historical
+Canada,2010,0.420761,Historical
+Canada,2011,0.432047,Historical
+Canada,2012,0.428762,Historical
+Canada,2013,0.434339,Historical
+Canada,2014,0.431091,Historical
+Canada,2015,0.429923,Historical
+Canada,2016,0.419599,Historical
+Canada,2017,0.420852,Historical
+Canada,2018,0.419137,Historical
+Canada,2019,0.411221,Historical
+Canada,2020,0.382722,Historical
+Canada,2021,0.379222,Forecast
+Canada,2022,0.375723,Forecast
+Canada,2023,0.372224,Forecast
+Canada,2024,0.368724,Forecast
+Canada,2025,0.365225,Forecast
+Cayman Islands,2000,0.199880,Historical
+Cayman Islands,2001,0.195555,Historical
+Cayman Islands,2002,0.196000,Historical
+Cayman Islands,2003,0.192194,Historical
+Cayman Islands,2004,0.175927,Historical
+Cayman Islands,2005,0.175533,Historical
+Cayman Islands,2006,0.172685,Historical
+Cayman Islands,2007,0.200289,Historical
+Cayman Islands,2008,0.199750,Historical
+Cayman Islands,2009,0.180142,Historical
+Cayman Islands,2010,0.176043,Historical
+Cayman Islands,2011,0.180601,Historical
+Cayman Islands,2012,0.162834,Historical
+Cayman Islands,2013,0.157018,Historical
+Cayman Islands,2014,0.156053,Historical
+Cayman Islands,2015,0.161398,Historical
+Cayman Islands,2016,0.155804,Historical
+Cayman Islands,2017,0.176955,Historical
+Cayman Islands,2018,0.161879,Historical
+Cayman Islands,2019,0.192439,Historical
+Cayman Islands,2020,0.159877,Historical
+Cayman Islands,2021,0.176065,Forecast
+Cayman Islands,2022,0.168017,Forecast
+Cayman Islands,2023,0.172018,Forecast
+Cayman Islands,2024,0.170029,Forecast
+Cayman Islands,2025,0.171018,Forecast
+Central African Republic,2000,0.001465,Historical
+Central African Republic,2001,0.001471,Historical
+Central African Republic,2002,0.001423,Historical
+Central African Republic,2003,0.001306,Historical
+Central African Republic,2004,0.001368,Historical
+Central African Republic,2005,0.001341,Historical
+Central African Republic,2006,0.001364,Historical
+Central African Republic,2007,0.001330,Historical
+Central African Republic,2008,0.001053,Historical
+Central African Republic,2009,0.000992,Historical
+Central African Republic,2010,0.000990,Historical
+Central African Republic,2011,0.001064,Historical
+Central African Republic,2012,0.001076,Historical
+Central African Republic,2013,0.000788,Historical
+Central African Republic,2014,0.000907,Historical
+Central African Republic,2015,0.001131,Historical
+Central African Republic,2016,0.001170,Historical
+Central African Republic,2017,0.001149,Historical
+Central African Republic,2018,0.001152,Historical
+Central African Republic,2019,0.001139,Historical
+Central African Republic,2020,0.001069,Historical
+Central African Republic,2021,0.001069,Forecast
+Central African Republic,2022,0.001069,Forecast
+Central African Republic,2023,0.001069,Forecast
+Central African Republic,2024,0.001069,Forecast
+Central African Republic,2025,0.001069,Forecast
+Chad,2000,0.000476,Historical
+Chad,2001,0.000442,Historical
+Chad,2002,0.000421,Historical
+Chad,2003,0.000400,Historical
+Chad,2004,0.000403,Historical
+Chad,2005,0.000417,Historical
+Chad,2006,0.000409,Historical
+Chad,2007,0.000436,Historical
+Chad,2008,0.000442,Historical
+Chad,2009,0.000465,Historical
+Chad,2010,0.000499,Historical
+Chad,2011,0.000689,Historical
+Chad,2012,0.001152,Historical
+Chad,2013,0.001153,Historical
+Chad,2014,0.001157,Historical
+Chad,2015,0.001136,Historical
+Chad,2016,0.001091,Historical
+Chad,2017,0.001699,Historical
+Chad,2018,0.001741,Historical
+Chad,2019,0.001745,Historical
+Chad,2020,0.001419,Historical
+Chad,2021,0.001419,Forecast
+Chad,2022,0.001419,Forecast
+Chad,2023,0.001419,Forecast
+Chad,2024,0.001419,Forecast
+Chad,2025,0.001419,Forecast
+Chile,2000,0.076254,Historical
+Chile,2001,0.076869,Historical
+Chile,2002,0.077846,Historical
+Chile,2003,0.077440,Historical
+Chile,2004,0.081857,Historical
+Chile,2005,0.084128,Historical
+Chile,2006,0.086189,Historical
+Chile,2007,0.085259,Historical
+Chile,2008,0.084412,Historical
+Chile,2009,0.080171,Historical
+Chile,2010,0.081510,Historical
+Chile,2011,0.085533,Historical
+Chile,2012,0.088444,Historical
+Chile,2013,0.089990,Historical
+Chile,2014,0.088178,Historical
+Chile,2015,0.088276,Historical
+Chile,2016,0.091376,Historical
+Chile,2017,0.093369,Historical
+Chile,2018,0.095358,Historical
+Chile,2019,0.094805,Historical
+Chile,2020,0.087308,Historical
+Chile,2021,0.087308,Forecast
+Chile,2022,0.087308,Forecast
+Chile,2023,0.087308,Forecast
+Chile,2024,0.087308,Forecast
+Chile,2025,0.087308,Forecast
+China,2000,0.035550,Historical
+China,2001,0.037313,Historical
+China,2002,0.040376,Historical
+China,2003,0.046740,Historical
+China,2004,0.054355,Historical
+China,2005,0.061367,Historical
+China,2006,0.066846,Historical
+China,2007,0.072186,Historical
+China,2008,0.074493,Historical
+China,2009,0.077236,Historical
+China,2010,0.082074,Historical
+China,2011,0.087937,Historical
+China,2012,0.090916,Historical
+China,2013,0.093685,Historical
+China,2014,0.095481,Historical
+China,2015,0.096005,Historical
+China,2016,0.095835,Historical
+China,2017,0.098968,Historical
+China,2018,0.103240,Historical
+China,2019,0.107688,Historical
+China,2020,0.110950,Historical
+China,2021,0.113857,Forecast
+China,2022,0.116964,Forecast
+China,2023,0.120427,Forecast
+China,2024,0.124137,Forecast
+China,2025,0.127924,Forecast
+Colombia,2000,0.030511,Historical
+Colombia,2001,0.030291,Historical
+Colombia,2002,0.029836,Historical
+Colombia,2003,0.029947,Historical
+Colombia,2004,0.031046,Historical
+Colombia,2005,0.030154,Historical
+Colombia,2006,0.034366,Historical
+Colombia,2007,0.034495,Historical
+Colombia,2008,0.035504,Historical
+Colombia,2009,0.034701,Historical
+Colombia,2010,0.036081,Historical
+Colombia,2011,0.037302,Historical
+Colombia,2012,0.039256,Historical
+Colombia,2013,0.039949,Historical
+Colombia,2014,0.041657,Historical
+Colombia,2015,0.039069,Historical
+Colombia,2016,0.043549,Historical
+Colombia,2017,0.043296,Historical
+Colombia,2018,0.043156,Historical
+Colombia,2019,0.042736,Historical
+Colombia,2020,0.038328,Historical
+Colombia,2021,0.038328,Forecast
+Colombia,2022,0.038328,Forecast
+Colombia,2023,0.038328,Forecast
+Colombia,2024,0.038328,Forecast
+Colombia,2025,0.038328,Forecast
+Comoros,2000,0.003110,Historical
+Comoros,2001,0.003181,Historical
+Comoros,2002,0.003137,Historical
+Comoros,2003,0.003931,Historical
+Comoros,2004,0.004233,Historical
+Comoros,2005,0.003987,Historical
+Comoros,2006,0.004549,Historical
+Comoros,2007,0.002946,Historical
+Comoros,2008,0.002943,Historical
+Comoros,2009,0.003517,Historical
+Comoros,2010,0.004091,Historical
+Comoros,2011,0.003598,Historical
+Comoros,2012,0.003661,Historical
+Comoros,2013,0.004276,Historical
+Comoros,2014,0.003738,Historical
+Comoros,2015,0.003947,Historical
+Comoros,2016,0.004528,Historical
+Comoros,2017,0.005684,Historical
+Comoros,2018,0.006068,Historical
+Comoros,2019,0.006420,Historical
+Comoros,2020,0.006010,Historical
+Comoros,2021,0.006010,Forecast
+Comoros,2022,0.006010,Forecast
+Comoros,2023,0.006010,Forecast
+Comoros,2024,0.006010,Forecast
+Comoros,2025,0.006010,Forecast
+Congo,2000,0.004675,Historical
+Congo,2001,0.005527,Historical
+Congo,2002,0.004996,Historical
+Congo,2003,0.005557,Historical
+Congo,2004,0.005698,Historical
+Congo,2005,0.007430,Historical
+Congo,2006,0.008534,Historical
+Congo,2007,0.010121,Historical
+Congo,2008,0.011145,Historical
+Congo,2009,0.012993,Historical
+Congo,2010,0.016985,Historical
+Congo,2011,0.019753,Historical
+Congo,2012,0.019706,Historical
+Congo,2013,0.024319,Historical
+Congo,2014,0.022590,Historical
+Congo,2015,0.022244,Historical
+Congo,2016,0.020755,Historical
+Congo,2017,0.015177,Historical
+Congo,2018,0.013730,Historical
+Congo,2019,0.010944,Historical
+Congo,2020,0.009062,Historical
+Congo,2021,0.008362,Forecast
+Congo,2022,0.007764,Forecast
+Congo,2023,0.007190,Forecast
+Congo,2024,0.006645,Forecast
+Congo,2025,0.006132,Forecast
+Costa Rica,2000,0.040746,Historical
+Costa Rica,2001,0.040722,Historical
+Costa Rica,2002,0.041680,Historical
+Costa Rica,2003,0.041858,Historical
+Costa Rica,2004,0.042507,Historical
+Costa Rica,2005,0.043535,Historical
+Costa Rica,2006,0.044785,Historical
+Costa Rica,2007,0.046665,Historical
+Costa Rica,2008,0.046619,Historical
+Costa Rica,2009,0.044739,Historical
+Costa Rica,2010,0.044887,Historical
+Costa Rica,2011,0.044569,Historical
+Costa Rica,2012,0.044455,Historical
+Costa Rica,2013,0.044246,Historical
+Costa Rica,2014,0.044659,Historical
+Costa Rica,2015,0.046120,Historical
+Costa Rica,2016,0.046849,Historical
+Costa Rica,2017,0.048174,Historical
+Costa Rica,2018,0.048757,Historical
+Costa Rica,2019,0.049555,Historical
+Costa Rica,2020,0.043743,Historical
+Costa Rica,2021,0.043743,Forecast
+Costa Rica,2022,0.043743,Forecast
+Costa Rica,2023,0.043743,Forecast
+Costa Rica,2024,0.043743,Forecast
+Costa Rica,2025,0.043743,Forecast
+Croatia,2000,0.080838,Historical
+Croatia,2001,0.085783,Historical
+Croatia,2002,0.086330,Historical
+Croatia,2003,0.090760,Historical
+Croatia,2004,0.094742,Historical
+Croatia,2005,0.093954,Historical
+Croatia,2006,0.093061,Historical
+Croatia,2007,0.093752,Historical
+Croatia,2008,0.093493,Historical
+Croatia,2009,0.092544,Historical
+Croatia,2010,0.094376,Historical
+Croatia,2011,0.082651,Historical
+Croatia,2012,0.077012,Historical
+Croatia,2013,0.084912,Historical
+Croatia,2014,0.085348,Historical
+Croatia,2015,0.081467,Historical
+Croatia,2016,0.085412,Historical
+Croatia,2017,0.086098,Historical
+Croatia,2018,0.089851,Historical
+Croatia,2019,0.088355,Historical
+Croatia,2020,0.084942,Historical
+Croatia,2021,0.087197,Forecast
+Croatia,2022,0.087646,Forecast
+Croatia,2023,0.087646,Forecast
+Croatia,2024,0.087646,Forecast
+Croatia,2025,0.087646,Forecast
+Cuba,2000,0.037641,Historical
+Cuba,2001,0.034561,Historical
+Cuba,2002,0.034878,Historical
+Cuba,2003,0.035310,Historical
+Cuba,2004,0.035668,Historical
+Cuba,2005,0.035033,Historical
+Cuba,2006,0.034102,Historical
+Cuba,2007,0.034414,Historical
+Cuba,2008,0.039343,Historical
+Cuba,2009,0.039616,Historical
+Cuba,2010,0.044987,Historical
+Cuba,2011,0.040380,Historical
+Cuba,2012,0.043907,Historical
+Cuba,2013,0.042173,Historical
+Cuba,2014,0.042871,Historical
+Cuba,2015,0.042957,Historical
+Cuba,2016,0.033514,Historical
+Cuba,2017,0.035639,Historical
+Cuba,2018,0.037394,Historical
+Cuba,2019,0.036583,Historical
+Cuba,2020,0.034302,Historical
+Cuba,2021,0.035512,Forecast
+Cuba,2022,0.036277,Forecast
+Cuba,2023,0.036761,Forecast
+Cuba,2024,0.037067,Forecast
+Cuba,2025,0.037260,Forecast
+Cyprus,2000,0.121534,Historical
+Cyprus,2001,0.120818,Historical
+Cyprus,2002,0.117040,Historical
+Cyprus,2003,0.122158,Historical
+Cyprus,2004,0.116745,Historical
+Cyprus,2005,0.128499,Historical
+Cyprus,2006,0.124166,Historical
+Cyprus,2007,0.124073,Historical
+Cyprus,2008,0.124997,Historical
+Cyprus,2009,0.119987,Historical
+Cyprus,2010,0.114805,Historical
+Cyprus,2011,0.112161,Historical
+Cyprus,2012,0.104068,Historical
+Cyprus,2013,0.092284,Historical
+Cyprus,2014,0.091549,Historical
+Cyprus,2015,0.093611,Historical
+Cyprus,2016,0.100897,Historical
+Cyprus,2017,0.102715,Historical
+Cyprus,2018,0.101429,Historical
+Cyprus,2019,0.100700,Historical
+Cyprus,2020,0.087030,Historical
+Cyprus,2021,0.087030,Forecast
+Cyprus,2022,0.087030,Forecast
+Cyprus,2023,0.087030,Forecast
+Cyprus,2024,0.087030,Forecast
+Cyprus,2025,0.087030,Forecast
+Czechia,2000,0.176560,Historical
+Czechia,2001,0.180645,Historical
+Czechia,2002,0.181058,Historical
+Czechia,2003,0.191212,Historical
+Czechia,2004,0.195897,Historical
+Czechia,2005,0.192498,Historical
+Czechia,2006,0.195667,Historical
+Czechia,2007,0.192924,Historical
+Czechia,2008,0.188465,Historical
+Czechia,2009,0.180085,Historical
+Czechia,2010,0.186925,Historical
+Czechia,2011,0.182126,Historical
+Czechia,2012,0.180952,Historical
+Czechia,2013,0.177554,Historical
+Czechia,2014,0.173785,Historical
+Czechia,2015,0.170339,Historical
+Czechia,2016,0.167984,Historical
+Czechia,2017,0.177401,Historical
+Czechia,2018,0.176783,Historical
+Czechia,2019,0.172726,Historical
+Czechia,2020,0.160044,Historical
+Czechia,2021,0.160044,Forecast
+Czechia,2022,0.160044,Forecast
+Czechia,2023,0.160044,Forecast
+Czechia,2024,0.160044,Forecast
+Czechia,2025,0.160044,Forecast
+Denmark,2000,0.168656,Historical
+Denmark,2001,0.168519,Historical
+Denmark,2002,0.167630,Historical
+Denmark,2003,0.180121,Historical
+Denmark,2004,0.169931,Historical
+Denmark,2005,0.159439,Historical
+Denmark,2006,0.175530,Historical
+Denmark,2007,0.165845,Historical
+Denmark,2008,0.156837,Historical
+Denmark,2009,0.147865,Historical
+Denmark,2010,0.156382,Historical
+Denmark,2011,0.146261,Historical
+Denmark,2012,0.135438,Historical
+Denmark,2013,0.140665,Historical
+Denmark,2014,0.134792,Historical
+Denmark,2015,0.130673,Historical
+Denmark,2016,0.132021,Historical
+Denmark,2017,0.131980,Historical
+Denmark,2018,0.129642,Historical
+Denmark,2019,0.126204,Historical
+Denmark,2020,0.111889,Historical
+Denmark,2021,0.114058,Forecast
+Denmark,2022,0.114018,Forecast
+Denmark,2023,0.111097,Forecast
+Denmark,2024,0.108176,Forecast
+Denmark,2025,0.105254,Forecast
+Djibouti,2000,0.018136,Historical
+Djibouti,2001,0.017515,Historical
+Djibouti,2002,0.017040,Historical
+Djibouti,2003,0.017297,Historical
+Djibouti,2004,0.016578,Historical
+Djibouti,2005,0.015441,Historical
+Djibouti,2006,0.014155,Historical
+Djibouti,2007,0.014423,Historical
+Djibouti,2008,0.015806,Historical
+Djibouti,2009,0.013448,Historical
+Djibouti,2010,0.015013,Historical
+Djibouti,2011,0.011127,Historical
+Djibouti,2012,0.014414,Historical
+Djibouti,2013,0.014611,Historical
+Djibouti,2014,0.015934,Historical
+Djibouti,2015,0.013812,Historical
+Djibouti,2016,0.012985,Historical
+Djibouti,2017,0.011562,Historical
+Djibouti,2018,0.011933,Historical
+Djibouti,2019,0.010849,Historical
+Djibouti,2020,0.010289,Historical
+Djibouti,2021,0.009999,Forecast
+Djibouti,2022,0.009564,Forecast
+Djibouti,2023,0.009207,Forecast
+Djibouti,2024,0.008808,Forecast
+Djibouti,2025,0.008432,Forecast
+Dominica,2000,0.029484,Historical
+Dominica,2001,0.031655,Historical
+Dominica,2002,0.029783,Historical
+Dominica,2003,0.033141,Historical
+Dominica,2004,0.039186,Historical
+Dominica,2005,0.037499,Historical
+Dominica,2006,0.037352,Historical
+Dominica,2007,0.045109,Historical
+Dominica,2008,0.040609,Historical
+Dominica,2009,0.041230,Historical
+Dominica,2010,0.043139,Historical
+Dominica,2011,0.043714,Historical
+Dominica,2012,0.041971,Historical
+Dominica,2013,0.041968,Historical
+Dominica,2014,0.042963,Historical
+Dominica,2015,0.044217,Historical
+Dominica,2016,0.046188,Historical
+Dominica,2017,0.042937,Historical
+Dominica,2018,0.044016,Historical
+Dominica,2019,0.042081,Historical
+Dominica,2020,0.038297,Historical
+Dominica,2021,0.038533,Forecast
+Dominica,2022,0.036798,Forecast
+Dominica,2023,0.033637,Forecast
+Dominica,2024,0.032095,Forecast
+Dominica,2025,0.029893,Forecast
+Dominican Republic,2000,0.038441,Historical
+Dominican Republic,2001,0.036816,Historical
+Dominican Republic,2002,0.038330,Historical
+Dominican Republic,2003,0.034673,Historical
+Dominican Republic,2004,0.031829,Historical
+Dominican Republic,2005,0.034522,Historical
+Dominican Republic,2006,0.034014,Historical
+Dominican Republic,2007,0.034527,Historical
+Dominican Republic,2008,0.033894,Historical
+Dominican Republic,2009,0.033052,Historical
+Dominican Republic,2010,0.034204,Historical
+Dominican Republic,2011,0.033223,Historical
+Dominican Republic,2012,0.036408,Historical
+Dominican Republic,2013,0.034283,Historical
+Dominican Republic,2014,0.032515,Historical
+Dominican Republic,2015,0.035625,Historical
+Dominican Republic,2016,0.037455,Historical
+Dominican Republic,2017,0.036527,Historical
+Dominican Republic,2018,0.039940,Historical
+Dominican Republic,2019,0.042266,Historical
+Dominican Republic,2020,0.036166,Historical
+Dominican Republic,2021,0.034179,Forecast
+Dominican Republic,2022,0.035686,Forecast
+Dominican Republic,2023,0.035686,Forecast
+Dominican Republic,2024,0.035686,Forecast
+Dominican Republic,2025,0.035686,Forecast
+Ecuador,2000,0.031406,Historical
+Ecuador,2001,0.031272,Historical
+Ecuador,2002,0.030334,Historical
+Ecuador,2003,0.030523,Historical
+Ecuador,2004,0.032092,Historical
+Ecuador,2005,0.033388,Historical
+Ecuador,2006,0.034711,Historical
+Ecuador,2007,0.035874,Historical
+Ecuador,2008,0.037641,Historical
+Ecuador,2009,0.036114,Historical
+Ecuador,2010,0.039429,Historical
+Ecuador,2011,0.041149,Historical
+Ecuador,2012,0.042779,Historical
+Ecuador,2013,0.043479,Historical
+Ecuador,2014,0.044999,Historical
+Ecuador,2015,0.044217,Historical
+Ecuador,2016,0.043413,Historical
+Ecuador,2017,0.044398,Historical
+Ecuador,2018,0.046081,Historical
+Ecuador,2019,0.046310,Historical
+Ecuador,2020,0.039510,Historical
+Ecuador,2021,0.039510,Forecast
+Ecuador,2022,0.039510,Forecast
+Ecuador,2023,0.039510,Forecast
+Ecuador,2024,0.039510,Forecast
+Ecuador,2025,0.039510,Forecast
+Egypt,2000,0.030336,Historical
+Egypt,2001,0.031014,Historical
+Egypt,2002,0.031239,Historical
+Egypt,2003,0.032386,Historical
+Egypt,2004,0.033506,Historical
+Egypt,2005,0.033684,Historical
+Egypt,2006,0.034793,Historical
+Egypt,2007,0.036341,Historical
+Egypt,2008,0.037783,Historical
+Egypt,2009,0.038379,Historical
+Egypt,2010,0.039069,Historical
+Egypt,2011,0.040050,Historical
+Egypt,2012,0.040704,Historical
+Egypt,2013,0.039484,Historical
+Egypt,2014,0.038081,Historical
+Egypt,2015,0.037868,Historical
+Egypt,2016,0.039142,Historical
+Egypt,2017,0.039879,Historical
+Egypt,2018,0.039175,Historical
+Egypt,2019,0.037776,Historical
+Egypt,2020,0.034861,Historical
+Egypt,2021,0.031945,Forecast
+Egypt,2022,0.029030,Forecast
+Egypt,2023,0.026114,Forecast
+Egypt,2024,0.023198,Forecast
+Egypt,2025,0.020283,Forecast
+El Salvador,2000,0.018792,Historical
+El Salvador,2001,0.019417,Historical
+El Salvador,2002,0.019812,Historical
+El Salvador,2003,0.021083,Historical
+El Salvador,2004,0.020996,Historical
+El Salvador,2005,0.021714,Historical
+El Salvador,2006,0.022963,Historical
+El Salvador,2007,0.023905,Historical
+El Salvador,2008,0.023368,Historical
+El Salvador,2009,0.022443,Historical
+El Salvador,2010,0.023165,Historical
+El Salvador,2011,0.023110,Historical
+El Salvador,2012,0.023217,Historical
+El Salvador,2013,0.022481,Historical
+El Salvador,2014,0.022907,Historical
+El Salvador,2015,0.023612,Historical
+El Salvador,2016,0.023732,Historical
+El Salvador,2017,0.023509,Historical
+El Salvador,2018,0.025309,Historical
+El Salvador,2019,0.027692,Historical
+El Salvador,2020,0.025575,Historical
+El Salvador,2021,0.025914,Forecast
+El Salvador,2022,0.026253,Forecast
+El Salvador,2023,0.026592,Forecast
+El Salvador,2024,0.026931,Forecast
+El Salvador,2025,0.027271,Forecast
+Equatorial Guinea,2000,0.018094,Historical
+Equatorial Guinea,2001,0.009804,Historical
+Equatorial Guinea,2002,0.142701,Historical
+Equatorial Guinea,2003,0.147653,Historical
+Equatorial Guinea,2004,0.028652,Historical
+Equatorial Guinea,2005,0.099605,Historical
+Equatorial Guinea,2006,0.116221,Historical
+Equatorial Guinea,2007,0.122675,Historical
+Equatorial Guinea,2008,0.115893,Historical
+Equatorial Guinea,2009,0.117062,Historical
+Equatorial Guinea,2010,0.107214,Historical
+Equatorial Guinea,2011,0.110225,Historical
+Equatorial Guinea,2012,0.102786,Historical
+Equatorial Guinea,2013,0.101760,Historical
+Equatorial Guinea,2014,0.092001,Historical
+Equatorial Guinea,2015,0.079005,Historical
+Equatorial Guinea,2016,0.075131,Historical
+Equatorial Guinea,2017,0.081367,Historical
+Equatorial Guinea,2018,0.071260,Historical
+Equatorial Guinea,2019,0.067196,Historical
+Equatorial Guinea,2020,0.043141,Historical
+Equatorial Guinea,2021,0.074327,Forecast
+Equatorial Guinea,2022,0.079543,Forecast
+Equatorial Guinea,2023,0.055945,Forecast
+Equatorial Guinea,2024,0.051899,Forecast
+Equatorial Guinea,2025,0.075293,Forecast
+Eritrea,2000,0.004137,Historical
+Eritrea,2001,0.004405,Historical
+Eritrea,2002,0.003881,Historical
+Eritrea,2003,0.004466,Historical
+Eritrea,2004,0.004671,Historical
+Eritrea,2005,0.004560,Historical
+Eritrea,2006,0.003084,Historical
+Eritrea,2007,0.003117,Historical
+Eritrea,2008,0.002168,Historical
+Eritrea,2009,0.002553,Historical
+Eritrea,2010,0.002494,Historical
+Eritrea,2011,0.002496,Historical
+Eritrea,2012,0.002615,Historical
+Eritrea,2013,0.002635,Historical
+Eritrea,2014,0.002729,Historical
+Eritrea,2015,0.002696,Historical
+Eritrea,2016,0.002723,Historical
+Eritrea,2017,0.002964,Historical
+Eritrea,2018,0.003337,Historical
+Eritrea,2019,0.003566,Historical
+Eritrea,2020,0.003357,Historical
+Eritrea,2021,0.003364,Forecast
+Eritrea,2022,0.003369,Forecast
+Eritrea,2023,0.003373,Forecast
+Eritrea,2024,0.003376,Forecast
+Eritrea,2025,0.003379,Forecast
+Estonia,2000,0.151273,Historical
+Estonia,2001,0.158704,Historical
+Estonia,2002,0.159058,Historical
+Estonia,2003,0.174552,Historical
+Estonia,2004,0.179171,Historical
+Estonia,2005,0.181230,Historical
+Estonia,2006,0.180080,Historical
+Estonia,2007,0.209522,Historical
+Estonia,2008,0.193272,Historical
+Estonia,2009,0.167555,Historical
+Estonia,2010,0.209210,Historical
+Estonia,2011,0.209325,Historical
+Estonia,2012,0.211572,Historical
+Estonia,2013,0.223826,Historical
+Estonia,2014,0.214840,Historical
+Estonia,2015,0.198777,Historical
+Estonia,2016,0.204787,Historical
+Estonia,2017,0.226854,Historical
+Estonia,2018,0.224308,Historical
+Estonia,2019,0.180114,Historical
+Estonia,2020,0.168396,Historical
+Estonia,2021,0.168396,Forecast
+Estonia,2022,0.168396,Forecast
+Estonia,2023,0.168396,Forecast
+Estonia,2024,0.168396,Forecast
+Estonia,2025,0.168396,Forecast
+Eswatini,2000,0.023169,Historical
+Eswatini,2001,0.023123,Historical
+Eswatini,2002,0.023611,Historical
+Eswatini,2003,0.021551,Historical
+Eswatini,2004,0.020803,Historical
+Eswatini,2005,0.021403,Historical
+Eswatini,2006,0.021659,Historical
+Eswatini,2007,0.022439,Historical
+Eswatini,2008,0.021571,Historical
+Eswatini,2009,0.020957,Historical
+Eswatini,2010,0.019601,Historical
+Eswatini,2011,0.019940,Historical
+Eswatini,2012,0.019662,Historical
+Eswatini,2013,0.019244,Historical
+Eswatini,2014,0.019408,Historical
+Eswatini,2015,0.019104,Historical
+Eswatini,2016,0.020061,Historical
+Eswatini,2017,0.021151,Historical
+Eswatini,2018,0.022178,Historical
+Eswatini,2019,0.022013,Historical
+Eswatini,2020,0.021383,Historical
+Eswatini,2021,0.020876,Forecast
+Eswatini,2022,0.020626,Forecast
+Eswatini,2023,0.020983,Forecast
+Eswatini,2024,0.021202,Forecast
+Eswatini,2025,0.021202,Forecast
+Ethiopia,2000,0.001097,Historical
+Ethiopia,2001,0.001160,Historical
+Ethiopia,2002,0.001157,Historical
+Ethiopia,2003,0.001216,Historical
+Ethiopia,2004,0.001263,Historical
+Ethiopia,2005,0.001410,Historical
+Ethiopia,2006,0.001504,Historical
+Ethiopia,2007,0.001618,Historical
+Ethiopia,2008,0.001646,Historical
+Ethiopia,2009,0.001655,Historical
+Ethiopia,2010,0.001783,Historical
+Ethiopia,2011,0.001958,Historical
+Ethiopia,2012,0.002122,Historical
+Ethiopia,2013,0.002409,Historical
+Ethiopia,2014,0.002657,Historical
+Ethiopia,2015,0.002725,Historical
+Ethiopia,2016,0.003074,Historical
+Ethiopia,2017,0.003027,Historical
+Ethiopia,2018,0.003136,Historical
+Ethiopia,2019,0.003511,Historical
+Ethiopia,2020,0.003276,Historical
+Ethiopia,2021,0.003384,Forecast
+Ethiopia,2022,0.003493,Forecast
+Ethiopia,2023,0.003602,Forecast
+Ethiopia,2024,0.003711,Forecast
+Ethiopia,2025,0.003820,Forecast
+Fiji,2000,0.035451,Historical
+Fiji,2001,0.036464,Historical
+Fiji,2002,0.030572,Historical
+Fiji,2003,0.033198,Historical
+Fiji,2004,0.043544,Historical
+Fiji,2005,0.036922,Historical
+Fiji,2006,0.040082,Historical
+Fiji,2007,0.038322,Historical
+Fiji,2008,0.030050,Historical
+Fiji,2009,0.025910,Historical
+Fiji,2010,0.034912,Historical
+Fiji,2011,0.026982,Historical
+Fiji,2012,0.027120,Historical
+Fiji,2013,0.028573,Historical
+Fiji,2014,0.030034,Historical
+Fiji,2015,0.031349,Historical
+Fiji,2016,0.030826,Historical
+Fiji,2017,0.033465,Historical
+Fiji,2018,0.035480,Historical
+Fiji,2019,0.035865,Historical
+Fiji,2020,0.034391,Historical
+Fiji,2021,0.033853,Forecast
+Fiji,2022,0.033617,Forecast
+Fiji,2023,0.033514,Forecast
+Fiji,2024,0.033469,Forecast
+Fiji,2025,0.033449,Forecast
+Finland,2000,0.264207,Historical
+Finland,2001,0.269320,Historical
+Finland,2002,0.270041,Historical
+Finland,2003,0.288509,Historical
+Finland,2004,0.286454,Historical
+Finland,2005,0.259555,Historical
+Finland,2006,0.277336,Historical
+Finland,2007,0.275209,Historical
+Finland,2008,0.264114,Historical
+Finland,2009,0.243447,Historical
+Finland,2010,0.263641,Historical
+Finland,2011,0.247320,Historical
+Finland,2012,0.239489,Historical
+Finland,2013,0.239328,Historical
+Finland,2014,0.229987,Historical
+Finland,2015,0.228584,Historical
+Finland,2016,0.231526,Historical
+Finland,2017,0.226234,Historical
+Finland,2018,0.230508,Historical
+Finland,2019,0.225524,Historical
+Finland,2020,0.215689,Historical
+Finland,2021,0.216605,Forecast
+Finland,2022,0.213909,Forecast
+Finland,2023,0.211213,Forecast
+Finland,2024,0.208517,Forecast
+Finland,2025,0.205821,Forecast
+France,2000,0.201712,Historical
+France,2001,0.202977,Historical
+France,2002,0.199681,Historical
+France,2003,0.200536,Historical
+France,2004,0.200903,Historical
+France,2005,0.198400,Historical
+France,2006,0.195488,Historical
+France,2007,0.190779,Historical
+France,2008,0.190159,Historical
+France,2009,0.178473,Historical
+France,2010,0.182822,Historical
+France,2011,0.174856,Historical
+France,2012,0.173967,Historical
+France,2013,0.174881,Historical
+France,2014,0.166837,Historical
+France,2015,0.167296,Historical
+France,2016,0.163962,Historical
+France,2017,0.162360,Historical
+France,2018,0.165029,Historical
+France,2019,0.161192,Historical
+France,2020,0.144956,Historical
+France,2021,0.149314,Forecast
+France,2022,0.146678,Forecast
+France,2023,0.144043,Forecast
+France,2024,0.141407,Forecast
+France,2025,0.138772,Forecast
+French Guiana,2000,0.052144,Historical
+French Guiana,2021,0.000000,Forecast
+French Guiana,2022,0.000000,Forecast
+French Guiana,2023,0.000000,Forecast
+French Guiana,2024,0.000000,Forecast
+French Guiana,2025,0.000000,Forecast
+Gabon,2000,0.034337,Historical
+Gabon,2001,0.036098,Historical
+Gabon,2002,0.035163,Historical
+Gabon,2003,0.033293,Historical
+Gabon,2004,0.033001,Historical
+Gabon,2005,0.034332,Historical
+Gabon,2006,0.034178,Historical
+Gabon,2007,0.032929,Historical
+Gabon,2008,0.032553,Historical
+Gabon,2009,0.031161,Historical
+Gabon,2010,0.035092,Historical
+Gabon,2011,0.034664,Historical
+Gabon,2012,0.041914,Historical
+Gabon,2013,0.040902,Historical
+Gabon,2014,0.041303,Historical
+Gabon,2015,0.038496,Historical
+Gabon,2016,0.037095,Historical
+Gabon,2017,0.038282,Historical
+Gabon,2018,0.033495,Historical
+Gabon,2019,0.028287,Historical
+Gabon,2020,0.031864,Historical
+Gabon,2021,0.032841,Forecast
+Gabon,2022,0.033496,Forecast
+Gabon,2023,0.033935,Forecast
+Gabon,2024,0.034229,Forecast
+Gabon,2025,0.034427,Forecast
+Gambia,2000,0.003353,Historical
+Gambia,2001,0.003549,Historical
+Gambia,2002,0.003434,Historical
+Gambia,2003,0.003338,Historical
+Gambia,2004,0.003422,Historical
+Gambia,2005,0.003358,Historical
+Gambia,2006,0.003540,Historical
+Gambia,2007,0.003560,Historical
+Gambia,2008,0.003586,Historical
+Gambia,2009,0.003734,Historical
+Gambia,2010,0.003949,Historical
+Gambia,2011,0.004024,Historical
+Gambia,2012,0.003804,Historical
+Gambia,2013,0.003672,Historical
+Gambia,2014,0.003941,Historical
+Gambia,2015,0.003918,Historical
+Gambia,2016,0.003841,Historical
+Gambia,2017,0.003802,Historical
+Gambia,2018,0.003727,Historical
+Gambia,2019,0.003704,Historical
+Gambia,2020,0.003448,Historical
+Gambia,2021,0.003481,Forecast
+Gambia,2022,0.003506,Forecast
+Gambia,2023,0.003525,Forecast
+Gambia,2024,0.003539,Forecast
+Gambia,2025,0.003549,Forecast
+Georgia,2000,0.035888,Historical
+Georgia,2001,0.034121,Historical
+Georgia,2002,0.041040,Historical
+Georgia,2003,0.036921,Historical
+Georgia,2004,0.038408,Historical
+Georgia,2005,0.043998,Historical
+Georgia,2006,0.040052,Historical
+Georgia,2007,0.050445,Historical
+Georgia,2008,0.050812,Historical
+Georgia,2009,0.051994,Historical
+Georgia,2010,0.056323,Historical
+Georgia,2011,0.052634,Historical
+Georgia,2012,0.054751,Historical
+Georgia,2013,0.061953,Historical
+Georgia,2014,0.064910,Historical
+Georgia,2015,0.068885,Historical
+Georgia,2016,0.072812,Historical
+Georgia,2017,0.072379,Historical
+Georgia,2018,0.073817,Historical
+Georgia,2019,0.074868,Historical
+Georgia,2020,0.071203,Historical
+Georgia,2021,0.077684,Forecast
+Georgia,2022,0.079724,Forecast
+Georgia,2023,0.083497,Forecast
+Georgia,2024,0.089961,Forecast
+Georgia,2025,0.089055,Forecast
+Germany,2000,0.186239,Historical
+Germany,2001,0.189810,Historical
+Germany,2002,0.187587,Historical
+Germany,2003,0.187752,Historical
+Germany,2004,0.187910,Historical
+Germany,2005,0.185820,Historical
+Germany,2006,0.190578,Historical
+Germany,2007,0.182638,Historical
+Germany,2008,0.184496,Historical
+Germany,2009,0.173034,Historical
+Germany,2010,0.180154,Historical
+Germany,2011,0.173549,Historical
+Germany,2012,0.175686,Historical
+Germany,2013,0.180366,Historical
+Germany,2014,0.172620,Historical
+Germany,2015,0.175436,Historical
+Germany,2016,0.177754,Historical
+Germany,2017,0.179419,Historical
+Germany,2018,0.174348,Historical
+Germany,2019,0.169346,Historical
+Germany,2020,0.157578,Historical
+Germany,2021,0.161182,Forecast
+Germany,2022,0.157487,Forecast
+Germany,2023,0.157258,Forecast
+Germany,2024,0.155383,Forecast
+Germany,2025,0.154290,Forecast
+Ghana,2000,0.008061,Historical
+Ghana,2001,0.007895,Historical
+Ghana,2002,0.007031,Historical
+Ghana,2003,0.006266,Historical
+Ghana,2004,0.007207,Historical
+Ghana,2005,0.007212,Historical
+Ghana,2006,0.006833,Historical
+Ghana,2007,0.006283,Historical
+Ghana,2008,0.007235,Historical
+Ghana,2009,0.008113,Historical
+Ghana,2010,0.008157,Historical
+Ghana,2011,0.010007,Historical
+Ghana,2012,0.010020,Historical
+Ghana,2013,0.010277,Historical
+Ghana,2014,0.010180,Historical
+Ghana,2015,0.010842,Historical
+Ghana,2016,0.010720,Historical
+Ghana,2017,0.010503,Historical
+Ghana,2018,0.011852,Historical
+Ghana,2019,0.011941,Historical
+Ghana,2020,0.013269,Historical
+Ghana,2021,0.013529,Forecast
+Ghana,2022,0.013789,Forecast
+Ghana,2023,0.014050,Forecast
+Ghana,2024,0.014310,Forecast
+Ghana,2025,0.014570,Forecast
+Greece,2000,0.128707,Historical
+Greece,2001,0.129334,Historical
+Greece,2002,0.129168,Historical
+Greece,2003,0.136529,Historical
+Greece,2004,0.136443,Historical
+Greece,2005,0.136934,Historical
+Greece,2006,0.141037,Historical
+Greece,2007,0.143985,Historical
+Greece,2008,0.141546,Historical
+Greece,2009,0.136547,Historical
+Greece,2010,0.130617,Historical
+Greece,2011,0.128486,Historical
+Greece,2012,0.121332,Historical
+Greece,2013,0.114551,Historical
+Greece,2014,0.107945,Historical
+Greece,2015,0.109852,Historical
+Greece,2016,0.108749,Historical
+Greece,2017,0.114751,Historical
+Greece,2018,0.116058,Historical
+Greece,2019,0.114120,Historical
+Greece,2020,0.100324,Historical
+Greece,2021,0.093033,Forecast
+Greece,2022,0.089181,Forecast
+Greece,2023,0.087146,Forecast
+Greece,2024,0.086070,Forecast
+Greece,2025,0.085502,Forecast
+Grenada,2000,0.030584,Historical
+Grenada,2001,0.031683,Historical
+Grenada,2002,0.032466,Historical
+Grenada,2003,0.034184,Historical
+Grenada,2004,0.032959,Historical
+Grenada,2005,0.034426,Historical
+Grenada,2006,0.035382,Historical
+Grenada,2007,0.037316,Historical
+Grenada,2008,0.039412,Historical
+Grenada,2009,0.038008,Historical
+Grenada,2010,0.039217,Historical
+Grenada,2011,0.038830,Historical
+Grenada,2012,0.039212,Historical
+Grenada,2013,0.043857,Historical
+Grenada,2014,0.036752,Historical
+Grenada,2015,0.037926,Historical
+Grenada,2016,0.038749,Historical
+Grenada,2017,0.041793,Historical
+Grenada,2018,0.040840,Historical
+Grenada,2019,0.040580,Historical
+Grenada,2020,0.033964,Historical
+Grenada,2021,0.033964,Forecast
+Grenada,2022,0.033964,Forecast
+Grenada,2023,0.033964,Forecast
+Grenada,2024,0.033964,Forecast
+Grenada,2025,0.033964,Forecast
+Guatemala,2000,0.015456,Historical
+Guatemala,2001,0.015743,Historical
+Guatemala,2002,0.015549,Historical
+Guatemala,2003,0.016691,Historical
+Guatemala,2004,0.015406,Historical
+Guatemala,2005,0.015565,Historical
+Guatemala,2006,0.016158,Historical
+Guatemala,2007,0.016962,Historical
+Guatemala,2008,0.015435,Historical
+Guatemala,2009,0.015822,Historical
+Guatemala,2010,0.015250,Historical
+Guatemala,2011,0.015250,Historical
+Guatemala,2012,0.016011,Historical
+Guatemala,2013,0.016793,Historical
+Guatemala,2014,0.017374,Historical
+Guatemala,2015,0.019051,Historical
+Guatemala,2016,0.020404,Historical
+Guatemala,2017,0.021738,Historical
+Guatemala,2018,0.021991,Historical
+Guatemala,2019,0.022285,Historical
+Guatemala,2020,0.021838,Historical
+Guatemala,2021,0.022158,Forecast
+Guatemala,2022,0.022477,Forecast
+Guatemala,2023,0.022796,Forecast
+Guatemala,2024,0.023115,Forecast
+Guatemala,2025,0.023434,Forecast
+Guinea,2000,0.003554,Historical
+Guinea,2001,0.003844,Historical
+Guinea,2002,0.003943,Historical
+Guinea,2003,0.003746,Historical
+Guinea,2004,0.003965,Historical
+Guinea,2005,0.003929,Historical
+Guinea,2006,0.003914,Historical
+Guinea,2007,0.004061,Historical
+Guinea,2008,0.004003,Historical
+Guinea,2009,0.004100,Historical
+Guinea,2010,0.004579,Historical
+Guinea,2011,0.004551,Historical
+Guinea,2012,0.004308,Historical
+Guinea,2013,0.003740,Historical
+Guinea,2014,0.003771,Historical
+Guinea,2015,0.004460,Historical
+Guinea,2016,0.004896,Historical
+Guinea,2017,0.004803,Historical
+Guinea,2018,0.004273,Historical
+Guinea,2019,0.004577,Historical
+Guinea,2020,0.005167,Historical
+Guinea,2021,0.005167,Forecast
+Guinea,2022,0.005167,Forecast
+Guinea,2023,0.005167,Forecast
+Guinea,2024,0.005167,Forecast
+Guinea,2025,0.005167,Forecast
+Guinea-Bissau,2000,0.003084,Historical
+Guinea-Bissau,2001,0.003075,Historical
+Guinea-Bissau,2002,0.003072,Historical
+Guinea-Bissau,2003,0.003490,Historical
+Guinea-Bissau,2004,0.003527,Historical
+Guinea-Bissau,2005,0.003488,Historical
+Guinea-Bissau,2006,0.003480,Historical
+Guinea-Bissau,2007,0.003605,Historical
+Guinea-Bissau,2008,0.003422,Historical
+Guinea-Bissau,2009,0.003455,Historical
+Guinea-Bissau,2010,0.003455,Historical
+Guinea-Bissau,2011,0.003415,Historical
+Guinea-Bissau,2012,0.003390,Historical
+Guinea-Bissau,2013,0.003378,Historical
+Guinea-Bissau,2014,0.003456,Historical
+Guinea-Bissau,2015,0.003484,Historical
+Guinea-Bissau,2016,0.003537,Historical
+Guinea-Bissau,2017,0.002794,Historical
+Guinea-Bissau,2018,0.002741,Historical
+Guinea-Bissau,2019,0.002678,Historical
+Guinea-Bissau,2020,0.002500,Historical
+Guinea-Bissau,2021,0.002533,Forecast
+Guinea-Bissau,2022,0.002563,Forecast
+Guinea-Bissau,2023,0.002592,Forecast
+Guinea-Bissau,2024,0.002618,Forecast
+Guinea-Bissau,2025,0.002642,Forecast
+Guyana,2000,0.034774,Historical
+Guyana,2001,0.033954,Historical
+Guyana,2002,0.034322,Historical
+Guyana,2003,0.035351,Historical
+Guyana,2004,0.034519,Historical
+Guyana,2005,0.031187,Historical
+Guyana,2006,0.027959,Historical
+Guyana,2007,0.034680,Historical
+Guyana,2008,0.033076,Historical
+Guyana,2009,0.034194,Historical
+Guyana,2010,0.036991,Historical
+Guyana,2011,0.038667,Historical
+Guyana,2012,0.043858,Historical
+Guyana,2013,0.042758,Historical
+Guyana,2014,0.042440,Historical
+Guyana,2015,0.042839,Historical
+Guyana,2016,0.048115,Historical
+Guyana,2017,0.047448,Historical
+Guyana,2018,0.047113,Historical
+Guyana,2019,0.054019,Historical
+Guyana,2020,0.052617,Historical
+Guyana,2021,0.052617,Forecast
+Guyana,2022,0.052617,Forecast
+Guyana,2023,0.052617,Forecast
+Guyana,2024,0.052617,Forecast
+Guyana,2025,0.052617,Forecast
+Haiti,2000,0.003184,Historical
+Haiti,2001,0.003402,Historical
+Haiti,2002,0.003662,Historical
+Haiti,2003,0.003330,Historical
+Haiti,2004,0.003771,Historical
+Haiti,2005,0.003869,Historical
+Haiti,2006,0.003894,Historical
+Haiti,2007,0.004131,Historical
+Haiti,2008,0.004095,Historical
+Haiti,2009,0.003830,Historical
+Haiti,2010,0.003512,Historical
+Haiti,2011,0.003651,Historical
+Haiti,2012,0.003952,Historical
+Haiti,2013,0.004097,Historical
+Haiti,2014,0.004351,Historical
+Haiti,2015,0.004892,Historical
+Haiti,2016,0.005008,Historical
+Haiti,2017,0.004902,Historical
+Haiti,2018,0.005048,Historical
+Haiti,2019,0.004510,Historical
+Haiti,2020,0.003721,Historical
+Haiti,2021,0.003721,Forecast
+Haiti,2022,0.003721,Forecast
+Haiti,2023,0.003721,Forecast
+Haiti,2024,0.003721,Forecast
+Haiti,2025,0.003721,Forecast
+Honduras,2000,0.013928,Historical
+Honduras,2001,0.014801,Historical
+Honduras,2002,0.014563,Historical
+Honduras,2003,0.015566,Historical
+Honduras,2004,0.016132,Historical
+Honduras,2005,0.016161,Historical
+Honduras,2006,0.015192,Historical
+Honduras,2007,0.018386,Historical
+Honduras,2008,0.017814,Historical
+Honduras,2009,0.016523,Historical
+Honduras,2010,0.016907,Historical
+Honduras,2011,0.016782,Historical
+Honduras,2012,0.017927,Historical
+Honduras,2013,0.017629,Historical
+Honduras,2014,0.018961,Historical
+Honduras,2015,0.020716,Historical
+Honduras,2016,0.019964,Historical
+Honduras,2017,0.020779,Historical
+Honduras,2018,0.022456,Historical
+Honduras,2019,0.021481,Historical
+Honduras,2020,0.019226,Historical
+Honduras,2021,0.019226,Forecast
+Honduras,2022,0.019226,Forecast
+Honduras,2023,0.019226,Forecast
+Honduras,2024,0.019226,Forecast
+Honduras,2025,0.019226,Forecast
+Hungary,2000,0.104819,Historical
+Hungary,2001,0.107628,Historical
+Hungary,2002,0.105415,Historical
+Hungary,2003,0.107039,Historical
+Hungary,2004,0.109001,Historical
+Hungary,2005,0.116468,Historical
+Hungary,2006,0.114380,Historical
+Hungary,2007,0.113054,Historical
+Hungary,2008,0.111662,Historical
+Hungary,2009,0.103758,Historical
+Hungary,2010,0.105944,Historical
+Hungary,2011,0.103101,Historical
+Hungary,2012,0.096383,Historical
+Hungary,2013,0.091618,Historical
+Hungary,2014,0.091954,Historical
+Hungary,2015,0.097116,Historical
+Hungary,2016,0.099132,Historical
+Hungary,2017,0.104766,Historical
+Hungary,2018,0.105644,Historical
+Hungary,2019,0.107132,Historical
+Hungary,2020,0.105582,Historical
+Hungary,2021,0.104868,Forecast
+Hungary,2022,0.104582,Forecast
+Hungary,2023,0.104497,Forecast
+Hungary,2024,0.104497,Forecast
+Hungary,2025,0.104524,Forecast
+Iceland,2000,0.449597,Historical
+Iceland,2001,0.448588,Historical
+Iceland,2002,0.461962,Historical
+Iceland,2003,0.461063,Historical
+Iceland,2004,0.466074,Historical
+Iceland,2005,0.460324,Historical
+Iceland,2006,0.493211,Historical
+Iceland,2007,0.549769,Historical
+Iceland,2008,0.676630,Historical
+Iceland,2009,0.673180,Historical
+Iceland,2010,0.674530,Historical
+Iceland,2011,0.672395,Historical
+Iceland,2012,0.675053,Historical
+Iceland,2013,0.690076,Historical
+Iceland,2014,0.681454,Historical
+Iceland,2015,0.704069,Historical
+Iceland,2016,0.697060,Historical
+Iceland,2017,0.711979,Historical
+Iceland,2018,0.717076,Historical
+Iceland,2019,0.668459,Historical
+Iceland,2020,0.593157,Historical
+Iceland,2021,0.593157,Forecast
+Iceland,2022,0.593157,Forecast
+Iceland,2023,0.593157,Forecast
+Iceland,2024,0.593157,Forecast
+Iceland,2025,0.593157,Forecast
+India,2000,0.013400,Historical
+India,2001,0.013214,Historical
+India,2002,0.013404,Historical
+India,2003,0.013646,Historical
+India,2004,0.014571,Historical
+India,2005,0.015184,Historical
+India,2006,0.015754,Historical
+India,2007,0.016848,Historical
+India,2008,0.017580,Historical
+India,2009,0.018632,Historical
+India,2010,0.019170,Historical
+India,2011,0.019944,Historical
+India,2012,0.020745,Historical
+India,2013,0.021157,Historical
+India,2014,0.022306,Historical
+India,2015,0.022807,Historical
+India,2016,0.023551,Historical
+India,2017,0.024169,Historical
+India,2018,0.025263,Historical
+India,2019,0.025637,Historical
+India,2020,0.024057,Historical
+India,2021,0.024590,Forecast
+India,2022,0.025123,Forecast
+India,2023,0.025655,Forecast
+India,2024,0.026188,Forecast
+India,2025,0.026720,Forecast
+Indonesia,2000,0.020700,Historical
+Indonesia,2001,0.021861,Historical
+Indonesia,2002,0.022147,Historical
+Indonesia,2003,0.023706,Historical
+Indonesia,2004,0.023184,Historical
+Indonesia,2005,0.023560,Historical
+Indonesia,2006,0.023654,Historical
+Indonesia,2007,0.025056,Historical
+Indonesia,2008,0.025017,Historical
+Indonesia,2009,0.025374,Historical
+Indonesia,2010,0.027122,Historical
+Indonesia,2011,0.028295,Historical
+Indonesia,2012,0.028846,Historical
+Indonesia,2013,0.027516,Historical
+Indonesia,2014,0.027555,Historical
+Indonesia,2015,0.027674,Historical
+Indonesia,2016,0.027466,Historical
+Indonesia,2017,0.028138,Historical
+Indonesia,2018,0.030569,Historical
+Indonesia,2019,0.032273,Historical
+Indonesia,2020,0.029594,Historical
+Indonesia,2021,0.030039,Forecast
+Indonesia,2022,0.030484,Forecast
+Indonesia,2023,0.030929,Forecast
+Indonesia,2024,0.031373,Forecast
+Indonesia,2025,0.031818,Forecast
+Iraq,2000,0.049892,Historical
+Iraq,2001,0.053988,Historical
+Iraq,2002,0.049693,Historical
+Iraq,2003,0.042780,Historical
+Iraq,2004,0.044570,Historical
+Iraq,2005,0.040914,Historical
+Iraq,2006,0.039483,Historical
+Iraq,2007,0.040152,Historical
+Iraq,2008,0.045086,Historical
+Iraq,2009,0.042687,Historical
+Iraq,2010,0.046338,Historical
+Iraq,2011,0.046033,Historical
+Iraq,2012,0.048022,Historical
+Iraq,2013,0.050885,Historical
+Iraq,2014,0.048859,Historical
+Iraq,2015,0.047443,Historical
+Iraq,2016,0.052356,Historical
+Iraq,2017,0.057468,Historical
+Iraq,2018,0.056731,Historical
+Iraq,2019,0.058763,Historical
+Iraq,2020,0.049493,Historical
+Iraq,2021,0.049246,Forecast
+Iraq,2022,0.049061,Forecast
+Iraq,2023,0.048921,Forecast
+Iraq,2024,0.048815,Forecast
+Iraq,2025,0.048736,Forecast
+Ireland,2000,0.175158,Historical
+Ireland,2001,0.182175,Historical
+Ireland,2002,0.177350,Historical
+Ireland,2003,0.170134,Historical
+Ireland,2004,0.170356,Historical
+Ireland,2005,0.173885,Historical
+Ireland,2006,0.174725,Historical
+Ireland,2007,0.172361,Historical
+Ireland,2008,0.167970,Historical
+Ireland,2009,0.149470,Historical
+Ireland,2010,0.150073,Historical
+Ireland,2011,0.142679,Historical
+Ireland,2012,0.139722,Historical
+Ireland,2013,0.136932,Historical
+Ireland,2014,0.135578,Historical
+Ireland,2015,0.141951,Historical
+Ireland,2016,0.146686,Historical
+Ireland,2017,0.145574,Historical
+Ireland,2018,0.146900,Historical
+Ireland,2019,0.145746,Historical
+Ireland,2020,0.135689,Historical
+Ireland,2021,0.133716,Forecast
+Ireland,2022,0.131742,Forecast
+Ireland,2023,0.129769,Forecast
+Ireland,2024,0.127796,Forecast
+Ireland,2025,0.125822,Forecast
+Israel,2000,0.141557,Historical
+Israel,2001,0.138713,Historical
+Israel,2002,0.138861,Historical
+Israel,2003,0.140452,Historical
+Israel,2004,0.140639,Historical
+Israel,2005,0.138845,Historical
+Israel,2006,0.137208,Historical
+Israel,2007,0.139861,Historical
+Israel,2008,0.141438,Historical
+Israel,2009,0.135045,Historical
+Israel,2010,0.137974,Historical
+Israel,2011,0.138083,Historical
+Israel,2012,0.141926,Historical
+Israel,2013,0.131974,Historical
+Israel,2014,0.126534,Historical
+Israel,2015,0.131106,Historical
+Israel,2016,0.131291,Historical
+Israel,2017,0.131528,Historical
+Israel,2018,0.131360,Historical
+Israel,2019,0.133615,Historical
+Israel,2020,0.124126,Historical
+Israel,2021,0.125212,Forecast
+Israel,2022,0.127360,Forecast
+Israel,2023,0.126669,Forecast
+Israel,2024,0.125978,Forecast
+Israel,2025,0.125288,Forecast
+Italy,2000,0.140340,Historical
+Italy,2001,0.140153,Historical
+Italy,2002,0.138931,Historical
+Italy,2003,0.142568,Historical
+Italy,2004,0.144637,Historical
+Italy,2005,0.143972,Historical
+Italy,2006,0.142742,Historical
+Italy,2007,0.139189,Historical
+Italy,2008,0.135801,Historical
+Italy,2009,0.126065,Historical
+Italy,2010,0.129658,Historical
+Italy,2011,0.126755,Historical
+Italy,2012,0.122991,Historical
+Italy,2013,0.117356,Historical
+Italy,2014,0.111258,Historical
+Italy,2015,0.114740,Historical
+Italy,2016,0.115412,Historical
+Italy,2017,0.116977,Historical
+Italy,2018,0.117894,Historical
+Italy,2019,0.116016,Historical
+Italy,2020,0.105732,Historical
+Italy,2021,0.104002,Forecast
+Italy,2022,0.102271,Forecast
+Italy,2023,0.100540,Forecast
+Italy,2024,0.098809,Forecast
+Italy,2025,0.097079,Forecast
+Jamaica,2000,0.062997,Historical
+Jamaica,2001,0.063597,Historical
+Jamaica,2002,0.063007,Historical
+Jamaica,2003,0.065347,Historical
+Jamaica,2004,0.063615,Historical
+Jamaica,2005,0.065281,Historical
+Jamaica,2006,0.074221,Historical
+Jamaica,2007,0.075272,Historical
+Jamaica,2008,0.063774,Historical
+Jamaica,2009,0.049937,Historical
+Jamaica,2010,0.045685,Historical
+Jamaica,2011,0.048184,Historical
+Jamaica,2012,0.044928,Historical
+Jamaica,2013,0.048642,Historical
+Jamaica,2014,0.047733,Historical
+Jamaica,2015,0.049058,Historical
+Jamaica,2016,0.050639,Historical
+Jamaica,2017,0.045480,Historical
+Jamaica,2018,0.046975,Historical
+Jamaica,2019,0.058599,Historical
+Jamaica,2020,0.046075,Historical
+Jamaica,2021,0.046075,Forecast
+Jamaica,2022,0.046075,Forecast
+Jamaica,2023,0.046075,Forecast
+Jamaica,2024,0.046075,Forecast
+Jamaica,2025,0.046075,Forecast
+Japan,2000,0.187479,Historical
+Japan,2001,0.185322,Historical
+Japan,2002,0.185249,Historical
+Japan,2003,0.184294,Historical
+Japan,2004,0.186177,Historical
+Japan,2005,0.186633,Historical
+Japan,2006,0.186055,Historical
+Japan,2007,0.183913,Historical
+Japan,2008,0.180583,Historical
+Japan,2009,0.164725,Historical
+Japan,2010,0.175619,Historical
+Japan,2011,0.166471,Historical
+Japan,2012,0.165389,Historical
+Japan,2013,0.164409,Historical
+Japan,2014,0.160504,Historical
+Japan,2015,0.158511,Historical
+Japan,2016,0.156796,Historical
+Japan,2017,0.159122,Historical
+Japan,2018,0.158783,Historical
+Japan,2019,0.155639,Historical
+Japan,2020,0.144826,Historical
+Japan,2021,0.147238,Forecast
+Japan,2022,0.145274,Forecast
+Japan,2023,0.143310,Forecast
+Japan,2024,0.141346,Forecast
+Japan,2025,0.139382,Forecast
+Jordan,2000,0.049967,Historical
+Jordan,2001,0.046996,Historical
+Jordan,2002,0.048240,Historical
+Jordan,2003,0.051499,Historical
+Jordan,2004,0.054571,Historical
+Jordan,2005,0.057723,Historical
+Jordan,2006,0.055783,Historical
+Jordan,2007,0.050350,Historical
+Jordan,2008,0.047338,Historical
+Jordan,2009,0.048158,Historical
+Jordan,2010,0.049035,Historical
+Jordan,2011,0.050056,Historical
+Jordan,2012,0.052367,Historical
+Jordan,2013,0.048733,Historical
+Jordan,2014,0.044440,Historical
+Jordan,2015,0.043784,Historical
+Jordan,2016,0.044465,Historical
+Jordan,2017,0.044874,Historical
+Jordan,2018,0.042780,Historical
+Jordan,2019,0.042875,Historical
+Jordan,2020,0.037466,Historical
+Jordan,2021,0.034113,Forecast
+Jordan,2022,0.033298,Forecast
+Jordan,2023,0.032483,Forecast
+Jordan,2024,0.031669,Forecast
+Jordan,2025,0.030854,Forecast
+Kazakhstan,2000,0.092418,Historical
+Kazakhstan,2001,0.103720,Historical
+Kazakhstan,2002,0.105255,Historical
+Kazakhstan,2003,0.114789,Historical
+Kazakhstan,2004,0.121154,Historical
+Kazakhstan,2005,0.123448,Historical
+Kazakhstan,2006,0.131452,Historical
+Kazakhstan,2007,0.143981,Historical
+Kazakhstan,2008,0.150047,Historical
+Kazakhstan,2009,0.132960,Historical
+Kazakhstan,2010,0.140713,Historical
+Kazakhstan,2011,0.157446,Historical
+Kazakhstan,2012,0.163254,Historical
+Kazakhstan,2013,0.161692,Historical
+Kazakhstan,2014,0.167366,Historical
+Kazakhstan,2015,0.137120,Historical
+Kazakhstan,2016,0.151976,Historical
+Kazakhstan,2017,0.161498,Historical
+Kazakhstan,2018,0.164977,Historical
+Kazakhstan,2019,0.165296,Historical
+Kazakhstan,2020,0.150772,Historical
+Kazakhstan,2021,0.150772,Forecast
+Kazakhstan,2022,0.150772,Forecast
+Kazakhstan,2023,0.150772,Forecast
+Kazakhstan,2024,0.150772,Forecast
+Kazakhstan,2025,0.150772,Forecast
+Kenya,2000,0.005632,Historical
+Kenya,2001,0.005562,Historical
+Kenya,2002,0.005445,Historical
+Kenya,2003,0.005033,Historical
+Kenya,2004,0.005256,Historical
+Kenya,2005,0.005539,Historical
+Kenya,2006,0.005899,Historical
+Kenya,2007,0.005762,Historical
+Kenya,2008,0.005520,Historical
+Kenya,2009,0.005854,Historical
+Kenya,2010,0.006180,Historical
+Kenya,2011,0.006221,Historical
+Kenya,2012,0.005998,Historical
+Kenya,2013,0.006171,Historical
+Kenya,2014,0.006303,Historical
+Kenya,2015,0.007281,Historical
+Kenya,2016,0.007489,Historical
+Kenya,2017,0.007387,Historical
+Kenya,2018,0.007797,Historical
+Kenya,2019,0.007412,Historical
+Kenya,2020,0.007244,Historical
+Kenya,2021,0.007244,Forecast
+Kenya,2022,0.007244,Forecast
+Kenya,2023,0.007244,Forecast
+Kenya,2024,0.007244,Forecast
+Kenya,2025,0.007244,Forecast
+Kiribati,2000,0.006234,Historical
+Kiribati,2001,0.005219,Historical
+Kiribati,2002,0.007495,Historical
+Kiribati,2003,0.007635,Historical
+Kiribati,2004,0.008014,Historical
+Kiribati,2005,0.010294,Historical
+Kiribati,2006,0.011231,Historical
+Kiribati,2007,0.010061,Historical
+Kiribati,2008,0.011056,Historical
+Kiribati,2009,0.009467,Historical
+Kiribati,2010,0.009254,Historical
+Kiribati,2011,0.008400,Historical
+Kiribati,2012,0.008168,Historical
+Kiribati,2013,0.008139,Historical
+Kiribati,2014,0.008075,Historical
+Kiribati,2015,0.008582,Historical
+Kiribati,2016,0.009068,Historical
+Kiribati,2017,0.010070,Historical
+Kiribati,2018,0.009977,Historical
+Kiribati,2019,0.009873,Historical
+Kiribati,2020,0.009207,Historical
+Kiribati,2021,0.009029,Forecast
+Kiribati,2022,0.008905,Forecast
+Kiribati,2023,0.008818,Forecast
+Kiribati,2024,0.008757,Forecast
+Kiribati,2025,0.008715,Forecast
+Kuwait,2000,0.417145,Historical
+Kuwait,2001,0.409773,Historical
+Kuwait,2002,0.421922,Historical
+Kuwait,2003,0.491260,Historical
+Kuwait,2004,0.535548,Historical
+Kuwait,2005,0.569167,Historical
+Kuwait,2006,0.517452,Historical
+Kuwait,2007,0.473929,Historical
+Kuwait,2008,0.484802,Historical
+Kuwait,2009,0.475952,Historical
+Kuwait,2010,0.508438,Historical
+Kuwait,2011,0.488860,Historical
+Kuwait,2012,0.465427,Historical
+Kuwait,2013,0.443480,Historical
+Kuwait,2014,0.437210,Historical
+Kuwait,2015,0.437225,Historical
+Kuwait,2016,0.417028,Historical
+Kuwait,2017,0.416293,Historical
+Kuwait,2018,0.407278,Historical
+Kuwait,2019,0.360311,Historical
+Kuwait,2020,0.347054,Historical
+Kuwait,2021,0.362107,Forecast
+Kuwait,2022,0.386997,Forecast
+Kuwait,2023,0.411019,Forecast
+Kuwait,2024,0.429404,Forecast
+Kuwait,2025,0.441171,Forecast
+Kyrgyzstan,2000,0.053990,Historical
+Kyrgyzstan,2001,0.050753,Historical
+Kyrgyzstan,2002,0.042947,Historical
+Kyrgyzstan,2003,0.044924,Historical
+Kyrgyzstan,2004,0.045328,Historical
+Kyrgyzstan,2005,0.042218,Historical
+Kyrgyzstan,2006,0.042584,Historical
+Kyrgyzstan,2007,0.046310,Historical
+Kyrgyzstan,2008,0.043796,Historical
+Kyrgyzstan,2009,0.043658,Historical
+Kyrgyzstan,2010,0.041268,Historical
+Kyrgyzstan,2011,0.046399,Historical
+Kyrgyzstan,2012,0.051748,Historical
+Kyrgyzstan,2013,0.047851,Historical
+Kyrgyzstan,2014,0.047897,Historical
+Kyrgyzstan,2015,0.042261,Historical
+Kyrgyzstan,2016,0.042392,Historical
+Kyrgyzstan,2017,0.043168,Historical
+Kyrgyzstan,2018,0.044858,Historical
+Kyrgyzstan,2019,0.040300,Historical
+Kyrgyzstan,2020,0.039758,Historical
+Kyrgyzstan,2021,0.043763,Forecast
+Kyrgyzstan,2022,0.045045,Forecast
+Kyrgyzstan,2023,0.045045,Forecast
+Kyrgyzstan,2024,0.045045,Forecast
+Kyrgyzstan,2025,0.045045,Forecast
+Latvia,2000,0.060095,Historical
+Latvia,2001,0.065640,Historical
+Latvia,2002,0.067160,Historical
+Latvia,2003,0.067255,Historical
+Latvia,2004,0.076648,Historical
+Latvia,2005,0.080078,Historical
+Latvia,2006,0.076969,Historical
+Latvia,2007,0.080375,Historical
+Latvia,2008,0.081894,Historical
+Latvia,2009,0.078486,Historical
+Latvia,2010,0.090009,Historical
+Latvia,2011,0.081293,Historical
+Latvia,2012,0.085234,Historical
+Latvia,2013,0.082927,Historical
+Latvia,2014,0.077163,Historical
+Latvia,2015,0.079811,Historical
+Latvia,2016,0.085871,Historical
+Latvia,2017,0.095415,Historical
+Latvia,2018,0.085711,Historical
+Latvia,2019,0.089094,Historical
+Latvia,2020,0.082014,Historical
+Latvia,2021,0.087141,Forecast
+Latvia,2022,0.088311,Forecast
+Latvia,2023,0.089481,Forecast
+Latvia,2024,0.090651,Forecast
+Latvia,2025,0.091821,Forecast
+Lebanon,2000,0.053419,Historical
+Lebanon,2001,0.055958,Historical
+Lebanon,2002,0.055669,Historical
+Lebanon,2003,0.055597,Historical
+Lebanon,2004,0.054484,Historical
+Lebanon,2005,0.051325,Historical
+Lebanon,2006,0.046805,Historical
+Lebanon,2007,0.040654,Historical
+Lebanon,2008,0.051649,Historical
+Lebanon,2009,0.063050,Historical
+Lebanon,2010,0.060368,Historical
+Lebanon,2011,0.060372,Historical
+Lebanon,2012,0.065851,Historical
+Lebanon,2013,0.059867,Historical
+Lebanon,2014,0.055840,Historical
+Lebanon,2015,0.060418,Historical
+Lebanon,2016,0.063541,Historical
+Lebanon,2017,0.069524,Historical
+Lebanon,2018,0.067322,Historical
+Lebanon,2019,0.070253,Historical
+Lebanon,2020,0.069849,Historical
+Lebanon,2021,0.069849,Forecast
+Lebanon,2022,0.069849,Forecast
+Lebanon,2023,0.069849,Forecast
+Lebanon,2024,0.069849,Forecast
+Lebanon,2025,0.069849,Forecast
+Lesotho,2000,0.004705,Historical
+Lesotho,2001,0.004765,Historical
+Lesotho,2002,0.004903,Historical
+Lesotho,2003,0.004998,Historical
+Lesotho,2004,0.005036,Historical
+Lesotho,2005,0.005957,Historical
+Lesotho,2006,0.006332,Historical
+Lesotho,2007,0.007625,Historical
+Lesotho,2008,0.006875,Historical
+Lesotho,2009,0.007802,Historical
+Lesotho,2010,0.008283,Historical
+Lesotho,2011,0.007360,Historical
+Lesotho,2012,0.007697,Historical
+Lesotho,2013,0.007781,Historical
+Lesotho,2014,0.007899,Historical
+Lesotho,2015,0.007627,Historical
+Lesotho,2016,0.008159,Historical
+Lesotho,2017,0.008582,Historical
+Lesotho,2018,0.008310,Historical
+Lesotho,2019,0.008336,Historical
+Lesotho,2020,0.007969,Historical
+Lesotho,2021,0.007969,Forecast
+Lesotho,2022,0.007969,Forecast
+Lesotho,2023,0.007969,Forecast
+Lesotho,2024,0.007969,Forecast
+Lesotho,2025,0.007969,Forecast
+Liberia,2000,0.002487,Historical
+Liberia,2001,0.002576,Historical
+Liberia,2002,0.002475,Historical
+Liberia,2003,0.002689,Historical
+Liberia,2004,0.002883,Historical
+Liberia,2005,0.003226,Historical
+Liberia,2006,0.003123,Historical
+Liberia,2007,0.002773,Historical
+Liberia,2008,0.002358,Historical
+Liberia,2009,0.002086,Historical
+Liberia,2010,0.003190,Historical
+Liberia,2011,0.003415,Historical
+Liberia,2012,0.003656,Historical
+Liberia,2013,0.003164,Historical
+Liberia,2014,0.004082,Historical
+Liberia,2015,0.004015,Historical
+Liberia,2016,0.004524,Historical
+Liberia,2017,0.003836,Historical
+Liberia,2018,0.004275,Historical
+Liberia,2019,0.004192,Historical
+Liberia,2020,0.003923,Historical
+Liberia,2021,0.003923,Forecast
+Liberia,2022,0.003923,Forecast
+Liberia,2023,0.003923,Forecast
+Liberia,2024,0.003923,Forecast
+Liberia,2025,0.003923,Forecast
+Libya,2000,0.157321,Historical
+Libya,2001,0.154947,Historical
+Libya,2002,0.155903,Historical
+Libya,2003,0.149796,Historical
+Libya,2004,0.149549,Historical
+Libya,2005,0.150675,Historical
+Libya,2006,0.135030,Historical
+Libya,2007,0.131414,Historical
+Libya,2008,0.133558,Historical
+Libya,2009,0.149684,Historical
+Libya,2010,0.154644,Historical
+Libya,2011,0.106479,Historical
+Libya,2012,0.139867,Historical
+Libya,2013,0.147535,Historical
+Libya,2014,0.141428,Historical
+Libya,2015,0.110830,Historical
+Libya,2016,0.106927,Historical
+Libya,2017,0.118841,Historical
+Libya,2018,0.120581,Historical
+Libya,2019,0.123472,Historical
+Libya,2020,0.106756,Historical
+Libya,2021,0.106780,Forecast
+Libya,2022,0.111030,Forecast
+Libya,2023,0.107289,Forecast
+Libya,2024,0.102139,Forecast
+Libya,2025,0.100764,Forecast
+Lithuania,2000,0.082557,Historical
+Lithuania,2001,0.097627,Historical
+Lithuania,2002,0.105504,Historical
+Lithuania,2003,0.112101,Historical
+Lithuania,2004,0.114454,Historical
+Lithuania,2005,0.105937,Historical
+Lithuania,2006,0.102707,Historical
+Lithuania,2007,0.114169,Historical
+Lithuania,2008,0.114723,Historical
+Lithuania,2009,0.107806,Historical
+Lithuania,2010,0.079777,Historical
+Lithuania,2011,0.084153,Historical
+Lithuania,2012,0.085283,Historical
+Lithuania,2013,0.079740,Historical
+Lithuania,2014,0.077774,Historical
+Lithuania,2015,0.082141,Historical
+Lithuania,2016,0.084572,Historical
+Lithuania,2017,0.090009,Historical
+Lithuania,2018,0.093745,Historical
+Lithuania,2019,0.094724,Historical
+Lithuania,2020,0.094920,Historical
+Lithuania,2021,0.094722,Forecast
+Lithuania,2022,0.094447,Forecast
+Lithuania,2023,0.094227,Forecast
+Lithuania,2024,0.094091,Forecast
+Lithuania,2025,0.094024,Forecast
+Luxembourg,2000,0.325236,Historical
+Luxembourg,2001,0.344073,Historical
+Luxembourg,2002,0.372204,Historical
+Luxembourg,2003,0.385627,Historical
+Luxembourg,2004,0.430740,Historical
+Luxembourg,2005,0.430523,Historical
+Luxembourg,2006,0.416189,Historical
+Luxembourg,2007,0.397795,Historical
+Luxembourg,2008,0.387815,Historical
+Luxembourg,2009,0.364041,Historical
+Luxembourg,2010,0.376384,Historical
+Luxembourg,2011,0.358784,Historical
+Luxembourg,2012,0.344176,Historical
+Luxembourg,2013,0.320419,Historical
+Luxembourg,2014,0.303212,Historical
+Luxembourg,2015,0.287817,Historical
+Luxembourg,2016,0.277184,Historical
+Luxembourg,2017,0.283278,Historical
+Luxembourg,2018,0.290864,Historical
+Luxembourg,2019,0.290472,Historical
+Luxembourg,2020,0.244651,Historical
+Luxembourg,2021,0.223150,Forecast
+Luxembourg,2022,0.213061,Forecast
+Luxembourg,2023,0.208328,Forecast
+Luxembourg,2024,0.206106,Forecast
+Luxembourg,2025,0.205064,Forecast
+Madagascar,2000,0.002251,Historical
+Madagascar,2001,0.002144,Historical
+Madagascar,2002,0.001608,Historical
+Madagascar,2003,0.001998,Historical
+Madagascar,2004,0.002111,Historical
+Madagascar,2005,0.001984,Historical
+Madagascar,2006,0.001898,Historical
+Madagascar,2007,0.001967,Historical
+Madagascar,2008,0.002024,Historical
+Madagascar,2009,0.001735,Historical
+Madagascar,2010,0.001787,Historical
+Madagascar,2011,0.001947,Historical
+Madagascar,2012,0.002238,Historical
+Madagascar,2013,0.002286,Historical
+Madagascar,2014,0.002418,Historical
+Madagascar,2015,0.002577,Historical
+Madagascar,2016,0.002633,Historical
+Madagascar,2017,0.002352,Historical
+Madagascar,2018,0.002207,Historical
+Madagascar,2019,0.002585,Historical
+Madagascar,2020,0.001704,Historical
+Madagascar,2021,0.001904,Forecast
+Madagascar,2022,0.002003,Forecast
+Madagascar,2023,0.002051,Forecast
+Madagascar,2024,0.002075,Forecast
+Madagascar,2025,0.002087,Forecast
+Malawi,2000,0.002309,Historical
+Malawi,2001,0.002214,Historical
+Malawi,2002,0.002135,Historical
+Malawi,2003,0.002187,Historical
+Malawi,2004,0.002271,Historical
+Malawi,2005,0.002149,Historical
+Malawi,2006,0.002159,Historical
+Malawi,2007,0.002090,Historical
+Malawi,2008,0.002315,Historical
+Malawi,2009,0.002094,Historical
+Malawi,2010,0.002439,Historical
+Malawi,2011,0.002387,Historical
+Malawi,2012,0.002330,Historical
+Malawi,2013,0.002303,Historical
+Malawi,2014,0.002305,Historical
+Malawi,2015,0.002161,Historical
+Malawi,2016,0.002215,Historical
+Malawi,2017,0.002222,Historical
+Malawi,2018,0.002066,Historical
+Malawi,2019,0.002048,Historical
+Malawi,2020,0.001917,Historical
+Malawi,2021,0.002065,Forecast
+Malawi,2022,0.002132,Forecast
+Malawi,2023,0.002162,Forecast
+Malawi,2024,0.002176,Forecast
+Malawi,2025,0.002182,Forecast
+Malaysia,2000,0.101452,Historical
+Malaysia,2001,0.101233,Historical
+Malaysia,2002,0.103980,Historical
+Malaysia,2003,0.109934,Historical
+Malaysia,2004,0.115999,Historical
+Malaysia,2005,0.122677,Historical
+Malaysia,2006,0.121223,Historical
+Malaysia,2007,0.126517,Historical
+Malaysia,2008,0.128385,Historical
+Malaysia,2009,0.121878,Historical
+Malaysia,2010,0.123722,Historical
+Malaysia,2011,0.123863,Historical
+Malaysia,2012,0.133328,Historical
+Malaysia,2013,0.137336,Historical
+Malaysia,2014,0.136573,Historical
+Malaysia,2015,0.136634,Historical
+Malaysia,2016,0.141666,Historical
+Malaysia,2017,0.141527,Historical
+Malaysia,2018,0.142175,Historical
+Malaysia,2019,0.144042,Historical
+Malaysia,2020,0.137088,Historical
+Malaysia,2021,0.138870,Forecast
+Malaysia,2022,0.140652,Forecast
+Malaysia,2023,0.142433,Forecast
+Malaysia,2024,0.144215,Forecast
+Malaysia,2025,0.145997,Forecast
+Maldives,2000,0.038577,Historical
+Maldives,2001,0.031805,Historical
+Maldives,2002,0.037383,Historical
+Maldives,2003,0.031960,Historical
+Maldives,2004,0.041127,Historical
+Maldives,2005,0.036643,Historical
+Maldives,2006,0.045345,Historical
+Maldives,2007,0.045433,Historical
+Maldives,2008,0.047670,Historical
+Maldives,2009,0.048882,Historical
+Maldives,2010,0.047698,Historical
+Maldives,2011,0.049777,Historical
+Maldives,2012,0.061271,Historical
+Maldives,2013,0.062508,Historical
+Maldives,2014,0.080573,Historical
+Maldives,2015,0.057692,Historical
+Maldives,2016,0.058688,Historical
+Maldives,2017,0.058555,Historical
+Maldives,2018,0.064820,Historical
+Maldives,2019,0.070712,Historical
+Maldives,2020,0.065916,Historical
+Maldives,2021,0.067917,Forecast
+Maldives,2022,0.067082,Forecast
+Maldives,2023,0.067430,Forecast
+Maldives,2024,0.067285,Forecast
+Maldives,2025,0.067345,Forecast
+Mali,2000,0.001492,Historical
+Mali,2001,0.001465,Historical
+Mali,2002,0.001374,Historical
+Mali,2003,0.001336,Historical
+Mali,2004,0.001344,Historical
+Mali,2005,0.001441,Historical
+Mali,2006,0.001636,Historical
+Mali,2007,0.001863,Historical
+Mali,2008,0.002153,Historical
+Mali,2009,0.002634,Historical
+Mali,2010,0.002884,Historical
+Mali,2011,0.003062,Historical
+Mali,2012,0.003162,Historical
+Mali,2013,0.003162,Historical
+Mali,2014,0.003425,Historical
+Mali,2015,0.003628,Historical
+Mali,2016,0.004464,Historical
+Mali,2017,0.004700,Historical
+Mali,2018,0.004737,Historical
+Mali,2019,0.004691,Historical
+Mali,2020,0.004352,Historical
+Mali,2021,0.004134,Forecast
+Mali,2022,0.003994,Forecast
+Mali,2023,0.003903,Forecast
+Mali,2024,0.003844,Forecast
+Mali,2025,0.003807,Forecast
+Malta,2000,0.176621,Historical
+Malta,2001,0.193133,Historical
+Malta,2002,0.187255,Historical
+Malta,2003,0.216438,Historical
+Malta,2004,0.226175,Historical
+Malta,2005,0.192294,Historical
+Malta,2006,0.196045,Historical
+Malta,2007,0.213103,Historical
+Malta,2008,0.219997,Historical
+Malta,2009,0.233253,Historical
+Malta,2010,0.276287,Historical
+Malta,2011,0.259689,Historical
+Malta,2012,0.243986,Historical
+Malta,2013,0.227569,Historical
+Malta,2014,0.228244,Historical
+Malta,2015,0.244229,Historical
+Malta,2016,0.265026,Historical
+Malta,2017,0.294441,Historical
+Malta,2018,0.299824,Historical
+Malta,2019,0.304973,Historical
+Malta,2020,0.274445,Historical
+Malta,2021,0.274445,Forecast
+Malta,2022,0.274445,Forecast
+Malta,2023,0.274445,Forecast
+Malta,2024,0.274445,Forecast
+Malta,2025,0.274445,Forecast
+Mauritania,2000,0.007130,Historical
+Mauritania,2001,0.007262,Historical
+Mauritania,2002,0.007632,Historical
+Mauritania,2003,0.007823,Historical
+Mauritania,2004,0.008232,Historical
+Mauritania,2005,0.008404,Historical
+Mauritania,2006,0.008001,Historical
+Mauritania,2007,0.008828,Historical
+Mauritania,2008,0.010593,Historical
+Mauritania,2009,0.010237,Historical
+Mauritania,2010,0.009881,Historical
+Mauritania,2011,0.010321,Historical
+Mauritania,2012,0.011068,Historical
+Mauritania,2013,0.009780,Historical
+Mauritania,2014,0.011404,Historical
+Mauritania,2015,0.011255,Historical
+Mauritania,2016,0.010235,Historical
+Mauritania,2017,0.014941,Historical
+Mauritania,2018,0.015516,Historical
+Mauritania,2019,0.015801,Historical
+Mauritania,2020,0.014794,Historical
+Mauritania,2021,0.014912,Forecast
+Mauritania,2022,0.015487,Forecast
+Mauritania,2023,0.015886,Forecast
+Mauritania,2024,0.016285,Forecast
+Mauritania,2025,0.016684,Forecast
+Mauritius,2000,0.050329,Historical
+Mauritius,2001,0.050975,Historical
+Mauritius,2002,0.049723,Historical
+Mauritius,2003,0.050459,Historical
+Mauritius,2004,0.051668,Historical
+Mauritius,2005,0.055034,Historical
+Mauritius,2006,0.057142,Historical
+Mauritius,2007,0.059036,Historical
+Mauritius,2008,0.060512,Historical
+Mauritius,2009,0.058187,Historical
+Mauritius,2010,0.062515,Historical
+Mauritius,2011,0.063935,Historical
+Mauritius,2012,0.064241,Historical
+Mauritius,2013,0.065139,Historical
+Mauritius,2014,0.067062,Historical
+Mauritius,2015,0.069492,Historical
+Mauritius,2016,0.072200,Historical
+Mauritius,2017,0.079162,Historical
+Mauritius,2018,0.083514,Historical
+Mauritius,2019,0.086829,Historical
+Mauritius,2020,0.073291,Historical
+Mauritius,2021,0.073291,Forecast
+Mauritius,2022,0.073291,Forecast
+Mauritius,2023,0.073291,Forecast
+Mauritius,2024,0.073291,Forecast
+Mauritius,2025,0.073291,Forecast
+Mexico,2000,0.065886,Historical
+Mexico,2001,0.064353,Historical
+Mexico,2002,0.064909,Historical
+Mexico,2003,0.064728,Historical
+Mexico,2004,0.067526,Historical
+Mexico,2005,0.072943,Historical
+Mexico,2006,0.073010,Historical
+Mexico,2007,0.072734,Historical
+Mexico,2008,0.074771,Historical
+Mexico,2009,0.072607,Historical
+Mexico,2010,0.071865,Historical
+Mexico,2011,0.074063,Historical
+Mexico,2012,0.073689,Historical
+Mexico,2013,0.072771,Historical
+Mexico,2014,0.071432,Historical
+Mexico,2015,0.069826,Historical
+Mexico,2016,0.070602,Historical
+Mexico,2017,0.071175,Historical
+Mexico,2018,0.069576,Historical
+Mexico,2019,0.068181,Historical
+Mexico,2020,0.062390,Historical
+Mexico,2021,0.058071,Forecast
+Mexico,2022,0.059704,Forecast
+Mexico,2023,0.059967,Forecast
+Mexico,2024,0.058737,Forecast
+Mexico,2025,0.059604,Forecast
+Mongolia,2000,0.067375,Historical
+Mongolia,2001,0.066653,Historical
+Mongolia,2002,0.070460,Historical
+Mongolia,2003,0.066307,Historical
+Mongolia,2004,0.064539,Historical
+Mongolia,2005,0.066371,Historical
+Mongolia,2006,0.070878,Historical
+Mongolia,2007,0.073702,Historical
+Mongolia,2008,0.072050,Historical
+Mongolia,2009,0.072056,Historical
+Mongolia,2010,0.069319,Historical
+Mongolia,2011,0.071060,Historical
+Mongolia,2012,0.075041,Historical
+Mongolia,2013,0.078153,Historical
+Mongolia,2014,0.075021,Historical
+Mongolia,2015,0.073053,Historical
+Mongolia,2016,0.074993,Historical
+Mongolia,2017,0.080140,Historical
+Mongolia,2018,0.085634,Historical
+Mongolia,2019,0.092463,Historical
+Mongolia,2020,0.077601,Historical
+Mongolia,2021,0.077601,Forecast
+Mongolia,2022,0.077601,Forecast
+Mongolia,2023,0.077601,Forecast
+Mongolia,2024,0.077601,Forecast
+Mongolia,2025,0.077601,Forecast
+Montenegro,2007,0.083216,Historical
+Montenegro,2008,0.094111,Historical
+Montenegro,2009,0.081212,Historical
+Montenegro,2010,0.101422,Historical
+Montenegro,2011,0.083559,Historical
+Montenegro,2012,0.081026,Historical
+Montenegro,2013,0.087134,Historical
+Montenegro,2014,0.077820,Historical
+Montenegro,2015,0.080107,Historical
+Montenegro,2016,0.080081,Historical
+Montenegro,2017,0.074872,Historical
+Montenegro,2018,0.083221,Historical
+Montenegro,2019,0.077920,Historical
+Montenegro,2020,0.068329,Historical
+Montenegro,2021,0.074406,Forecast
+Montenegro,2022,0.071499,Forecast
+Montenegro,2023,0.070164,Forecast
+Montenegro,2024,0.068830,Forecast
+Montenegro,2025,0.067495,Forecast
+Morocco,2000,0.015666,Historical
+Morocco,2001,0.016705,Historical
+Morocco,2002,0.016908,Historical
+Morocco,2003,0.016749,Historical
+Morocco,2004,0.018838,Historical
+Morocco,2005,0.020189,Historical
+Morocco,2006,0.020338,Historical
+Morocco,2007,0.019903,Historical
+Morocco,2008,0.021684,Historical
+Morocco,2009,0.020893,Historical
+Morocco,2010,0.022869,Historical
+Morocco,2011,0.023698,Historical
+Morocco,2012,0.023798,Historical
+Morocco,2013,0.024107,Historical
+Morocco,2014,0.024132,Historical
+Morocco,2015,0.024253,Historical
+Morocco,2016,0.024225,Historical
+Morocco,2017,0.025061,Historical
+Morocco,2018,0.025632,Historical
+Morocco,2019,0.027677,Historical
+Morocco,2020,0.024950,Historical
+Morocco,2021,0.026857,Forecast
+Morocco,2022,0.027372,Forecast
+Morocco,2023,0.027887,Forecast
+Morocco,2024,0.028403,Forecast
+Morocco,2025,0.028918,Forecast
+Mozambique,2000,0.006271,Historical
+Mozambique,2001,0.007840,Historical
+Mozambique,2002,0.007738,Historical
+Mozambique,2003,0.007636,Historical
+Mozambique,2004,0.007797,Historical
+Mozambique,2005,0.008338,Historical
+Mozambique,2006,0.008856,Historical
+Mozambique,2007,0.009589,Historical
+Mozambique,2008,0.008802,Historical
+Mozambique,2009,0.009264,Historical
+Mozambique,2010,0.008971,Historical
+Mozambique,2011,0.009865,Historical
+Mozambique,2012,0.010285,Historical
+Mozambique,2013,0.010569,Historical
+Mozambique,2014,0.011376,Historical
+Mozambique,2015,0.011721,Historical
+Mozambique,2016,0.011681,Historical
+Mozambique,2017,0.011369,Historical
+Mozambique,2018,0.009075,Historical
+Mozambique,2019,0.009319,Historical
+Mozambique,2020,0.008564,Historical
+Mozambique,2021,0.008564,Forecast
+Mozambique,2022,0.008564,Forecast
+Mozambique,2023,0.008564,Forecast
+Mozambique,2024,0.008564,Forecast
+Mozambique,2025,0.008564,Forecast
+Myanmar,2000,0.004018,Historical
+Myanmar,2001,0.003671,Historical
+Myanmar,2002,0.004217,Historical
+Myanmar,2003,0.004709,Historical
+Myanmar,2004,0.004895,Historical
+Myanmar,2005,0.006256,Historical
+Myanmar,2006,0.005861,Historical
+Myanmar,2007,0.006279,Historical
+Myanmar,2008,0.005731,Historical
+Myanmar,2009,0.005247,Historical
+Myanmar,2010,0.005282,Historical
+Myanmar,2011,0.005732,Historical
+Myanmar,2012,0.006777,Historical
+Myanmar,2013,0.007780,Historical
+Myanmar,2014,0.009020,Historical
+Myanmar,2015,0.008350,Historical
+Myanmar,2016,0.009527,Historical
+Myanmar,2017,0.012201,Historical
+Myanmar,2018,0.012456,Historical
+Myanmar,2019,0.012176,Historical
+Myanmar,2020,0.012122,Historical
+Myanmar,2021,0.012527,Forecast
+Myanmar,2022,0.012932,Forecast
+Myanmar,2023,0.013337,Forecast
+Myanmar,2024,0.013742,Forecast
+Myanmar,2025,0.014147,Forecast
+Namibia,2000,0.026550,Historical
+Namibia,2001,0.030112,Historical
+Namibia,2002,0.028460,Historical
+Namibia,2003,0.029584,Historical
+Namibia,2004,0.030459,Historical
+Namibia,2005,0.031722,Historical
+Namibia,2006,0.031241,Historical
+Namibia,2007,0.031750,Historical
+Namibia,2008,0.033019,Historical
+Namibia,2009,0.033177,Historical
+Namibia,2010,0.033645,Historical
+Namibia,2011,0.034413,Historical
+Namibia,2012,0.034879,Historical
+Namibia,2013,0.035470,Historical
+Namibia,2014,0.037077,Historical
+Namibia,2015,0.038136,Historical
+Namibia,2016,0.037552,Historical
+Namibia,2017,0.037968,Historical
+Namibia,2018,0.036848,Historical
+Namibia,2019,0.035244,Historical
+Namibia,2020,0.034124,Historical
+Namibia,2021,0.034124,Forecast
+Namibia,2022,0.034124,Forecast
+Namibia,2023,0.034124,Forecast
+Namibia,2024,0.034124,Forecast
+Namibia,2025,0.034124,Forecast
+Nauru,2000,0.167630,Historical
+Nauru,2001,0.152153,Historical
+Nauru,2002,0.142959,Historical
+Nauru,2003,0.128286,Historical
+Nauru,2004,0.120501,Historical
+Nauru,2005,0.118302,Historical
+Nauru,2006,0.086295,Historical
+Nauru,2007,0.084282,Historical
+Nauru,2008,0.085908,Historical
+Nauru,2009,0.083602,Historical
+Nauru,2010,0.088063,Historical
+Nauru,2011,0.086219,Historical
+Nauru,2012,0.090082,Historical
+Nauru,2013,0.102733,Historical
+Nauru,2014,0.108441,Historical
+Nauru,2015,0.112981,Historical
+Nauru,2016,0.121223,Historical
+Nauru,2017,0.093327,Historical
+Nauru,2018,0.107409,Historical
+Nauru,2019,0.085326,Historical
+Nauru,2020,0.080517,Historical
+Nauru,2021,0.079700,Forecast
+Nauru,2022,0.077958,Forecast
+Nauru,2023,0.081882,Forecast
+Nauru,2024,0.085390,Forecast
+Nauru,2025,0.088527,Forecast
+Nepal,2000,0.002281,Historical
+Nepal,2001,0.002369,Historical
+Nepal,2002,0.002457,Historical
+Nepal,2003,0.002550,Historical
+Nepal,2004,0.002515,Historical
+Nepal,2005,0.002584,Historical
+Nepal,2006,0.002527,Historical
+Nepal,2007,0.002490,Historical
+Nepal,2008,0.002740,Historical
+Nepal,2009,0.003118,Historical
+Nepal,2010,0.003308,Historical
+Nepal,2011,0.003512,Historical
+Nepal,2012,0.003683,Historical
+Nepal,2013,0.003887,Historical
+Nepal,2014,0.004187,Historical
+Nepal,2015,0.003729,Historical
+Nepal,2016,0.005431,Historical
+Nepal,2017,0.006149,Historical
+Nepal,2018,0.006678,Historical
+Nepal,2019,0.006476,Historical
+Nepal,2020,0.006390,Historical
+Nepal,2021,0.006595,Forecast
+Nepal,2022,0.006800,Forecast
+Nepal,2023,0.007006,Forecast
+Nepal,2024,0.007211,Forecast
+Nepal,2025,0.007417,Forecast
+Netherlands,2000,0.241161,Historical
+Netherlands,2001,0.249147,Historical
+Netherlands,2002,0.248096,Historical
+Netherlands,2003,0.248668,Historical
+Netherlands,2004,0.256004,Historical
+Netherlands,2005,0.260471,Historical
+Netherlands,2006,0.254165,Historical
+Netherlands,2007,0.257318,Historical
+Netherlands,2008,0.253192,Historical
+Netherlands,2009,0.248560,Historical
+Netherlands,2010,0.268287,Historical
+Netherlands,2011,0.254264,Historical
+Netherlands,2012,0.248594,Historical
+Netherlands,2013,0.239976,Historical
+Netherlands,2014,0.228291,Historical
+Netherlands,2015,0.231098,Historical
+Netherlands,2016,0.232089,Historical
+Netherlands,2017,0.232690,Historical
+Netherlands,2018,0.226014,Historical
+Netherlands,2019,0.224068,Historical
+Netherlands,2020,0.215951,Historical
+Netherlands,2021,0.215951,Forecast
+Netherlands,2022,0.215951,Forecast
+Netherlands,2023,0.215951,Forecast
+Netherlands,2024,0.215951,Forecast
+Netherlands,2025,0.215951,Forecast
+New Caledonia,2000,0.172394,Historical
+New Caledonia,2001,0.161610,Historical
+New Caledonia,2002,0.171435,Historical
+New Caledonia,2003,0.182086,Historical
+New Caledonia,2004,0.173660,Historical
+New Caledonia,2005,0.187842,Historical
+New Caledonia,2006,0.182241,Historical
+New Caledonia,2007,0.192638,Historical
+New Caledonia,2008,0.190534,Historical
+New Caledonia,2009,0.188749,Historical
+New Caledonia,2010,0.216055,Historical
+New Caledonia,2011,0.209663,Historical
+New Caledonia,2012,0.218817,Historical
+New Caledonia,2013,0.230144,Historical
+New Caledonia,2014,0.260595,Historical
+New Caledonia,2015,0.264685,Historical
+New Caledonia,2016,0.281642,Historical
+New Caledonia,2017,0.272193,Historical
+New Caledonia,2018,0.303535,Historical
+New Caledonia,2019,0.301101,Historical
+New Caledonia,2020,0.282812,Historical
+New Caledonia,2021,0.299027,Forecast
+New Caledonia,2022,0.300981,Forecast
+New Caledonia,2023,0.308829,Forecast
+New Caledonia,2024,0.314242,Forecast
+New Caledonia,2025,0.320661,Forecast
+New Zealand,2000,0.226760,Historical
+New Zealand,2001,0.222728,Historical
+New Zealand,2002,0.226932,Historical
+New Zealand,2003,0.216062,Historical
+New Zealand,2004,0.218975,Historical
+New Zealand,2005,0.210797,Historical
+New Zealand,2006,0.209788,Historical
+New Zealand,2007,0.207005,Historical
+New Zealand,2008,0.205687,Historical
+New Zealand,2009,0.203124,Historical
+New Zealand,2010,0.206018,Historical
+New Zealand,2011,0.205217,Historical
+New Zealand,2012,0.205379,Historical
+New Zealand,2013,0.204983,Historical
+New Zealand,2014,0.211476,Historical
+New Zealand,2015,0.209225,Historical
+New Zealand,2016,0.207980,Historical
+New Zealand,2017,0.208486,Historical
+New Zealand,2018,0.203454,Historical
+New Zealand,2019,0.202826,Historical
+New Zealand,2020,0.180454,Historical
+New Zealand,2021,0.182050,Forecast
+New Zealand,2022,0.165390,Forecast
+New Zealand,2023,0.167628,Forecast
+New Zealand,2024,0.154722,Forecast
+New Zealand,2025,0.156829,Forecast
+Nicaragua,2000,0.012114,Historical
+Nicaragua,2001,0.012686,Historical
+Nicaragua,2002,0.012768,Historical
+Nicaragua,2003,0.013383,Historical
+Nicaragua,2004,0.013765,Historical
+Nicaragua,2005,0.013813,Historical
+Nicaragua,2006,0.013692,Historical
+Nicaragua,2007,0.014062,Historical
+Nicaragua,2008,0.014029,Historical
+Nicaragua,2009,0.013831,Historical
+Nicaragua,2010,0.014090,Historical
+Nicaragua,2011,0.014606,Historical
+Nicaragua,2012,0.014531,Historical
+Nicaragua,2013,0.015201,Historical
+Nicaragua,2014,0.015895,Historical
+Nicaragua,2015,0.017144,Historical
+Nicaragua,2016,0.016953,Historical
+Nicaragua,2017,0.016666,Historical
+Nicaragua,2018,0.016309,Historical
+Nicaragua,2019,0.016092,Historical
+Nicaragua,2020,0.016138,Historical
+Nicaragua,2021,0.016339,Forecast
+Nicaragua,2022,0.016540,Forecast
+Nicaragua,2023,0.016741,Forecast
+Nicaragua,2024,0.016942,Forecast
+Nicaragua,2025,0.017143,Forecast
+Niger,2000,0.001087,Historical
+Niger,2001,0.001028,Historical
+Niger,2002,0.001056,Historical
+Niger,2003,0.001121,Historical
+Niger,2004,0.001187,Historical
+Niger,2005,0.001080,Historical
+Niger,2006,0.001048,Historical
+Niger,2007,0.001087,Historical
+Niger,2008,0.001165,Historical
+Niger,2009,0.001321,Historical
+Niger,2010,0.001576,Historical
+Niger,2011,0.001524,Historical
+Niger,2012,0.001950,Historical
+Niger,2013,0.002112,Historical
+Niger,2014,0.001929,Historical
+Niger,2015,0.001961,Historical
+Niger,2016,0.001762,Historical
+Niger,2017,0.001649,Historical
+Niger,2018,0.001752,Historical
+Niger,2019,0.001784,Historical
+Niger,2020,0.001685,Historical
+Niger,2021,0.001685,Forecast
+Niger,2022,0.001685,Forecast
+Niger,2023,0.001685,Forecast
+Niger,2024,0.001685,Forecast
+Niger,2025,0.001685,Forecast
+Nigeria,2000,0.006959,Historical
+Nigeria,2001,0.007669,Historical
+Nigeria,2002,0.007796,Historical
+Nigeria,2003,0.008000,Historical
+Nigeria,2004,0.008082,Historical
+Nigeria,2005,0.008605,Historical
+Nigeria,2006,0.007468,Historical
+Nigeria,2007,0.006663,Historical
+Nigeria,2008,0.007799,Historical
+Nigeria,2009,0.004762,Historical
+Nigeria,2010,0.005766,Historical
+Nigeria,2011,0.007981,Historical
+Nigeria,2012,0.007744,Historical
+Nigeria,2013,0.009696,Historical
+Nigeria,2014,0.010312,Historical
+Nigeria,2015,0.009505,Historical
+Nigeria,2016,0.009478,Historical
+Nigeria,2017,0.008983,Historical
+Nigeria,2018,0.009375,Historical
+Nigeria,2019,0.009455,Historical
+Nigeria,2020,0.009311,Historical
+Nigeria,2021,0.008923,Forecast
+Nigeria,2022,0.008664,Forecast
+Nigeria,2023,0.008491,Forecast
+Nigeria,2024,0.008375,Forecast
+Nigeria,2025,0.008298,Forecast
+North Macedonia,2000,0.057645,Historical
+North Macedonia,2001,0.053830,Historical
+North Macedonia,2002,0.052311,Historical
+North Macedonia,2003,0.058794,Historical
+North Macedonia,2004,0.057929,Historical
+North Macedonia,2005,0.059833,Historical
+North Macedonia,2006,0.060756,Historical
+North Macedonia,2007,0.060272,Historical
+North Macedonia,2008,0.058290,Historical
+North Macedonia,2009,0.057312,Historical
+North Macedonia,2010,0.062108,Historical
+North Macedonia,2011,0.061860,Historical
+North Macedonia,2012,0.057369,Historical
+North Macedonia,2013,0.054752,Historical
+North Macedonia,2014,0.050585,Historical
+North Macedonia,2015,0.053265,Historical
+North Macedonia,2016,0.055206,Historical
+North Macedonia,2017,0.053071,Historical
+North Macedonia,2018,0.052977,Historical
+North Macedonia,2019,0.055942,Historical
+North Macedonia,2020,0.048833,Historical
+North Macedonia,2021,0.051288,Forecast
+North Macedonia,2022,0.052886,Forecast
+North Macedonia,2023,0.053925,Forecast
+North Macedonia,2024,0.054602,Forecast
+North Macedonia,2025,0.055042,Forecast
+Norway,2000,0.492240,Historical
+Norway,2001,0.442916,Historical
+Norway,2002,0.458381,Historical
+Norway,2003,0.402109,Historical
+Norway,2004,0.407117,Historical
+Norway,2005,0.461862,Historical
+Norway,2006,0.419593,Historical
+Norway,2007,0.445771,Historical
+Norway,2008,0.450832,Historical
+Norway,2009,0.411058,Historical
+Norway,2010,0.389711,Historical
+Norway,2011,0.390154,Historical
+Norway,2012,0.426462,Historical
+Norway,2013,0.394964,Historical
+Norway,2014,0.402283,Historical
+Norway,2015,0.402080,Historical
+Norway,2016,0.404420,Historical
+Norway,2017,0.403302,Historical
+Norway,2018,0.394379,Historical
+Norway,2019,0.367090,Historical
+Norway,2020,0.395638,Historical
+Norway,2021,0.377572,Forecast
+Norway,2022,0.373953,Forecast
+Norway,2023,0.370335,Forecast
+Norway,2024,0.366716,Forecast
+Norway,2025,0.363097,Forecast
+Oman,2000,0.180197,Historical
+Oman,2001,0.197513,Historical
+Oman,2002,0.210719,Historical
+Oman,2003,0.216069,Historical
+Oman,2004,0.197713,Historical
+Oman,2005,0.234702,Historical
+Oman,2006,0.253234,Historical
+Oman,2007,0.252205,Historical
+Oman,2008,0.288432,Historical
+Oman,2009,0.281219,Historical
+Oman,2010,0.313090,Historical
+Oman,2011,0.308383,Historical
+Oman,2012,0.305154,Historical
+Oman,2013,0.316785,Historical
+Oman,2014,0.299966,Historical
+Oman,2015,0.305972,Historical
+Oman,2016,0.292446,Historical
+Oman,2017,0.296302,Historical
+Oman,2018,0.310994,Historical
+Oman,2019,0.308741,Historical
+Oman,2020,0.301000,Historical
+Oman,2021,0.311415,Forecast
+Oman,2022,0.316112,Forecast
+Oman,2023,0.322611,Forecast
+Oman,2024,0.328541,Forecast
+Oman,2025,0.334651,Forecast
+Pakistan,2000,0.011934,Historical
+Pakistan,2001,0.011843,Historical
+Pakistan,2002,0.011992,Historical
+Pakistan,2003,0.012778,Historical
+Pakistan,2004,0.013905,Historical
+Pakistan,2005,0.014119,Historical
+Pakistan,2006,0.014571,Historical
+Pakistan,2007,0.015164,Historical
+Pakistan,2008,0.014911,Historical
+Pakistan,2009,0.014774,Historical
+Pakistan,2010,0.014507,Historical
+Pakistan,2011,0.014195,Historical
+Pakistan,2012,0.012954,Historical
+Pakistan,2013,0.013942,Historical
+Pakistan,2014,0.014189,Historical
+Pakistan,2015,0.014727,Historical
+Pakistan,2016,0.015855,Historical
+Pakistan,2017,0.016562,Historical
+Pakistan,2018,0.016829,Historical
+Pakistan,2019,0.016757,Historical
+Pakistan,2020,0.016380,Historical
+Pakistan,2021,0.016602,Forecast
+Pakistan,2022,0.016824,Forecast
+Pakistan,2023,0.017046,Forecast
+Pakistan,2024,0.017268,Forecast
+Pakistan,2025,0.017490,Forecast
+Panama,2000,0.085088,Historical
+Panama,2001,0.084805,Historical
+Panama,2002,0.082174,Historical
+Panama,2003,0.081290,Historical
+Panama,2004,0.081318,Historical
+Panama,2005,0.079703,Historical
+Panama,2006,0.084934,Historical
+Panama,2007,0.078683,Historical
+Panama,2008,0.090494,Historical
+Panama,2009,0.086098,Historical
+Panama,2010,0.095937,Historical
+Panama,2011,0.095064,Historical
+Panama,2012,0.103674,Historical
+Panama,2013,0.100253,Historical
+Panama,2014,0.100746,Historical
+Panama,2015,0.108153,Historical
+Panama,2016,0.112324,Historical
+Panama,2017,0.118743,Historical
+Panama,2018,0.119029,Historical
+Panama,2019,0.106158,Historical
+Panama,2020,0.105264,Historical
+Panama,2021,0.105264,Forecast
+Panama,2022,0.105264,Forecast
+Panama,2023,0.105264,Forecast
+Panama,2024,0.105264,Forecast
+Panama,2025,0.105264,Forecast
+Papua New Guinea,2000,0.010463,Historical
+Papua New Guinea,2001,0.011567,Historical
+Papua New Guinea,2002,0.011705,Historical
+Papua New Guinea,2003,0.012857,Historical
+Papua New Guinea,2004,0.013907,Historical
+Papua New Guinea,2005,0.013013,Historical
+Papua New Guinea,2006,0.012922,Historical
+Papua New Guinea,2007,0.013498,Historical
+Papua New Guinea,2008,0.011642,Historical
+Papua New Guinea,2009,0.012411,Historical
+Papua New Guinea,2010,0.010921,Historical
+Papua New Guinea,2011,0.011110,Historical
+Papua New Guinea,2012,0.010442,Historical
+Papua New Guinea,2013,0.010400,Historical
+Papua New Guinea,2014,0.010726,Historical
+Papua New Guinea,2015,0.012074,Historical
+Papua New Guinea,2016,0.012504,Historical
+Papua New Guinea,2017,0.011799,Historical
+Papua New Guinea,2018,0.011997,Historical
+Papua New Guinea,2019,0.012032,Historical
+Papua New Guinea,2020,0.008241,Historical
+Papua New Guinea,2021,0.009616,Forecast
+Papua New Guinea,2022,0.010401,Forecast
+Papua New Guinea,2023,0.010849,Forecast
+Papua New Guinea,2024,0.011104,Forecast
+Papua New Guinea,2025,0.011250,Forecast
+Paraguay,2000,0.092678,Historical
+Paraguay,2001,0.081029,Historical
+Paraguay,2002,0.083234,Historical
+Paraguay,2003,0.087141,Historical
+Paraguay,2004,0.085494,Historical
+Paraguay,2005,0.082838,Historical
+Paraguay,2006,0.085829,Historical
+Paraguay,2007,0.085340,Historical
+Paraguay,2008,0.087161,Historical
+Paraguay,2009,0.085511,Historical
+Paraguay,2010,0.085485,Historical
+Paraguay,2011,0.088907,Historical
+Paraguay,2012,0.090023,Historical
+Paraguay,2013,0.089549,Historical
+Paraguay,2014,0.083571,Historical
+Paraguay,2015,0.084511,Historical
+Paraguay,2016,0.094137,Historical
+Paraguay,2017,0.089250,Historical
+Paraguay,2018,0.088122,Historical
+Paraguay,2019,0.075800,Historical
+Paraguay,2020,0.070427,Historical
+Paraguay,2021,0.080796,Forecast
+Paraguay,2022,0.085571,Forecast
+Paraguay,2023,0.085571,Forecast
+Paraguay,2024,0.085571,Forecast
+Paraguay,2025,0.085571,Forecast
+Peru,2000,0.021054,Historical
+Peru,2001,0.020592,Historical
+Peru,2002,0.020839,Historical
+Peru,2003,0.020359,Historical
+Peru,2004,0.021489,Historical
+Peru,2005,0.022152,Historical
+Peru,2006,0.022220,Historical
+Peru,2007,0.024006,Historical
+Peru,2008,0.025733,Historical
+Peru,2009,0.026051,Historical
+Peru,2010,0.029352,Historical
+Peru,2011,0.032111,Historical
+Peru,2012,0.032864,Historical
+Peru,2013,0.033290,Historical
+Peru,2014,0.033728,Historical
+Peru,2015,0.034927,Historical
+Peru,2016,0.036567,Historical
+Peru,2017,0.036581,Historical
+Peru,2018,0.037655,Historical
+Peru,2019,0.037891,Historical
+Peru,2020,0.031858,Historical
+Peru,2021,0.031858,Forecast
+Peru,2022,0.031858,Forecast
+Peru,2023,0.031858,Forecast
+Peru,2024,0.031858,Forecast
+Peru,2025,0.031858,Forecast
+Philippines,2000,0.015024,Historical
+Philippines,2001,0.014383,Historical
+Philippines,2002,0.014157,Historical
+Philippines,2003,0.014313,Historical
+Philippines,2004,0.014364,Historical
+Philippines,2005,0.014141,Historical
+Philippines,2006,0.013221,Historical
+Philippines,2007,0.013463,Historical
+Philippines,2008,0.013663,Historical
+Philippines,2009,0.013571,Historical
+Philippines,2010,0.013716,Historical
+Philippines,2011,0.013743,Historical
+Philippines,2012,0.013970,Historical
+Philippines,2013,0.014722,Historical
+Philippines,2014,0.015244,Historical
+Philippines,2015,0.016429,Historical
+Philippines,2016,0.017629,Historical
+Philippines,2017,0.019003,Historical
+Philippines,2018,0.019196,Historical
+Philippines,2019,0.019439,Historical
+Philippines,2020,0.017386,Historical
+Philippines,2021,0.016199,Forecast
+Philippines,2022,0.015513,Forecast
+Philippines,2023,0.015116,Forecast
+Philippines,2024,0.014886,Forecast
+Philippines,2025,0.014754,Forecast
+Poland,2000,0.100638,Historical
+Poland,2001,0.099530,Historical
+Poland,2002,0.098497,Historical
+Poland,2003,0.101978,Historical
+Poland,2004,0.102737,Historical
+Poland,2005,0.105074,Historical
+Poland,2006,0.110352,Historical
+Poland,2007,0.110112,Historical
+Poland,2008,0.112037,Historical
+Poland,2009,0.108021,Historical
+Poland,2010,0.115063,Historical
+Poland,2011,0.115659,Historical
+Poland,2012,0.112322,Historical
+Poland,2013,0.112643,Historical
+Poland,2014,0.108670,Historical
+Poland,2015,0.109874,Historical
+Poland,2016,0.114715,Historical
+Poland,2017,0.119182,Historical
+Poland,2018,0.120575,Historical
+Poland,2019,0.117210,Historical
+Poland,2020,0.112398,Historical
+Poland,2021,0.112398,Forecast
+Poland,2022,0.112398,Forecast
+Poland,2023,0.112398,Forecast
+Poland,2024,0.112398,Forecast
+Poland,2025,0.112398,Forecast
+Portugal,2000,0.108445,Historical
+Portugal,2001,0.109295,Historical
+Portugal,2002,0.107854,Historical
+Portugal,2003,0.110309,Historical
+Portugal,2004,0.107894,Historical
+Portugal,2005,0.107466,Historical
+Portugal,2006,0.106472,Historical
+Portugal,2007,0.107076,Historical
+Portugal,2008,0.103206,Historical
+Portugal,2009,0.103996,Historical
+Portugal,2010,0.109730,Historical
+Portugal,2011,0.104909,Historical
+Portugal,2012,0.096194,Historical
+Portugal,2013,0.106190,Historical
+Portugal,2014,0.108917,Historical
+Portugal,2015,0.106998,Historical
+Portugal,2016,0.114806,Historical
+Portugal,2017,0.111534,Historical
+Portugal,2018,0.113842,Historical
+Portugal,2019,0.108416,Historical
+Portugal,2020,0.098185,Historical
+Portugal,2021,0.102572,Forecast
+Portugal,2022,0.106984,Forecast
+Portugal,2023,0.106984,Forecast
+Portugal,2024,0.106984,Forecast
+Portugal,2025,0.106984,Forecast
+Puerto Rico,2000,0.128749,Historical
+Puerto Rico,2001,0.139954,Historical
+Puerto Rico,2002,0.143733,Historical
+Puerto Rico,2003,0.149811,Historical
+Puerto Rico,2004,0.155087,Historical
+Puerto Rico,2005,0.150673,Historical
+Puerto Rico,2006,0.137338,Historical
+Puerto Rico,2007,0.133109,Historical
+Puerto Rico,2008,0.125198,Historical
+Puerto Rico,2009,0.117783,Historical
+Puerto Rico,2010,0.100431,Historical
+Puerto Rico,2011,0.109527,Historical
+Puerto Rico,2012,0.116436,Historical
+Puerto Rico,2013,0.103727,Historical
+Puerto Rico,2014,0.100367,Historical
+Puerto Rico,2015,0.102191,Historical
+Puerto Rico,2016,0.097419,Historical
+Puerto Rico,2017,0.096427,Historical
+Puerto Rico,2018,0.098281,Historical
+Puerto Rico,2019,0.093428,Historical
+Puerto Rico,2020,0.081725,Historical
+Puerto Rico,2021,0.081725,Forecast
+Puerto Rico,2022,0.081725,Forecast
+Puerto Rico,2023,0.081725,Forecast
+Puerto Rico,2024,0.081725,Forecast
+Puerto Rico,2025,0.081725,Forecast
+Qatar,2000,0.791192,Historical
+Qatar,2001,0.723529,Historical
+Qatar,2002,0.758396,Historical
+Qatar,2003,0.828961,Historical
+Qatar,2004,0.963733,Historical
+Qatar,2005,1.000000,Historical
+Qatar,2006,0.878936,Historical
+Qatar,2007,0.789382,Historical
+Qatar,2008,0.746427,Historical
+Qatar,2009,0.678779,Historical
+Qatar,2010,0.742020,Historical
+Qatar,2011,0.824052,Historical
+Qatar,2012,0.884727,Historical
+Qatar,2013,0.899462,Historical
+Qatar,2014,0.893188,Historical
+Qatar,2015,0.934064,Historical
+Qatar,2016,0.850193,Historical
+Qatar,2017,0.787892,Historical
+Qatar,2018,0.771445,Historical
+Qatar,2019,0.792203,Historical
+Qatar,2020,0.701008,Historical
+Qatar,2021,0.762874,Forecast
+Qatar,2022,0.840970,Forecast
+Qatar,2023,0.900779,Forecast
+Qatar,2024,0.921032,Forecast
+Qatar,2025,0.900135,Forecast
+Romania,2000,0.073027,Historical
+Romania,2001,0.074271,Historical
+Romania,2002,0.077614,Historical
+Romania,2003,0.078225,Historical
+Romania,2004,0.081807,Historical
+Romania,2005,0.082747,Historical
+Romania,2006,0.085169,Historical
+Romania,2007,0.082831,Historical
+Romania,2008,0.083653,Historical
+Romania,2009,0.073557,Historical
+Romania,2010,0.074710,Historical
+Romania,2011,0.076970,Historical
+Romania,2012,0.074316,Historical
+Romania,2013,0.069578,Historical
+Romania,2014,0.072469,Historical
+Romania,2015,0.073170,Historical
+Romania,2016,0.073591,Historical
+Romania,2017,0.075203,Historical
+Romania,2018,0.076998,Historical
+Romania,2019,0.075553,Historical
+Romania,2020,0.072353,Historical
+Romania,2021,0.073305,Forecast
+Romania,2022,0.073992,Forecast
+Romania,2023,0.074488,Forecast
+Romania,2024,0.074846,Forecast
+Romania,2025,0.075105,Forecast
+Rwanda,2000,0.001362,Historical
+Rwanda,2001,0.001322,Historical
+Rwanda,2002,0.001327,Historical
+Rwanda,2003,0.001291,Historical
+Rwanda,2004,0.001212,Historical
+Rwanda,2005,0.001145,Historical
+Rwanda,2006,0.001081,Historical
+Rwanda,2007,0.001076,Historical
+Rwanda,2008,0.001103,Historical
+Rwanda,2009,0.001131,Historical
+Rwanda,2010,0.001237,Historical
+Rwanda,2011,0.001340,Historical
+Rwanda,2012,0.001435,Historical
+Rwanda,2013,0.001488,Historical
+Rwanda,2014,0.001536,Historical
+Rwanda,2015,0.001661,Historical
+Rwanda,2016,0.001636,Historical
+Rwanda,2017,0.001747,Historical
+Rwanda,2018,0.001870,Historical
+Rwanda,2019,0.002002,Historical
+Rwanda,2020,0.001892,Historical
+Rwanda,2021,0.001836,Forecast
+Rwanda,2022,0.001807,Forecast
+Rwanda,2023,0.001793,Forecast
+Rwanda,2024,0.001785,Forecast
+Rwanda,2025,0.001781,Forecast
+Saint Kitts and Nevis,2000,0.064563,Historical
+Saint Kitts and Nevis,2001,0.065982,Historical
+Saint Kitts and Nevis,2002,0.071756,Historical
+Saint Kitts and Nevis,2003,0.071611,Historical
+Saint Kitts and Nevis,2004,0.077208,Historical
+Saint Kitts and Nevis,2005,0.071700,Historical
+Saint Kitts and Nevis,2006,0.074066,Historical
+Saint Kitts and Nevis,2007,0.078080,Historical
+Saint Kitts and Nevis,2008,0.077757,Historical
+Saint Kitts and Nevis,2009,0.079350,Historical
+Saint Kitts and Nevis,2010,0.079711,Historical
+Saint Kitts and Nevis,2011,0.083218,Historical
+Saint Kitts and Nevis,2012,0.082546,Historical
+Saint Kitts and Nevis,2013,0.082182,Historical
+Saint Kitts and Nevis,2014,0.083167,Historical
+Saint Kitts and Nevis,2015,0.085145,Historical
+Saint Kitts and Nevis,2016,0.087396,Historical
+Saint Kitts and Nevis,2017,0.087360,Historical
+Saint Kitts and Nevis,2018,0.088425,Historical
+Saint Kitts and Nevis,2019,0.088486,Historical
+Saint Kitts and Nevis,2020,0.074805,Historical
+Saint Kitts and Nevis,2021,0.074805,Forecast
+Saint Kitts and Nevis,2022,0.074805,Forecast
+Saint Kitts and Nevis,2023,0.074805,Forecast
+Saint Kitts and Nevis,2024,0.074805,Forecast
+Saint Kitts and Nevis,2025,0.074805,Forecast
+Saint Lucia,2000,0.034976,Historical
+Saint Lucia,2001,0.037670,Historical
+Saint Lucia,2002,0.033784,Historical
+Saint Lucia,2003,0.037099,Historical
+Saint Lucia,2004,0.036960,Historical
+Saint Lucia,2005,0.037862,Historical
+Saint Lucia,2006,0.037945,Historical
+Saint Lucia,2007,0.038986,Historical
+Saint Lucia,2008,0.039816,Historical
+Saint Lucia,2009,0.038586,Historical
+Saint Lucia,2010,0.040033,Historical
+Saint Lucia,2011,0.040348,Historical
+Saint Lucia,2012,0.039937,Historical
+Saint Lucia,2013,0.039638,Historical
+Saint Lucia,2014,0.039840,Historical
+Saint Lucia,2015,0.039923,Historical
+Saint Lucia,2016,0.040174,Historical
+Saint Lucia,2017,0.043365,Historical
+Saint Lucia,2018,0.039701,Historical
+Saint Lucia,2019,0.058114,Historical
+Saint Lucia,2020,0.048786,Historical
+Saint Lucia,2021,0.057524,Forecast
+Saint Lucia,2022,0.052324,Forecast
+Saint Lucia,2023,0.057877,Forecast
+Saint Lucia,2024,0.055134,Forecast
+Saint Lucia,2025,0.058792,Forecast
+Saint Vincent and the Grenadines,2000,0.023455,Historical
+Saint Vincent and the Grenadines,2001,0.027187,Historical
+Saint Vincent and the Grenadines,2002,0.029442,Historical
+Saint Vincent and the Grenadines,2003,0.030947,Historical
+Saint Vincent and the Grenadines,2004,0.034335,Historical
+Saint Vincent and the Grenadines,2005,0.034640,Historical
+Saint Vincent and the Grenadines,2006,0.034552,Historical
+Saint Vincent and the Grenadines,2007,0.035401,Historical
+Saint Vincent and the Grenadines,2008,0.035600,Historical
+Saint Vincent and the Grenadines,2009,0.048080,Historical
+Saint Vincent and the Grenadines,2010,0.035708,Historical
+Saint Vincent and the Grenadines,2011,0.033284,Historical
+Saint Vincent and the Grenadines,2012,0.040582,Historical
+Saint Vincent and the Grenadines,2013,0.033394,Historical
+Saint Vincent and the Grenadines,2014,0.034582,Historical
+Saint Vincent and the Grenadines,2015,0.035597,Historical
+Saint Vincent and the Grenadines,2016,0.035700,Historical
+Saint Vincent and the Grenadines,2017,0.041268,Historical
+Saint Vincent and the Grenadines,2018,0.038078,Historical
+Saint Vincent and the Grenadines,2019,0.032914,Historical
+Saint Vincent and the Grenadines,2020,0.029661,Historical
+Saint Vincent and the Grenadines,2021,0.031828,Forecast
+Saint Vincent and the Grenadines,2022,0.032872,Forecast
+Saint Vincent and the Grenadines,2023,0.033375,Forecast
+Saint Vincent and the Grenadines,2024,0.033617,Forecast
+Saint Vincent and the Grenadines,2025,0.033734,Forecast
+Samoa,2000,0.019236,Historical
+Samoa,2001,0.020385,Historical
+Samoa,2002,0.021397,Historical
+Samoa,2003,0.021492,Historical
+Samoa,2004,0.021421,Historical
+Samoa,2005,0.021626,Historical
+Samoa,2006,0.022257,Historical
+Samoa,2007,0.023616,Historical
+Samoa,2008,0.024061,Historical
+Samoa,2009,0.024998,Historical
+Samoa,2010,0.024755,Historical
+Samoa,2011,0.024836,Historical
+Samoa,2012,0.023826,Historical
+Samoa,2013,0.022913,Historical
+Samoa,2014,0.023086,Historical
+Samoa,2015,0.026550,Historical
+Samoa,2016,0.028017,Historical
+Samoa,2017,0.027982,Historical
+Samoa,2018,0.027487,Historical
+Samoa,2019,0.029316,Historical
+Samoa,2020,0.027504,Historical
+Samoa,2021,0.027917,Forecast
+Samoa,2022,0.028330,Forecast
+Samoa,2023,0.028743,Forecast
+Samoa,2024,0.029156,Forecast
+Samoa,2025,0.029569,Forecast
+Sao Tome and Principe,2000,0.007739,Historical
+Sao Tome and Principe,2001,0.007106,Historical
+Sao Tome and Principe,2002,0.007850,Historical
+Sao Tome and Principe,2003,0.008522,Historical
+Sao Tome and Principe,2004,0.009400,Historical
+Sao Tome and Principe,2005,0.009691,Historical
+Sao Tome and Principe,2006,0.010056,Historical
+Sao Tome and Principe,2007,0.010210,Historical
+Sao Tome and Principe,2008,0.010753,Historical
+Sao Tome and Principe,2009,0.011168,Historical
+Sao Tome and Principe,2010,0.011768,Historical
+Sao Tome and Principe,2011,0.011924,Historical
+Sao Tome and Principe,2012,0.012341,Historical
+Sao Tome and Principe,2013,0.012098,Historical
+Sao Tome and Principe,2014,0.011868,Historical
+Sao Tome and Principe,2015,0.012187,Historical
+Sao Tome and Principe,2016,0.012375,Historical
+Sao Tome and Principe,2017,0.012379,Historical
+Sao Tome and Principe,2018,0.011995,Historical
+Sao Tome and Principe,2019,0.013019,Historical
+Sao Tome and Principe,2020,0.012215,Historical
+Sao Tome and Principe,2021,0.012438,Forecast
+Sao Tome and Principe,2022,0.012660,Forecast
+Sao Tome and Principe,2023,0.012883,Forecast
+Sao Tome and Principe,2024,0.013106,Forecast
+Sao Tome and Principe,2025,0.013328,Forecast
+Saudi Arabia,2000,0.235926,Historical
+Saudi Arabia,2001,0.245253,Historical
+Saudi Arabia,2002,0.249366,Historical
+Saudi Arabia,2003,0.258130,Historical
+Saudi Arabia,2004,0.274003,Historical
+Saudi Arabia,2005,0.282699,Historical
+Saudi Arabia,2006,0.285089,Historical
+Saudi Arabia,2007,0.280435,Historical
+Saudi Arabia,2008,0.295429,Historical
+Saudi Arabia,2009,0.294827,Historical
+Saudi Arabia,2010,0.317371,Historical
+Saudi Arabia,2011,0.323004,Historical
+Saudi Arabia,2012,0.335365,Historical
+Saudi Arabia,2013,0.330382,Historical
+Saudi Arabia,2014,0.347536,Historical
+Saudi Arabia,2015,0.355436,Historical
+Saudi Arabia,2016,0.362390,Historical
+Saudi Arabia,2017,0.354377,Historical
+Saudi Arabia,2018,0.337313,Historical
+Saudi Arabia,2019,0.316046,Historical
+Saudi Arabia,2020,0.305843,Historical
+Saudi Arabia,2021,0.304302,Forecast
+Saudi Arabia,2022,0.304815,Forecast
+Saudi Arabia,2023,0.304443,Forecast
+Saudi Arabia,2024,0.304713,Forecast
+Saudi Arabia,2025,0.304517,Forecast
+Senegal,2000,0.007812,Historical
+Senegal,2001,0.008314,Historical
+Senegal,2002,0.008421,Historical
+Senegal,2003,0.008283,Historical
+Senegal,2004,0.008547,Historical
+Senegal,2005,0.008646,Historical
+Senegal,2006,0.008272,Historical
+Senegal,2007,0.008688,Historical
+Senegal,2008,0.008673,Historical
+Senegal,2009,0.008084,Historical
+Senegal,2010,0.008158,Historical
+Senegal,2011,0.008317,Historical
+Senegal,2012,0.007964,Historical
+Senegal,2013,0.008063,Historical
+Senegal,2014,0.008709,Historical
+Senegal,2015,0.009829,Historical
+Senegal,2016,0.009254,Historical
+Senegal,2017,0.009557,Historical
+Senegal,2018,0.009679,Historical
+Senegal,2019,0.010486,Historical
+Senegal,2020,0.009644,Historical
+Senegal,2021,0.009644,Forecast
+Senegal,2022,0.009644,Forecast
+Senegal,2023,0.009644,Forecast
+Senegal,2024,0.009644,Forecast
+Senegal,2025,0.009644,Forecast
+Serbia,2007,0.100343,Historical
+Serbia,2008,0.100430,Historical
+Serbia,2009,0.096313,Historical
+Serbia,2010,0.099823,Historical
+Serbia,2011,0.101329,Historical
+Serbia,2012,0.095807,Historical
+Serbia,2013,0.095801,Historical
+Serbia,2014,0.085590,Historical
+Serbia,2015,0.095073,Historical
+Serbia,2016,0.097740,Historical
+Serbia,2017,0.100383,Historical
+Serbia,2018,0.100849,Historical
+Serbia,2019,0.101311,Historical
+Serbia,2020,0.099823,Historical
+Serbia,2021,0.098757,Forecast
+Serbia,2022,0.098344,Forecast
+Serbia,2023,0.098183,Forecast
+Serbia,2024,0.098121,Forecast
+Serbia,2025,0.098097,Forecast
+Seychelles,2000,0.178871,Historical
+Seychelles,2001,0.189560,Historical
+Seychelles,2002,0.162723,Historical
+Seychelles,2003,0.160061,Historical
+Seychelles,2004,0.220450,Historical
+Seychelles,2005,0.198062,Historical
+Seychelles,2006,0.207520,Historical
+Seychelles,2007,0.168234,Historical
+Seychelles,2008,0.180688,Historical
+Seychelles,2009,0.193956,Historical
+Seychelles,2010,0.172787,Historical
+Seychelles,2011,0.146120,Historical
+Seychelles,2012,0.165527,Historical
+Seychelles,2013,0.147335,Historical
+Seychelles,2014,0.170040,Historical
+Seychelles,2015,0.174020,Historical
+Seychelles,2016,0.191334,Historical
+Seychelles,2017,0.196966,Historical
+Seychelles,2018,0.172544,Historical
+Seychelles,2019,0.174332,Historical
+Seychelles,2020,0.166434,Historical
+Seychelles,2021,0.177979,Forecast
+Seychelles,2022,0.177979,Forecast
+Seychelles,2023,0.177979,Forecast
+Seychelles,2024,0.177979,Forecast
+Seychelles,2025,0.177979,Forecast
+Sierra Leone,2000,0.001559,Historical
+Sierra Leone,2001,0.001846,Historical
+Sierra Leone,2002,0.001755,Historical
+Sierra Leone,2003,0.001732,Historical
+Sierra Leone,2004,0.001671,Historical
+Sierra Leone,2005,0.001474,Historical
+Sierra Leone,2006,0.001744,Historical
+Sierra Leone,2007,0.001611,Historical
+Sierra Leone,2008,0.001546,Historical
+Sierra Leone,2009,0.001510,Historical
+Sierra Leone,2010,0.001745,Historical
+Sierra Leone,2011,0.002150,Historical
+Sierra Leone,2012,0.002326,Historical
+Sierra Leone,2013,0.002638,Historical
+Sierra Leone,2014,0.002830,Historical
+Sierra Leone,2015,0.002257,Historical
+Sierra Leone,2016,0.002253,Historical
+Sierra Leone,2017,0.002185,Historical
+Sierra Leone,2018,0.002164,Historical
+Sierra Leone,2019,0.001954,Historical
+Sierra Leone,2020,0.001830,Historical
+Sierra Leone,2021,0.001838,Forecast
+Sierra Leone,2022,0.001845,Forecast
+Sierra Leone,2023,0.001850,Forecast
+Sierra Leone,2024,0.001855,Forecast
+Sierra Leone,2025,0.001858,Forecast
+Singapore,2000,0.416203,Historical
+Singapore,2001,0.462685,Historical
+Singapore,2002,0.439692,Historical
+Singapore,2003,0.409331,Historical
+Singapore,2004,0.454185,Historical
+Singapore,2005,0.470519,Historical
+Singapore,2006,0.501633,Historical
+Singapore,2007,0.518908,Historical
+Singapore,2008,0.533369,Historical
+Singapore,2009,0.553549,Historical
+Singapore,2010,0.570340,Historical
+Singapore,2011,0.578706,Historical
+Singapore,2012,0.569249,Historical
+Singapore,2013,0.564833,Historical
+Singapore,2014,0.566263,Historical
+Singapore,2015,0.592069,Historical
+Singapore,2016,0.617887,Historical
+Singapore,2017,0.627610,Historical
+Singapore,2018,0.622756,Historical
+Singapore,2019,0.604214,Historical
+Singapore,2020,0.587451,Historical
+Singapore,2021,0.596014,Forecast
+Singapore,2022,0.604576,Forecast
+Singapore,2023,0.613138,Forecast
+Singapore,2024,0.621701,Forecast
+Singapore,2025,0.630263,Forecast
+Slovakia,2000,0.154583,Historical
+Slovakia,2001,0.159060,Historical
+Slovakia,2002,0.160421,Historical
+Slovakia,2003,0.155809,Historical
+Slovakia,2004,0.152364,Historical
+Slovakia,2005,0.160277,Historical
+Slovakia,2006,0.155935,Historical
+Slovakia,2007,0.146308,Historical
+Slovakia,2008,0.150168,Historical
+Slovakia,2009,0.135908,Historical
+Slovakia,2010,0.145022,Historical
+Slovakia,2011,0.139350,Historical
+Slovakia,2012,0.133690,Historical
+Slovakia,2013,0.136856,Historical
+Slovakia,2014,0.127271,Historical
+Slovakia,2015,0.128470,Historical
+Slovakia,2016,0.129540,Historical
+Slovakia,2017,0.136241,Historical
+Slovakia,2018,0.133751,Historical
+Slovakia,2019,0.129073,Historical
+Slovakia,2020,0.126410,Historical
+Slovakia,2021,0.125445,Forecast
+Slovakia,2022,0.123843,Forecast
+Slovakia,2023,0.122240,Forecast
+Slovakia,2024,0.120638,Forecast
+Slovakia,2025,0.119035,Forecast
+Slovenia,2000,0.150897,Historical
+Slovenia,2001,0.157890,Historical
+Slovenia,2002,0.156986,Historical
+Slovenia,2003,0.153549,Historical
+Slovenia,2004,0.162461,Historical
+Slovenia,2005,0.161821,Historical
+Slovenia,2006,0.162565,Historical
+Slovenia,2007,0.160873,Historical
+Slovenia,2008,0.175324,Historical
+Slovenia,2009,0.161051,Historical
+Slovenia,2010,0.160418,Historical
+Slovenia,2011,0.155128,Historical
+Slovenia,2012,0.150461,Historical
+Slovenia,2013,0.148634,Historical
+Slovenia,2014,0.152285,Historical
+Slovenia,2015,0.136945,Historical
+Slovenia,2016,0.145730,Historical
+Slovenia,2017,0.146711,Historical
+Slovenia,2018,0.149154,Historical
+Slovenia,2019,0.144356,Historical
+Slovenia,2020,0.139165,Historical
+Slovenia,2021,0.141312,Forecast
+Slovenia,2022,0.140424,Forecast
+Slovenia,2023,0.140791,Forecast
+Slovenia,2024,0.140640,Forecast
+Slovenia,2025,0.140702,Forecast
+Solomon Islands,2000,0.009355,Historical
+Solomon Islands,2001,0.009554,Historical
+Solomon Islands,2002,0.009645,Historical
+Solomon Islands,2003,0.009852,Historical
+Solomon Islands,2004,0.010244,Historical
+Solomon Islands,2005,0.010267,Historical
+Solomon Islands,2006,0.010414,Historical
+Solomon Islands,2007,0.010855,Historical
+Solomon Islands,2008,0.010773,Historical
+Solomon Islands,2009,0.010899,Historical
+Solomon Islands,2010,0.010969,Historical
+Solomon Islands,2011,0.011114,Historical
+Solomon Islands,2012,0.010870,Historical
+Solomon Islands,2013,0.010556,Historical
+Solomon Islands,2014,0.009688,Historical
+Solomon Islands,2015,0.008630,Historical
+Solomon Islands,2016,0.008091,Historical
+Solomon Islands,2017,0.007851,Historical
+Solomon Islands,2018,0.008026,Historical
+Solomon Islands,2019,0.007721,Historical
+Solomon Islands,2020,0.007149,Historical
+Solomon Islands,2021,0.006774,Forecast
+Solomon Islands,2022,0.006553,Forecast
+Solomon Islands,2023,0.006450,Forecast
+Solomon Islands,2024,0.006437,Forecast
+Solomon Islands,2025,0.006489,Forecast
+Somalia,2000,0.001295,Historical
+Somalia,2001,0.001266,Historical
+Somalia,2002,0.001319,Historical
+Somalia,2003,0.001272,Historical
+Somalia,2004,0.001228,Historical
+Somalia,2005,0.001198,Historical
+Somalia,2006,0.001172,Historical
+Somalia,2007,0.001153,Historical
+Somalia,2008,0.001108,Historical
+Somalia,2009,0.001079,Historical
+Somalia,2010,0.001078,Historical
+Somalia,2011,0.001061,Historical
+Somalia,2012,0.001046,Historical
+Somalia,2013,0.001012,Historical
+Somalia,2014,0.000978,Historical
+Somalia,2015,0.000981,Historical
+Somalia,2016,0.000966,Historical
+Somalia,2017,0.000929,Historical
+Somalia,2018,0.000900,Historical
+Somalia,2019,0.000867,Historical
+Somalia,2020,0.000808,Historical
+Somalia,2021,0.000783,Forecast
+Somalia,2022,0.000759,Forecast
+Somalia,2023,0.000735,Forecast
+Somalia,2024,0.000710,Forecast
+Somalia,2025,0.000686,Forecast
+South Africa,2000,0.096431,Historical
+South Africa,2001,0.096077,Historical
+South Africa,2002,0.092777,Historical
+South Africa,2003,0.099589,Historical
+South Africa,2004,0.107667,Historical
+South Africa,2005,0.100952,Historical
+South Africa,2006,0.102037,Historical
+South Africa,2007,0.103760,Historical
+South Africa,2008,0.109935,Historical
+South Africa,2009,0.108152,Historical
+South Africa,2010,0.107575,Historical
+South Africa,2011,0.104929,Historical
+South Africa,2012,0.101948,Historical
+South Africa,2013,0.101015,Historical
+South Africa,2014,0.100584,Historical
+South Africa,2015,0.096550,Historical
+South Africa,2016,0.099916,Historical
+South Africa,2017,0.099143,Historical
+South Africa,2018,0.094225,Historical
+South Africa,2019,0.097154,Historical
+South Africa,2020,0.089757,Historical
+South Africa,2021,0.092249,Forecast
+South Africa,2022,0.094066,Forecast
+South Africa,2023,0.095391,Forecast
+South Africa,2024,0.096357,Forecast
+South Africa,2025,0.097062,Forecast
+South Sudan,2013,0.002165,Historical
+South Sudan,2014,0.002218,Historical
+South Sudan,2015,0.002723,Historical
+South Sudan,2016,0.002660,Historical
+South Sudan,2017,0.002420,Historical
+South Sudan,2018,0.002558,Historical
+South Sudan,2019,0.002847,Historical
+South Sudan,2020,0.002678,Historical
+South Sudan,2021,0.002534,Forecast
+South Sudan,2022,0.002534,Forecast
+South Sudan,2023,0.002534,Forecast
+South Sudan,2024,0.002534,Forecast
+South Sudan,2025,0.002534,Forecast
+Spain,2000,0.142794,Historical
+Spain,2001,0.148538,Historical
+Spain,2002,0.148288,Historical
+Spain,2003,0.153924,Historical
+Spain,2004,0.156847,Historical
+Spain,2005,0.155298,Historical
+Spain,2006,0.154928,Historical
+Spain,2007,0.155445,Historical
+Spain,2008,0.148781,Historical
+Spain,2009,0.136734,Historical
+Spain,2010,0.139818,Historical
+Spain,2011,0.136721,Historical
+Spain,2012,0.135885,Historical
+Spain,2013,0.129512,Historical
+Spain,2014,0.127495,Historical
+Spain,2015,0.129178,Historical
+Spain,2016,0.130291,Historical
+Spain,2017,0.131464,Historical
+Spain,2018,0.133238,Historical
+Spain,2019,0.128586,Historical
+Spain,2020,0.115739,Historical
+Spain,2021,0.115739,Forecast
+Spain,2022,0.115739,Forecast
+Spain,2023,0.115739,Forecast
+Spain,2024,0.115739,Forecast
+Spain,2025,0.115739,Forecast
+Sri Lanka,2000,0.010860,Historical
+Sri Lanka,2001,0.010473,Historical
+Sri Lanka,2002,0.010663,Historical
+Sri Lanka,2003,0.010863,Historical
+Sri Lanka,2004,0.010455,Historical
+Sri Lanka,2005,0.011960,Historical
+Sri Lanka,2006,0.012713,Historical
+Sri Lanka,2007,0.012791,Historical
+Sri Lanka,2008,0.011935,Historical
+Sri Lanka,2009,0.011985,Historical
+Sri Lanka,2010,0.012827,Historical
+Sri Lanka,2011,0.013798,Historical
+Sri Lanka,2012,0.014125,Historical
+Sri Lanka,2013,0.014276,Historical
+Sri Lanka,2014,0.015263,Historical
+Sri Lanka,2015,0.017049,Historical
+Sri Lanka,2016,0.018577,Historical
+Sri Lanka,2017,0.017999,Historical
+Sri Lanka,2018,0.018572,Historical
+Sri Lanka,2019,0.018941,Historical
+Sri Lanka,2020,0.018482,Historical
+Sri Lanka,2021,0.018863,Forecast
+Sri Lanka,2022,0.019244,Forecast
+Sri Lanka,2023,0.019625,Forecast
+Sri Lanka,2024,0.020006,Forecast
+Sri Lanka,2025,0.020387,Forecast
+Sudan,2000,0.004503,Historical
+Sudan,2001,0.004722,Historical
+Sudan,2002,0.005464,Historical
+Sudan,2003,0.005542,Historical
+Sudan,2004,0.005941,Historical
+Sudan,2005,0.006732,Historical
+Sudan,2006,0.007816,Historical
+Sudan,2007,0.008068,Historical
+Sudan,2008,0.008554,Historical
+Sudan,2009,0.008968,Historical
+Sudan,2010,0.009918,Historical
+Sudan,2011,0.009378,Historical
+Sudan,2012,0.008859,Historical
+Sudan,2013,0.009083,Historical
+Sudan,2014,0.009059,Historical
+Sudan,2015,0.009080,Historical
+Sudan,2016,0.010222,Historical
+Sudan,2017,0.010109,Historical
+Sudan,2018,0.009729,Historical
+Sudan,2019,0.009366,Historical
+Sudan,2020,0.009057,Historical
+Sudan,2021,0.009285,Forecast
+Sudan,2022,0.009512,Forecast
+Sudan,2023,0.009740,Forecast
+Sudan,2024,0.009968,Forecast
+Sudan,2025,0.010195,Forecast
+Suriname,2000,0.066488,Historical
+Suriname,2001,0.064511,Historical
+Suriname,2002,0.070364,Historical
+Suriname,2003,0.061334,Historical
+Suriname,2004,0.068589,Historical
+Suriname,2005,0.069036,Historical
+Suriname,2006,0.074404,Historical
+Suriname,2007,0.068777,Historical
+Suriname,2008,0.080459,Historical
+Suriname,2009,0.080911,Historical
+Suriname,2010,0.096101,Historical
+Suriname,2011,0.077330,Historical
+Suriname,2012,0.083310,Historical
+Suriname,2013,0.079367,Historical
+Suriname,2014,0.076477,Historical
+Suriname,2015,0.069667,Historical
+Suriname,2016,0.071653,Historical
+Suriname,2017,0.082635,Historical
+Suriname,2018,0.082597,Historical
+Suriname,2019,0.082371,Historical
+Suriname,2020,0.077522,Historical
+Suriname,2021,0.077703,Forecast
+Suriname,2022,0.075799,Forecast
+Suriname,2023,0.075020,Forecast
+Suriname,2024,0.075020,Forecast
+Suriname,2025,0.075020,Forecast
+Sweden,2000,0.274520,Historical
+Sweden,2001,0.293597,Historical
+Sweden,2002,0.273914,Historical
+Sweden,2003,0.261427,Historical
+Sweden,2004,0.280259,Historical
+Sweden,2005,0.286085,Historical
+Sweden,2006,0.267591,Historical
+Sweden,2007,0.269895,Historical
+Sweden,2008,0.264179,Historical
+Sweden,2009,0.240233,Historical
+Sweden,2010,0.253197,Historical
+Sweden,2011,0.247272,Historical
+Sweden,2012,0.260015,Historical
+Sweden,2013,0.241261,Historical
+Sweden,2014,0.237720,Historical
+Sweden,2015,0.243263,Historical
+Sweden,2016,0.236422,Historical
+Sweden,2017,0.241512,Historical
+Sweden,2018,0.234160,Historical
+Sweden,2019,0.241001,Historical
+Sweden,2020,0.226195,Historical
+Sweden,2021,0.224231,Forecast
+Sweden,2022,0.225283,Forecast
+Sweden,2023,0.221868,Forecast
+Sweden,2024,0.218094,Forecast
+Sweden,2025,0.215782,Forecast
+Switzerland,2000,0.193189,Historical
+Switzerland,2001,0.205124,Historical
+Switzerland,2002,0.189587,Historical
+Switzerland,2003,0.186166,Historical
+Switzerland,2004,0.182212,Historical
+Switzerland,2005,0.173682,Historical
+Switzerland,2006,0.179607,Historical
+Switzerland,2007,0.176022,Historical
+Switzerland,2008,0.179582,Historical
+Switzerland,2009,0.176842,Historical
+Switzerland,2010,0.170287,Historical
+Switzerland,2011,0.159838,Historical
+Switzerland,2012,0.167144,Historical
+Switzerland,2013,0.169522,Historical
+Switzerland,2014,0.159874,Historical
+Switzerland,2015,0.154551,Historical
+Switzerland,2016,0.143782,Historical
+Switzerland,2017,0.142769,Historical
+Switzerland,2018,0.143930,Historical
+Switzerland,2019,0.149119,Historical
+Switzerland,2020,0.136208,Historical
+Switzerland,2021,0.136900,Forecast
+Switzerland,2022,0.134029,Forecast
+Switzerland,2023,0.131159,Forecast
+Switzerland,2024,0.128288,Forecast
+Switzerland,2025,0.125417,Forecast
+Tajikistan,2000,0.035703,Historical
+Tajikistan,2001,0.036580,Historical
+Tajikistan,2002,0.036870,Historical
+Tajikistan,2003,0.038016,Historical
+Tajikistan,2004,0.037988,Historical
+Tajikistan,2005,0.038120,Historical
+Tajikistan,2006,0.036608,Historical
+Tajikistan,2007,0.033892,Historical
+Tajikistan,2008,0.032059,Historical
+Tajikistan,2009,0.028225,Historical
+Tajikistan,2010,0.028579,Historical
+Tajikistan,2011,0.027633,Historical
+Tajikistan,2012,0.028565,Historical
+Tajikistan,2013,0.028939,Historical
+Tajikistan,2014,0.028890,Historical
+Tajikistan,2015,0.028256,Historical
+Tajikistan,2016,0.028417,Historical
+Tajikistan,2017,0.028337,Historical
+Tajikistan,2018,0.029559,Historical
+Tajikistan,2019,0.030625,Historical
+Tajikistan,2020,0.029778,Historical
+Tajikistan,2021,0.029778,Forecast
+Tajikistan,2022,0.029778,Forecast
+Tajikistan,2023,0.029778,Forecast
+Tajikistan,2024,0.029778,Forecast
+Tajikistan,2025,0.029778,Forecast
+Thailand,2000,0.044803,Historical
+Thailand,2001,0.046817,Historical
+Thailand,2002,0.050300,Historical
+Thailand,2003,0.053623,Historical
+Thailand,2004,0.057740,Historical
+Thailand,2005,0.059109,Historical
+Thailand,2006,0.059919,Historical
+Thailand,2007,0.061503,Historical
+Thailand,2008,0.061037,Historical
+Thailand,2009,0.062243,Historical
+Thailand,2010,0.065881,Historical
+Thailand,2011,0.067194,Historical
+Thailand,2012,0.071662,Historical
+Thailand,2013,0.071630,Historical
+Thailand,2014,0.073540,Historical
+Thailand,2015,0.074878,Historical
+Thailand,2016,0.076095,Historical
+Thailand,2017,0.077173,Historical
+Thailand,2018,0.079342,Historical
+Thailand,2019,0.079183,Historical
+Thailand,2020,0.073493,Historical
+Thailand,2021,0.074927,Forecast
+Thailand,2022,0.076361,Forecast
+Thailand,2023,0.077796,Forecast
+Thailand,2024,0.079230,Forecast
+Thailand,2025,0.080665,Forecast
+Togo,2000,0.003498,Historical
+Togo,2001,0.003010,Historical
+Togo,2002,0.003217,Historical
+Togo,2003,0.003908,Historical
+Togo,2004,0.003746,Historical
+Togo,2005,0.003560,Historical
+Togo,2006,0.003017,Historical
+Togo,2007,0.003579,Historical
+Togo,2008,0.004148,Historical
+Togo,2009,0.007153,Historical
+Togo,2010,0.006651,Historical
+Togo,2011,0.005992,Historical
+Togo,2012,0.005182,Historical
+Togo,2013,0.005144,Historical
+Togo,2014,0.004352,Historical
+Togo,2015,0.003307,Historical
+Togo,2016,0.004321,Historical
+Togo,2017,0.004084,Historical
+Togo,2018,0.004773,Historical
+Togo,2019,0.004966,Historical
+Togo,2020,0.004389,Historical
+Togo,2021,0.004363,Forecast
+Togo,2022,0.004345,Forecast
+Togo,2023,0.004333,Forecast
+Togo,2024,0.004324,Forecast
+Togo,2025,0.004318,Forecast
+Tonga,2000,0.016261,Historical
+Tonga,2001,0.014560,Historical
+Tonga,2002,0.015697,Historical
+Tonga,2003,0.019228,Historical
+Tonga,2004,0.017701,Historical
+Tonga,2005,0.018744,Historical
+Tonga,2006,0.020974,Historical
+Tonga,2007,0.017881,Historical
+Tonga,2008,0.019256,Historical
+Tonga,2009,0.020859,Historical
+Tonga,2010,0.018942,Historical
+Tonga,2011,0.017888,Historical
+Tonga,2012,0.018248,Historical
+Tonga,2013,0.017979,Historical
+Tonga,2014,0.019593,Historical
+Tonga,2015,0.020581,Historical
+Tonga,2016,0.021854,Historical
+Tonga,2017,0.026015,Historical
+Tonga,2018,0.022772,Historical
+Tonga,2019,0.026137,Historical
+Tonga,2020,0.024914,Historical
+Tonga,2021,0.025650,Forecast
+Tonga,2022,0.026126,Forecast
+Tonga,2023,0.026601,Forecast
+Tonga,2024,0.027076,Forecast
+Tonga,2025,0.027552,Forecast
+Trinidad and Tobago,2000,0.339710,Historical
+Trinidad and Tobago,2001,0.364796,Historical
+Trinidad and Tobago,2002,0.393685,Historical
+Trinidad and Tobago,2003,0.438892,Historical
+Trinidad and Tobago,2004,0.479960,Historical
+Trinidad and Tobago,2005,0.511657,Historical
+Trinidad and Tobago,2006,0.594197,Historical
+Trinidad and Tobago,2007,0.609214,Historical
+Trinidad and Tobago,2008,0.596830,Historical
+Trinidad and Tobago,2009,0.588340,Historical
+Trinidad and Tobago,2010,0.631532,Historical
+Trinidad and Tobago,2011,0.615952,Historical
+Trinidad and Tobago,2012,0.601979,Historical
+Trinidad and Tobago,2013,0.608743,Historical
+Trinidad and Tobago,2014,0.601468,Historical
+Trinidad and Tobago,2015,0.579789,Historical
+Trinidad and Tobago,2016,0.511200,Historical
+Trinidad and Tobago,2017,0.539033,Historical
+Trinidad and Tobago,2018,0.501362,Historical
+Trinidad and Tobago,2019,0.471134,Historical
+Trinidad and Tobago,2020,0.414322,Historical
+Trinidad and Tobago,2021,0.377092,Forecast
+Trinidad and Tobago,2022,0.331643,Forecast
+Trinidad and Tobago,2023,0.284853,Forecast
+Trinidad and Tobago,2024,0.235588,Forecast
+Trinidad and Tobago,2025,0.184589,Forecast
+Tunisia,2000,0.034289,Historical
+Tunisia,2001,0.037674,Historical
+Tunisia,2002,0.036923,Historical
+Tunisia,2003,0.036042,Historical
+Tunisia,2004,0.036396,Historical
+Tunisia,2005,0.039136,Historical
+Tunisia,2006,0.036575,Historical
+Tunisia,2007,0.032292,Historical
+Tunisia,2008,0.036998,Historical
+Tunisia,2009,0.030561,Historical
+Tunisia,2010,0.031040,Historical
+Tunisia,2011,0.029243,Historical
+Tunisia,2012,0.031731,Historical
+Tunisia,2013,0.033231,Historical
+Tunisia,2014,0.036207,Historical
+Tunisia,2015,0.036977,Historical
+Tunisia,2016,0.036505,Historical
+Tunisia,2017,0.038234,Historical
+Tunisia,2018,0.038877,Historical
+Tunisia,2019,0.038571,Historical
+Tunisia,2020,0.035382,Historical
+Tunisia,2021,0.035348,Forecast
+Tunisia,2022,0.035328,Forecast
+Tunisia,2023,0.035317,Forecast
+Tunisia,2024,0.035311,Forecast
+Tunisia,2025,0.035307,Forecast
+Turkey,2000,0.051361,Historical
+Turkey,2001,0.045978,Historical
+Turkey,2002,0.049610,Historical
+Turkey,2003,0.051843,Historical
+Turkey,2004,0.054765,Historical
+Turkey,2005,0.055250,Historical
+Turkey,2006,0.060506,Historical
+Turkey,2007,0.063465,Historical
+Turkey,2008,0.062920,Historical
+Turkey,2009,0.062971,Historical
+Turkey,2010,0.065547,Historical
+Turkey,2011,0.069106,Historical
+Turkey,2012,0.072313,Historical
+Turkey,2013,0.070576,Historical
+Turkey,2014,0.071286,Historical
+Turkey,2015,0.076826,Historical
+Turkey,2016,0.079305,Historical
+Turkey,2017,0.082920,Historical
+Turkey,2018,0.081289,Historical
+Turkey,2019,0.083680,Historical
+Turkey,2020,0.081631,Historical
+Turkey,2021,0.083144,Forecast
+Turkey,2022,0.084657,Forecast
+Turkey,2023,0.086170,Forecast
+Turkey,2024,0.087684,Forecast
+Turkey,2025,0.089197,Forecast
+Turkmenistan,2000,0.099868,Historical
+Turkmenistan,2001,0.124259,Historical
+Turkmenistan,2002,0.103385,Historical
+Turkmenistan,2003,0.140935,Historical
+Turkmenistan,2004,0.137805,Historical
+Turkmenistan,2005,0.137653,Historical
+Turkmenistan,2006,0.137189,Historical
+Turkmenistan,2007,0.131244,Historical
+Turkmenistan,2008,0.106074,Historical
+Turkmenistan,2009,0.170239,Historical
+Turkmenistan,2010,0.180414,Historical
+Turkmenistan,2011,0.196777,Historical
+Turkmenistan,2012,0.210668,Historical
+Turkmenistan,2013,0.183729,Historical
+Turkmenistan,2014,0.186971,Historical
+Turkmenistan,2015,0.219804,Historical
+Turkmenistan,2016,0.213849,Historical
+Turkmenistan,2017,0.208029,Historical
+Turkmenistan,2018,0.227925,Historical
+Turkmenistan,2019,0.220732,Historical
+Turkmenistan,2020,0.257542,Historical
+Turkmenistan,2021,0.251304,Forecast
+Turkmenistan,2022,0.256283,Forecast
+Turkmenistan,2023,0.262976,Forecast
+Turkmenistan,2024,0.269932,Forecast
+Turkmenistan,2025,0.276927,Forecast
+Tuvalu,2000,0.000000,Historical
+Tuvalu,2001,0.000000,Historical
+Tuvalu,2002,0.000000,Historical
+Tuvalu,2003,0.000000,Historical
+Tuvalu,2004,0.000000,Historical
+Tuvalu,2005,0.000000,Historical
+Tuvalu,2006,0.000000,Historical
+Tuvalu,2007,0.000000,Historical
+Tuvalu,2008,0.000000,Historical
+Tuvalu,2009,0.000000,Historical
+Tuvalu,2010,0.000000,Historical
+Tuvalu,2011,0.000000,Historical
+Tuvalu,2012,0.000000,Historical
+Tuvalu,2013,0.000000,Historical
+Tuvalu,2014,0.000000,Historical
+Tuvalu,2015,0.000000,Historical
+Tuvalu,2016,0.000000,Historical
+Tuvalu,2017,0.000000,Historical
+Tuvalu,2018,0.000000,Historical
+Tuvalu,2019,0.000000,Historical
+Tuvalu,2020,0.000000,Historical
+Tuvalu,2021,0.000000,Forecast
+Tuvalu,2022,0.000000,Forecast
+Tuvalu,2023,0.000000,Forecast
+Tuvalu,2024,0.000000,Forecast
+Tuvalu,2025,0.000000,Forecast
+Uganda,2000,0.001641,Historical
+Uganda,2001,0.001623,Historical
+Uganda,2002,0.001613,Historical
+Uganda,2003,0.001648,Historical
+Uganda,2004,0.001705,Historical
+Uganda,2005,0.001879,Historical
+Uganda,2006,0.001774,Historical
+Uganda,2007,0.002078,Historical
+Uganda,2008,0.002122,Historical
+Uganda,2009,0.002105,Historical
+Uganda,2010,0.002302,Historical
+Uganda,2011,0.002339,Historical
+Uganda,2012,0.002200,Historical
+Uganda,2013,0.002481,Historical
+Uganda,2014,0.002776,Historical
+Uganda,2015,0.002695,Historical
+Uganda,2016,0.002914,Historical
+Uganda,2017,0.003065,Historical
+Uganda,2018,0.003204,Historical
+Uganda,2019,0.003091,Historical
+Uganda,2020,0.002919,Historical
+Uganda,2021,0.002982,Forecast
+Uganda,2022,0.003046,Forecast
+Uganda,2023,0.003109,Forecast
+Uganda,2024,0.003173,Forecast
+Uganda,2025,0.003236,Forecast
+Ukraine,2000,0.123525,Historical
+Ukraine,2001,0.122938,Historical
+Ukraine,2002,0.123293,Historical
+Ukraine,2003,0.127348,Historical
+Ukraine,2004,0.127787,Historical
+Ukraine,2005,0.130331,Historical
+Ukraine,2006,0.132774,Historical
+Ukraine,2007,0.133037,Historical
+Ukraine,2008,0.129144,Historical
+Ukraine,2009,0.110482,Historical
+Ukraine,2010,0.118952,Historical
+Ukraine,2011,0.123390,Historical
+Ukraine,2012,0.121025,Historical
+Ukraine,2013,0.115119,Historical
+Ukraine,2014,0.101927,Historical
+Ukraine,2015,0.084950,Historical
+Ukraine,2016,0.089189,Historical
+Ukraine,2017,0.083174,Historical
+Ukraine,2018,0.086709,Historical
+Ukraine,2019,0.082492,Historical
+Ukraine,2020,0.079657,Historical
+Ukraine,2021,0.079657,Forecast
+Ukraine,2022,0.079657,Forecast
+Ukraine,2023,0.079657,Forecast
+Ukraine,2024,0.079657,Forecast
+Ukraine,2025,0.079657,Forecast
+United Arab Emirates,2000,0.622961,Historical
+United Arab Emirates,2001,0.597080,Historical
+United Arab Emirates,2002,0.620127,Historical
+United Arab Emirates,2003,0.630299,Historical
+United Arab Emirates,2004,0.643780,Historical
+United Arab Emirates,2005,0.626795,Historical
+United Arab Emirates,2006,0.576256,Historical
+United Arab Emirates,2007,0.530689,Historical
+United Arab Emirates,2008,0.511354,Historical
+United Arab Emirates,2009,0.441011,Historical
+United Arab Emirates,2010,0.436645,Historical
+United Arab Emirates,2011,0.453399,Historical
+United Arab Emirates,2012,0.472070,Historical
+United Arab Emirates,2013,0.493120,Historical
+United Arab Emirates,2014,0.487406,Historical
+United Arab Emirates,2015,0.525148,Historical
+United Arab Emirates,2016,0.541215,Historical
+United Arab Emirates,2017,0.516408,Historical
+United Arab Emirates,2018,0.505698,Historical
+United Arab Emirates,2019,0.513655,Historical
+United Arab Emirates,2020,0.480124,Historical
+United Arab Emirates,2021,0.473472,Forecast
+United Arab Emirates,2022,0.478486,Forecast
+United Arab Emirates,2023,0.487623,Forecast
+United Arab Emirates,2024,0.497342,Forecast
+United Arab Emirates,2025,0.506142,Forecast
+United Kingdom,2000,0.172422,Historical
+United Kingdom,2001,0.173502,Historical
+United Kingdom,2002,0.168832,Historical
+United Kingdom,2003,0.170423,Historical
+United Kingdom,2004,0.170827,Historical
+United Kingdom,2005,0.171134,Historical
+United Kingdom,2006,0.167785,Historical
+United Kingdom,2007,0.161917,Historical
+United Kingdom,2008,0.157860,Historical
+United Kingdom,2009,0.148677,Historical
+United Kingdom,2010,0.150579,Historical
+United Kingdom,2011,0.140933,Historical
+United Kingdom,2012,0.142022,Historical
+United Kingdom,2013,0.140457,Historical
+United Kingdom,2014,0.131705,Historical
+United Kingdom,2015,0.132872,Historical
+United Kingdom,2016,0.130611,Historical
+United Kingdom,2017,0.129858,Historical
+United Kingdom,2018,0.128611,Historical
+United Kingdom,2019,0.125269,Historical
+United Kingdom,2020,0.112061,Historical
+United Kingdom,2021,0.109043,Forecast
+United Kingdom,2022,0.106024,Forecast
+United Kingdom,2023,0.103006,Forecast
+United Kingdom,2024,0.099988,Forecast
+United Kingdom,2025,0.096970,Forecast
+United States,2000,0.357978,Historical
+United States,2001,0.345686,Historical
+United States,2002,0.347319,Historical
+United States,2003,0.345103,Historical
+United States,2004,0.348475,Historical
+United States,2005,0.345238,Historical
+United States,2006,0.339192,Historical
+United States,2007,0.340442,Historical
+United States,2008,0.328954,Historical
+United States,2009,0.309903,Historical
+United States,2010,0.317601,Historical
+United States,2011,0.312136,Historical
+United States,2012,0.301244,Historical
+United States,2013,0.306782,Historical
+United States,2014,0.307424,Historical
+United States,2015,0.302063,Historical
+United States,2016,0.299382,Historical
+United States,2017,0.298147,Historical
+United States,2018,0.306884,Historical
+United States,2019,0.302716,Historical
+United States,2020,0.278904,Historical
+United States,2021,0.274950,Forecast
+United States,2022,0.270996,Forecast
+United States,2023,0.267042,Forecast
+United States,2024,0.263089,Forecast
+United States,2025,0.259135,Forecast
+Uruguay,2000,0.055606,Historical
+Uruguay,2001,0.060729,Historical
+Uruguay,2002,0.053841,Historical
+Uruguay,2003,0.054006,Historical
+Uruguay,2004,0.051897,Historical
+Uruguay,2005,0.055968,Historical
+Uruguay,2006,0.050945,Historical
+Uruguay,2007,0.060184,Historical
+Uruguay,2008,0.063789,Historical
+Uruguay,2009,0.067239,Historical
+Uruguay,2010,0.069663,Historical
+Uruguay,2011,0.068021,Historical
+Uruguay,2012,0.067939,Historical
+Uruguay,2013,0.070806,Historical
+Uruguay,2014,0.072629,Historical
+Uruguay,2015,0.074629,Historical
+Uruguay,2016,0.075458,Historical
+Uruguay,2017,0.072678,Historical
+Uruguay,2018,0.074409,Historical
+Uruguay,2019,0.076109,Historical
+Uruguay,2020,0.067145,Historical
+Uruguay,2021,0.067145,Forecast
+Uruguay,2022,0.067145,Forecast
+Uruguay,2023,0.067145,Forecast
+Uruguay,2024,0.067145,Forecast
+Uruguay,2025,0.067145,Forecast
+Uzbekistan,2000,0.091603,Historical
+Uzbekistan,2001,0.090731,Historical
+Uzbekistan,2002,0.091823,Historical
+Uzbekistan,2003,0.083123,Historical
+Uzbekistan,2004,0.081823,Historical
+Uzbekistan,2005,0.080625,Historical
+Uzbekistan,2006,0.074513,Historical
+Uzbekistan,2007,0.078691,Historical
+Uzbekistan,2008,0.072683,Historical
+Uzbekistan,2009,0.070998,Historical
+Uzbekistan,2010,0.070696,Historical
+Uzbekistan,2011,0.073257,Historical
+Uzbekistan,2012,0.070099,Historical
+Uzbekistan,2013,0.069312,Historical
+Uzbekistan,2014,0.070522,Historical
+Uzbekistan,2015,0.066212,Historical
+Uzbekistan,2016,0.062358,Historical
+Uzbekistan,2017,0.063380,Historical
+Uzbekistan,2018,0.062630,Historical
+Uzbekistan,2019,0.061741,Historical
+Uzbekistan,2020,0.060402,Historical
+Uzbekistan,2021,0.058522,Forecast
+Uzbekistan,2022,0.056930,Forecast
+Uzbekistan,2023,0.055338,Forecast
+Uzbekistan,2024,0.053746,Forecast
+Uzbekistan,2025,0.052154,Forecast
+Vanuatu,2000,0.007572,Historical
+Vanuatu,2001,0.008221,Historical
+Vanuatu,2002,0.007648,Historical
+Vanuatu,2003,0.008752,Historical
+Vanuatu,2004,0.006873,Historical
+Vanuatu,2005,0.006708,Historical
+Vanuatu,2006,0.006075,Historical
+Vanuatu,2007,0.009615,Historical
+Vanuatu,2008,0.009253,Historical
+Vanuatu,2009,0.010438,Historical
+Vanuatu,2010,0.010536,Historical
+Vanuatu,2011,0.011904,Historical
+Vanuatu,2012,0.009754,Historical
+Vanuatu,2013,0.009226,Historical
+Vanuatu,2014,0.010286,Historical
+Vanuatu,2015,0.009460,Historical
+Vanuatu,2016,0.009315,Historical
+Vanuatu,2017,0.010135,Historical
+Vanuatu,2018,0.012743,Historical
+Vanuatu,2019,0.012013,Historical
+Vanuatu,2020,0.011134,Historical
+Vanuatu,2021,0.011134,Forecast
+Vanuatu,2022,0.011134,Forecast
+Vanuatu,2023,0.011134,Forecast
+Vanuatu,2024,0.011134,Forecast
+Vanuatu,2025,0.011134,Forecast
+Yemen,2000,0.012294,Historical
+Yemen,2001,0.012874,Historical
+Yemen,2002,0.012645,Historical
+Yemen,2003,0.014118,Historical
+Yemen,2004,0.014515,Historical
+Yemen,2005,0.014876,Historical
+Yemen,2006,0.014427,Historical
+Yemen,2007,0.014861,Historical
+Yemen,2008,0.015145,Historical
+Yemen,2009,0.016289,Historical
+Yemen,2010,0.015350,Historical
+Yemen,2011,0.012527,Historical
+Yemen,2012,0.010545,Historical
+Yemen,2013,0.014463,Historical
+Yemen,2014,0.013311,Historical
+Yemen,2015,0.006996,Historical
+Yemen,2016,0.005456,Historical
+Yemen,2017,0.004908,Historical
+Yemen,2018,0.004458,Historical
+Yemen,2019,0.005621,Historical
+Yemen,2020,0.004159,Historical
+Yemen,2021,0.004159,Forecast
+Yemen,2022,0.004159,Forecast
+Yemen,2023,0.004159,Forecast
+Yemen,2024,0.004159,Forecast
+Yemen,2025,0.004159,Forecast
+Zambia,2000,0.011240,Historical
+Zambia,2001,0.011416,Historical
+Zambia,2002,0.011449,Historical
+Zambia,2003,0.011501,Historical
+Zambia,2004,0.011474,Historical
+Zambia,2005,0.011684,Historical
+Zambia,2006,0.011670,Historical
+Zambia,2007,0.010638,Historical
+Zambia,2008,0.010612,Historical
+Zambia,2009,0.010415,Historical
+Zambia,2010,0.010542,Historical
+Zambia,2011,0.011418,Historical
+Zambia,2012,0.011869,Historical
+Zambia,2013,0.012181,Historical
+Zambia,2014,0.012656,Historical
+Zambia,2015,0.011863,Historical
+Zambia,2016,0.010841,Historical
+Zambia,2017,0.012194,Historical
+Zambia,2018,0.013308,Historical
+Zambia,2019,0.011363,Historical
+Zambia,2020,0.011802,Historical
+Zambia,2021,0.012288,Forecast
+Zambia,2022,0.011501,Forecast
+Zambia,2023,0.011561,Forecast
+Zambia,2024,0.011561,Forecast
+Zambia,2025,0.011561,Forecast
+Zimbabwe,2000,0.018735,Historical
+Zimbabwe,2001,0.017575,Historical
+Zimbabwe,2002,0.017370,Historical
+Zimbabwe,2003,0.016746,Historical
+Zimbabwe,2004,0.015405,Historical
+Zimbabwe,2005,0.015844,Historical
+Zimbabwe,2006,0.015838,Historical
+Zimbabwe,2007,0.015373,Historical
+Zimbabwe,2008,0.012662,Historical
+Zimbabwe,2009,0.012393,Historical
+Zimbabwe,2010,0.013682,Historical
+Zimbabwe,2011,0.014703,Historical
+Zimbabwe,2012,0.015640,Historical
+Zimbabwe,2013,0.015558,Historical
+Zimbabwe,2014,0.015008,Historical
+Zimbabwe,2015,0.014703,Historical
+Zimbabwe,2016,0.012292,Historical
+Zimbabwe,2017,0.011684,Historical
+Zimbabwe,2018,0.013108,Historical
+Zimbabwe,2019,0.011439,Historical
+Zimbabwe,2020,0.010207,Historical
+Zimbabwe,2021,0.009780,Forecast
+Zimbabwe,2022,0.009354,Forecast
+Zimbabwe,2023,0.008927,Forecast
+Zimbabwe,2024,0.008501,Forecast
+Zimbabwe,2025,0.008075,Forecast
