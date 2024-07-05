@@ -1,6 +1,6 @@
 # Proyecto final energía sostenible
 
-En este repositorio encontrarás un dataset proporcionado por Kaggle donde se encuentran diversos datos para medir las relaciones de los países con los tipos de electricidad (fósil, nuclear y renovables) en un periodo de 20 años (2000-2020). También existen diversos notebooks de Jupyter, uno donde se realizó un EDA y otro para realizar las predicciones de emisiones de Co2. Además, existe una carpeta donde el dataset proporcionado fue transformado a Base de Datos para lograr un modelo normalizado, así como otra carpeta donde se encuentra un archivo de PowerBI para realizar el análisis.
+En este repositorio encontrarás un dataset proporcionado por Kaggle donde se encuentran diversos datos para medir las relaciones de los países con los tipos de electricidad (fósil, nuclear y renovables) en un periodo de 20 años (2000-2020). También existen diversos notebooks de Jupyter, uno donde se realizó un EDA y otro para realizar las predicciones de emisiones de Co2 y del consumo de energía. Además, existe una carpeta donde el dataset proporcionado fue transformado a Base de Datos para lograr un modelo normalizado, así como otra carpeta donde se encuentra un archivo de PowerBI para realizar el análisis.
 
 ## Status
 
@@ -21,16 +21,16 @@ Librerías utilizadas en Python:
  3. "Matplotlib" y "Seaborn" para generar los gráficos.
  4. "Geopandas" para graficar los mapas.
  5. "Sklearn" para el preprocessing del modelo predicitivo.
- 6. "Sarimax" para el modelo predictivo.
+ 6. "Auto Arima" para un mejor fitting del modelo predictivo.
 
 ## Use and operation
 
-Dentro de los dos notebooks, el primero tiene un EDA con algunos gráficos, así como la creación de los `.db` para poder crear un modelo relacional e introducirlo después en PowerBI. El segundo notebook contiene el código necesario para generar las predicciones, cuyo modelo utilizado fue Sarimax. Además, existe un archivo `.pbix` donde poder visualizar los gráficos generados PowerBI.
+Dentro de los dos notebooks, el primero tiene un EDA con algunos gráficos, así como la creación de los `.db` para poder crear un modelo relacional e introducirlo después en PowerBI. El segundo notebook contiene el código necesario para generar las predicciones, cuyo modelo utilizado fue auto arima, para encontrar su mejor fitting. Además, existe un archivo `.pbix` donde poder visualizar los gráficos generados PowerBI.
 
 ## Architecture
 
 1. El dataset fue tratado y generado en `.db` para llevarlo a PowerBI.
-2. También se generó una predicción a 5 años con Python, utilizando Sarimax.
+2. También se generó una predicción a 5 años con Python, utilizando Auto arima.
 3. Los datos fueron traslados a PowerBI para su visualización. 
  
 ## Resources
