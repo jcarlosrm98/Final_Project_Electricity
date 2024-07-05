@@ -36,4 +36,4 @@ Dentro de los dos notebooks, el primero tiene un EDA con algunos gráficos, así
 ## Resources
 
 * Artículo [Naciones Unidas](https://www.un.org/es/climatechange/raising-ambition/renewable-energy).
-* Dataset original de [Kaggle](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy)-
+* Dataset original de [Kaggle](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy).
